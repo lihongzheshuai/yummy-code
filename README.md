@@ -15,3 +15,4 @@
 | BCQM3008 | 格式化输出printf | ★☆☆☆☆ | ✅ |[BCQM3008](https://www.coderli.com/gesp-1-bcqm3008/)|
 | BCQM3009 | 初识二进制 | ★☆☆☆☆ | ✅ |[BCQM3009](https://www.coderli.com/gesp-1-bcqm3009/)|
 | BCQM3010、BCQM3012、BCQM3019 | 变量值交换 | ★☆☆☆☆ | ✅ |[BCQM3010、BCQM3012、BCQM3019](https://www.coderli.com/gesp-1-bcqm3010-3012-3019/)|
+| BCQM3011 | 简单数学应用题 | ★☆☆☆☆ | ✅ |[BCQM3011](https://www.coderli.com/gesp-1-bcqm3011)|
