@@ -1,7 +1,11 @@
-#include<cstdio>
+#include <cstdio>
 int main() {
-	for(int i = 100; i<=102; i++) {
-		printf("%d\n", i);
-	}
-	return 0;
+    // 初始100开始
+    int a = 100;
+    // 循环3次，数3个数
+    for (int i = 0; i < 3; i++) {
+        printf("%d\n", a);
+        a += 1;
+    }
+    return 0;
 }
