@@ -17,6 +17,7 @@
 | BCQM3010、BCQM3012、BCQM3019 | 变量值交换 | ★☆☆☆☆ | ✅ |[BCQM3010、BCQM3012、BCQM3019](https://www.coderli.com/gesp-1-bcqm3010-3012-3019/)|
 | BCQM3011 | 简单数学应用题 | ★☆☆☆☆ | ✅ |[BCQM3011](https://www.coderli.com/gesp-1-bcqm3011)|
 | BCQM3013、BCQM3014 | 初识for循环 | ★☆☆☆☆ | ✅ |[BCQM3013、BCQM3014](https://www.coderli.com/gesp-1-bcqm3013-3014)|
+| BCQM3016 | 初识输入 | ★☆☆☆☆ | ✅ |[BCQM3016](https://www.coderli.com/gesp-1-bcqm3013-3014)|
 
 ## 联系我们
 
