@@ -22,5 +22,5 @@
 
 ## 联系我们
 
-GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
-Discord开发者联盟：[点击加入](https://discord.gg/x7fKGkE3zB)
+- GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
+- Discord开发者联盟：[点击加入](https://discord.gg/x7fKGkE3zB)
