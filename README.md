@@ -19,6 +19,7 @@
 | BCQM3013、BCQM3014 | 初识for循环 | ★☆☆☆☆ | ✅ |[BCQM3013、BCQM3014](https://www.coderli.com/gesp-1-bcqm3013-3014)|
 | BCQM3016 | 初识输入 | ★☆☆☆☆ | ✅ |[BCQM3016](https://www.coderli.com/gesp-1-bcqm3016)|
 | BCQM3017、BCQM3018 | 输入、输出 | ★☆☆☆☆ | ✅ |[BCQM3017、BCQM3018](https://www.coderli.com/gesp-1-bcqm3017-3018)|
+| BCQM3020 | 输入-计算-输出 | ★☆☆☆☆ | ✅ |[BCQM3020](https://www.coderli.com/gesp-1-bcqm3020)|
 
 ## 联系我们
 
