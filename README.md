@@ -20,6 +20,7 @@
 | BCQM3016 | 初识输入 | ★☆☆☆☆ | ✅ |[BCQM3016](https://www.coderli.com/gesp-1-bcqm3016)|
 | BCQM3017、BCQM3018 | 输入、输出 | ★☆☆☆☆ | ✅ |[BCQM3017、BCQM3018](https://www.coderli.com/gesp-1-bcqm3017-3018)|
 | BCQM3020 | 输入-计算-输出 | ★☆☆☆☆ | ✅ |[BCQM3020](https://www.coderli.com/gesp-1-bcqm3020)|
+| BCQM3021 | 输入-计算-输出-2| ★☆☆☆☆ | ✅ |[BCQM3021](https://www.coderli.com/gesp-1-bcqm3021)|
 
 ## 联系我们
 
