@@ -21,8 +21,10 @@
 | BCQM3017、BCQM3018 | 输入、输出 | ★☆☆☆☆ | ✅ |[BCQM3017、BCQM3018](https://www.coderli.com/gesp-1-bcqm3017-3018)|
 | BCQM3020 | 输入-计算-输出 | ★☆☆☆☆ | ✅ |[BCQM3020](https://www.coderli.com/gesp-1-bcqm3020)|
 | BCQM3021 | 输入-计算-输出-2| ★☆☆☆☆ | ✅ |[BCQM3021](https://www.coderli.com/gesp-1-bcqm3021)|
+| BCQM3022 | 输入-计算-输出-3| ★☆☆☆☆ | ✅ |[BCQM3022](https://www.coderli.com/gesp-1-bcqm3022)|
 
 ## 联系我们
 
-- GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
+- C++ GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
+- C++ GESP学习交流群：[点击加入](https://qm.qq.com/q/LwkBh6rMMS)
 - Discord开发者联盟：[点击加入](https://discord.gg/x7fKGkE3zB)
