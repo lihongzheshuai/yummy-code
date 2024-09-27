@@ -4,6 +4,13 @@
 
 ## GESP
 
+### 知识拓展
+
+| 知识点 | 知识讲解 | 难度等级 | 
+|------|----------|------|
+|scanf/printf关于浮点型输出知识拓展|[【GESP】C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/)|一级|
+
+
 ### 一级练习
 
 | 题号 | 题目类型 | 难度 | 完成情况 | 题目讲解 |
