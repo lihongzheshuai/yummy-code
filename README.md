@@ -29,6 +29,7 @@
 | BCQM3020 | 输入-计算-输出 | ★☆☆☆☆ | ✅ |[BCQM3020](https://www.coderli.com/gesp-1-bcqm3020)|
 | BCQM3021 | 输入-计算-输出-2| ★☆☆☆☆ | ✅ |[BCQM3021](https://www.coderli.com/gesp-1-bcqm3021)|
 | BCQM3022 | 输入-计算-输出-3| ★☆☆☆☆ | ✅ |[BCQM3022](https://www.coderli.com/gesp-1-bcqm3022)|
+| BCQM3023 | 输入-计算-输出-4| ★☆☆☆☆ | ✅ |[BCQM3023](https://www.coderli.com/gesp-1-bcqm3023)|
 
 ## 联系我们
 
