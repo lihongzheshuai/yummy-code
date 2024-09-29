@@ -31,7 +31,7 @@
 | BCQM3022 | 输入-计算-输出-3| ★☆☆☆☆ | ✅ |[BCQM3022](https://www.coderli.com/gesp-1-bcqm3022)|
 | BCQM3023 | 输入-计算-输出-4| ★☆☆☆☆ | ✅ |[BCQM3023](https://www.coderli.com/gesp-1-bcqm3023)|
 | BCQM3024 | 输入-计算-输出-5| ★☆☆☆☆ | ✅ |[BCQM3024](https://www.coderli.com/gesp-1-bcqm3024)|
-| BCQM3025 | 输入-计算-输出-6| ★☆☆☆☆ | ✅ |[BCQM3024](https://www.coderli.com/gesp-1-bcqm3025)|
+| BCQM3025 | 输入-计算-输出-6| ★☆☆☆☆ | ✅ |[BCQM3025](https://www.coderli.com/gesp-1-bcqm3025)|
 
 ## 联系我们
 
