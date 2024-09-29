@@ -1,8 +1,7 @@
-#include<cstdio>
-using namespace std;
-int main(){
-	int a, b;
-	scanf("%d%d", &a ,&b);
-	printf("总的棵数：%d", a * b);
-	return 0;
+#include <cstdio>
+int main() {
+    int a, b;
+    scanf("%d%d", &a, &b);
+    printf("总的棵数：%d", a * b);
+    return 0;
 }
