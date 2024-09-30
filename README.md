@@ -6,10 +6,9 @@
 
 ### 知识拓展
 
-| 知识点 | 知识讲解 | 难度等级 | 
+| 知识点 | 知识讲解 | 难度等级 |
 |------|----------|------|
 |scanf/printf关于浮点型输出知识拓展|[【GESP】C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/)|一级|
-
 
 ### 一级练习
 
@@ -34,6 +33,7 @@
 | BCQM3025 | 输入-计算-输出-6| ★☆☆☆☆ | ✅ |[BCQM3025](https://www.coderli.com/gesp-1-bcqm3025)|
 | BCQM3026 | 输入-计算-输出-7| ★☆☆☆☆ | ✅ |[BCQM3026](https://www.coderli.com/gesp-1-bcqm3026)|
 | BCQM3027 | 输入-浮点型格式化输出| ★☆☆☆☆ | ✅ |[BCQM3027](https://www.coderli.com/gesp-1-bcqm3027)|
+| BCQM3028 | 输入-计算-浮点型格式化输出| ★☆☆☆☆ | ✅ |[BCQM3028](https://www.coderli.com/gesp-1-bcqm3028)|
 
 ## 联系我们
 
