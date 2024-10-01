@@ -2,8 +2,7 @@
 using namespace std;
 int main(){
 	int a;
-	cin >> a;
-	//b十位 ,c个位。 
+	cin >> a; 
     int b, c;
     b = a / 10;
     c = a % 10;
