@@ -36,6 +36,7 @@
 | BCQM3028 | 输入-计算-浮点型格式化输出| ★☆☆☆☆ | ✅ |[BCQM3028](https://www.coderli.com/gesp-1-bcqm3028)|
 | BCQM3029 | 选择合适的数据类型| ★☆☆☆☆ | ✅ |[BCQM3029](https://www.coderli.com/gesp-1-bcqm3029)|
 | BCQM3030 | 保留n位小数| ★☆☆☆☆ | ✅ |[BCQM3030](https://www.coderli.com/gesp-1-bcqm3030)|
+| BCQM3031 | 浮点计算+保留n位小数| ★☆☆☆☆ | ✅ |[BCQM3031](https://www.coderli.com/gesp-1-bcqm3031)|
 
 ## 联系我们
 
