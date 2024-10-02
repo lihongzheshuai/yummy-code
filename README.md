@@ -37,7 +37,7 @@
 | BCQM3029 | 选择合适的数据类型| ★☆☆☆☆ | ✅ |[BCQM3029](https://www.coderli.com/gesp-1-bcqm3029)|
 | BCQM3030 | 保留n位小数| ★☆☆☆☆ | ✅ |[BCQM3030](https://www.coderli.com/gesp-1-bcqm3030)|
 | BCQM3031 | 浮点计算+保留n位小数| ★☆☆☆☆ | ✅ |[BCQM3031](https://www.coderli.com/gesp-1-bcqm3031)|
-
+| BCQM3032| 浮点计算| ★☆☆☆☆ | ✅ |[BCQM3032](https://www.coderli.com/gesp-1-bcqm3032)|
 ## 联系我们
 
 - C++ GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
