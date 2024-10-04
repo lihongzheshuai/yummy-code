@@ -39,6 +39,7 @@
 | BCQM3031 | 浮点计算+保留n位小数| ★☆☆☆☆ | ✅ |[BCQM3031](https://www.coderli.com/gesp-1-bcqm3031)|
 | BCQM3032| 浮点计算| ★☆☆☆☆ | ✅ |[BCQM3032](https://www.coderli.com/gesp-1-bcqm3032)|
 | BCQM3033| 略复杂计算| ★☆☆☆☆ | ✅ |[BCQM3033](https://www.coderli.com/gesp-1-bcqm3033)|
+| BCQM3034| 浮点乘法计算| ★☆☆☆☆ | ✅ |[BCQM3034](https://www.coderli.com/gesp-1-bcqm3034)|
 
 ## 联系我们
 
