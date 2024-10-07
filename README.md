@@ -42,6 +42,7 @@
 | BCQM3034| 浮点乘法计算| ★☆☆☆☆ | ✅ |[BCQM3034](https://www.coderli.com/gesp-1-bcqm3034)|
 | BCQM3035| 实数计算| ★☆☆☆☆ | ✅ |[BCQM3035](https://www.coderli.com/gesp-1-bcqm3035)|
 | BCQM3036| 数位交换| ★☆☆☆☆ | ✅ |[BCQM3036](https://www.coderli.com/gesp-1-bcqm3036)|
+| BCQM3037| 整数浮点计算| ★☆☆☆☆ | ✅ |[BCQM3037](https://www.coderli.com/gesp-1-bcqm3037)|
 
 ## 联系我们
 
