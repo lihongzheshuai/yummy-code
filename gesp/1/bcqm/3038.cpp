@@ -1,7 +1,7 @@
-#include<cstdio>
-int main(){
-	double a, b;
-	scanf("%lf%lf", &a, &b);
-	printf("%.9f", a / b);
-	return 0;
+#include <cstdio>
+int main() {
+    int a, b;
+    scanf("%d%d", &a, &b);
+    printf("%.9f", (double) a / b);
+    return 0;
 }
