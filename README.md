@@ -45,6 +45,7 @@
 | BCQM3037| 整数浮点计算| ★☆☆☆☆ | ✅ |[BCQM3037](https://www.coderli.com/gesp-1-bcqm3037)|
 | BCQM3038| 分数浮点计算| ★☆☆☆☆ | ✅ |[BCQM3038](https://www.coderli.com/gesp-1-bcqm3038)|
 | BCQM3039| 商和余数计算| ★☆☆☆☆ | ✅ |[BCQM3039](https://www.coderli.com/gesp-1-bcqm3039)|
+| BCQM3040| if语句-幸运数| ★☆☆☆☆ | ✅ |[BCQM3040](https://www.coderli.com/gesp-1-bcqm3040)|
 
 ## 联系我们
 
