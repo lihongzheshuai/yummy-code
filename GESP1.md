@@ -1,18 +1,4 @@
-# YummyCode
-
-记录Yummy和我从GESP C++开始，编程成长的过程。
-
-## GESP
-
-### 知识拓展
-
-| 知识点 | 知识讲解 | 难度等级 |
-|------|----------|------|
-|scanf/printf关于浮点型输出知识拓展|[【GESP】C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/)|一级|
-
-### 一级练习
-
-[GESP一级练习题清单](GESP1.md)
+## 练习题清单
 
 | 题号 | 题目类型 | 难度 | 完成情况 | 题目讲解 |
 |------|----------|------|----------|----------|
@@ -49,9 +35,3 @@
 | BCQM3039| 商和余数计算| ★☆☆☆☆ | ✅ |[BCQM3039](https://www.coderli.com/gesp-1-bcqm3039)|
 | BCQM3040| if语句-幸运数| ★☆☆☆☆ | ✅ |[BCQM3040](https://www.coderli.com/gesp-1-bcqm3040)|
 | BCQM3041| 字符图形输出| ★☆☆☆☆ | ✅ |[BCQM3041](https://www.coderli.com/gesp-1-bcqm3041)|
-
-## 联系我们
-
-- C++ GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
-- C++ GESP学习交流群：[点击加入](https://qm.qq.com/q/LwkBh6rMMS)
-- Discord开发者联盟：[点击加入](https://discord.gg/x7fKGkE3zB)
