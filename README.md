@@ -10,9 +10,10 @@
 |------|----------|------|
 |scanf/printf关于浮点型输出知识拓展|[【GESP】C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/)|一级|
 
-### 一级练习
+### 练习清单
 
 - [GESP一级练习题清单](GESP1.md)
+- [GESP二级练习题清单](GESP2.md)
 
 ## 联系我们
 
