@@ -7,7 +7,7 @@ int main(){
 	for(int i = 0; i <= x; i++){
 		chicken = i;
 		rabbit = x - chicken;
-		if(chicken + rabbit == x && rabbit * 2 + chicken * 4 == y){
+		if(chicken + rabbit == x && rabbit * 4 + chicken * 2 == y){
 			cout << chicken << " " << rabbit;
 		}
 	}
