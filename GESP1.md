@@ -36,3 +36,4 @@
 | BCQM3040| if语句-幸运数| ★☆☆☆☆ | ✅ |[BCQM3040](https://www.coderli.com/gesp-1-bcqm3040)|
 | BCQM3041| 字符图形输出| ★☆☆☆☆ | ✅ |[BCQM3041](https://www.coderli.com/gesp-1-bcqm3041)|
 | BCQM3044| 字符图形输出-2| ★☆☆☆☆ | ✅ |[BCQM3044](https://www.coderli.com/gesp-1-bcqm3044)|
+| BCQM3047| 浮点计算-四舍五入| ★☆☆☆☆ | ✅ |[BCQM3047](https://www.coderli.com/gesp-1-bcqm3047)|

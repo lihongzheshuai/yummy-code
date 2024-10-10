@@ -3,6 +3,10 @@ using namespace std;
 int main(){
 	double a,b;
 	cin >> a >> b;
-	cout << (int) a % b;
+	int ans;
+	ans = a / b;
+	double r;
+	r = a - ans * b;
+	cout << r;
 	return 0;
 }
