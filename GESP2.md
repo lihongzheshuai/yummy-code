@@ -6,3 +6,5 @@
 | BCQM3044| ASCII码-大小写转换| ★☆☆☆☆ | ✅ |[BCQM3043](https://www.coderli.com/gesp-1-bcqm3043)|
 | BCQM3045| ASCII码-从字符到数字| ★☆☆☆☆ | ✅ |[BCQM3045](https://www.coderli.com/gesp-1-bcqm3045)|
 | BCQM3046| ASCII码-加四加密| ★☆☆☆☆ | ✅ |[BCQM3046](https://www.coderli.com/gesp-1-bcqm3046)|
+| BCQM3050| 显式强转| ★☆☆☆☆ | ✅ |[BCQM3050](https://www.coderli.com/gesp-1-bcqm3050)|
+| BCQM3051| 隐式强转| ★☆☆☆☆ | ✅ |[BCQM3051](https://www.coderli.com/gesp-1-bcqm3051)|

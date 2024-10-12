@@ -37,3 +37,6 @@
 | BCQM3041| 字符图形输出| ★☆☆☆☆ | ✅ |[BCQM3041](https://www.coderli.com/gesp-1-bcqm3041)|
 | BCQM3044| 字符图形输出-2| ★☆☆☆☆ | ✅ |[BCQM3044](https://www.coderli.com/gesp-1-bcqm3044)|
 | BCQM3047| 浮点计算-四舍五入| ★☆☆☆☆ | ✅ |[BCQM3047](https://www.coderli.com/gesp-1-bcqm3047)|
+| BCQM3048| 逆推顺序执行| ★☆☆☆☆ | ✅ |[BCQM3048](https://www.coderli.com/gesp-1-bcqm3048)|
+| BCQM3049| 细胞分裂-循环| ★☆☆☆☆ | ✅ |[BCQM3049](https://www.coderli.com/gesp-1-bcqm3049)|
+| BCQM3052| 鸡兔同笼| ★☆☆☆☆ | ✅ |[BCQM3052](https://www.coderli.com/gesp-1-bcqm3052)|
