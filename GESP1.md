@@ -38,3 +38,4 @@
 | BCQM3044| 字符图形输出-2| ★☆☆☆☆ | ✅ |[BCQM3044](https://www.coderli.com/gesp-1-bcqm3044)|
 | BCQM3047| 浮点计算-四舍五入| ★☆☆☆☆ | ✅ |[BCQM3047](https://www.coderli.com/gesp-1-bcqm3047)|
 | BCQM3048| 顺序执行，逆推运算| ★☆☆☆☆ | ✅ |[BCQM3048](https://www.coderli.com/gesp-1-bcqm3048)|
+| BCQM3049| 分裂运算运算| ★☆☆☆☆ | ✅ |[BCQM3049](https://www.coderli.com/gesp-1-bcqm3049)|
