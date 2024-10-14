@@ -45,3 +45,4 @@
 | BCQM3080| 布尔型变量| ★☆☆☆☆ | ✅ |[BCQM3080](https://www.coderli.com/gesp-1-bcqm3080)|
 | BCQM3081| 偶数| ★☆☆☆☆ | ✅ |[BCQM3081](https://www.coderli.com/gesp-1-bcqm3081)|
 | BCQM3082| 最大数| ★☆☆☆☆ | ✅ |[BCQM3082](https://www.coderli.com/gesp-1-bcqm3082)|
+| BCQM3084| 智商问题-if语句练习| ★☆☆☆☆ | ✅ |[BCQM3084](https://www.coderli.com/gesp-1-bcqm3084)|
