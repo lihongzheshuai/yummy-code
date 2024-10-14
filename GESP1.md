@@ -46,3 +46,4 @@
 | BCQM3081| 偶数| ★☆☆☆☆ | ✅ |[BCQM3081](https://www.coderli.com/gesp-1-bcqm3081)|
 | BCQM3082| 最大数| ★☆☆☆☆ | ✅ |[BCQM3082](https://www.coderli.com/gesp-1-bcqm3082)|
 | BCQM3084| 智商问题-if语句练习| ★☆☆☆☆ | ✅ |[BCQM3084](https://www.coderli.com/gesp-1-bcqm3084)|
+| BCQM3143| 重要的话说 n 遍-for语句练习| ★☆☆☆☆ | ✅ |[BCQM3143](https://www.coderli.com/gesp-1-bcqm3143)|
