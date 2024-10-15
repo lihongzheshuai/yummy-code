@@ -1,12 +1,10 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-	int a;
-	cin >> a;
-	if(a > 140 && a <= 200){
-		cout << "天才";
-	}else{
-		cout << " ";
-	}
-	return 0;
-} 
+int main() {
+    int a;
+    cin >> a;
+    if (a > 140 ) {
+        cout << "天才";
+    } 
+    return 0;
+}
