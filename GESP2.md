@@ -8,3 +8,4 @@
 | BCQM3046| ASCII码-加四加密| ★☆☆☆☆ | ✅ |[BCQM3046](https://www.coderli.com/gesp-1-bcqm3046)|
 | BCQM3050| 显式强转| ★☆☆☆☆ | ✅ |[BCQM3050](https://www.coderli.com/gesp-1-bcqm3050)|
 | BCQM3051| 隐式强转| ★☆☆☆☆ | ✅ |[BCQM3051](https://www.coderli.com/gesp-1-bcqm3051)|
+| BCQM3144| ASCII码-输出26个字母| ★☆☆☆☆ | ✅ |[BCQM3144](https://www.coderli.com/gesp-1-bcqm3144)|
