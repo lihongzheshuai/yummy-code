@@ -52,3 +52,4 @@
 | BCQM3085| if-最大数| ★☆☆☆☆ | ✅ |[BCQM3085](https://www.coderli.com/gesp-1-bcqm3085)|
 | BCQM3086| if-正负数判断| ★☆☆☆☆ | ✅ |[BCQM3086](https://www.coderli.com/gesp-1-bcqm3086)|
 | BCQM3087| if-开灯| ★☆☆☆☆ | ✅ |[BCQM3087](https://www.coderli.com/gesp-1-bcqm3087)|
+| BCQM3088| if-收费| ★☆☆☆☆ | ✅ |[BCQM3088](https://www.coderli.com/gesp-1-bcqm3088)|
