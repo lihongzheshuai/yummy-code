@@ -48,3 +48,4 @@
 | BCQM3084| if-智商问题| ★☆☆☆☆ | ✅ |[BCQM3084](https://www.coderli.com/gesp-1-bcqm3084)|
 | BCQM3143| for-重要的话说 n 遍| ★☆☆☆☆ | ✅ |[BCQM3143](https://www.coderli.com/gesp-1-bcqm3143)|
 | BCQM3145| for-奇数求和| ★☆☆☆☆ | ✅ |[BCQM3145](https://www.coderli.com/gesp-1-bcqm3145)|
+| BCQM3055| 取余、整除-4位数格式输出| ★☆☆☆☆ | ✅ |[BCQM3055](https://www.coderli.com/gesp-1-bcqm3055)|
