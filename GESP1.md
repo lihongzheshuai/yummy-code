@@ -50,3 +50,7 @@
 | BCQM3145| for-奇数求和| ★☆☆☆☆ | ✅ |[BCQM3145](https://www.coderli.com/gesp-1-bcqm3145)|
 | BCQM3055| 取余、整除-4位数格式输出| ★☆☆☆☆ | ✅ |[BCQM3055](https://www.coderli.com/gesp-1-bcqm3055)|
 | BCQM3146| for-老狼老狼| ★☆☆☆☆ | ✅ |[BCQM3146](https://www.coderli.com/gesp-1-bcqm3146)|
+| BCQM3085| if-最大数| ★☆☆☆☆ | ✅ |[BCQM3085](https://www.coderli.com/gesp-1-bcqm3085)|
+| BCQM3086| if-正负数判断| ★☆☆☆☆ | ✅ |[BCQM3086](https://www.coderli.com/gesp-1-bcqm3086)|
+| BCQM3087| if-开灯| ★☆☆☆☆ | ✅ |[BCQM3087](https://www.coderli.com/gesp-1-bcqm3087)|
+| BCQM3088| if-收费| ★☆☆☆☆ | ✅ |[BCQM3088](https://www.coderli.com/gesp-1-bcqm3088)|
