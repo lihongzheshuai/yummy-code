@@ -56,3 +56,4 @@
 | BCQM3146| for-老狼老狼| ★☆☆☆☆ | ✅ |[BCQM3146](https://www.coderli.com/gesp-1-bcqm3146)|
 | BCQM3147| for-for循环求和| ★☆☆☆☆ | ✅ |[BCQM3147](https://www.coderli.com/gesp-1-bcqm3147)|
 | BCQM3090| if-奇偶数判断| ★☆☆☆☆ | ✅ |[BCQM3090](https://www.coderli.com/gesp-1-bcqm3090)|
+| BCQM3148| for-循环输出| ★☆☆☆☆ | ✅ |[BCQM3148](https://www.coderli.com/gesp-1-bcqm3148)|
