@@ -57,3 +57,5 @@
 | BCQM3147| for-for循环求和| ★☆☆☆☆ | ✅ |[BCQM3147](https://www.coderli.com/gesp-1-bcqm3147)|
 | BCQM3090| if-奇偶数判断| ★☆☆☆☆ | ✅ |[BCQM3090](https://www.coderli.com/gesp-1-bcqm3090)|
 | BCQM3148| for-循环输出| ★☆☆☆☆ | ✅ |[BCQM3148](https://www.coderli.com/gesp-1-bcqm3148)|
+| BCQM3056| 基础运算-等差数列末项| ★☆☆☆☆ | ✅ |[BCQM3056](https://www.coderli.com/gesp-1-bcqm3056)|
+
