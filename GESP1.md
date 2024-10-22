@@ -59,3 +59,4 @@
 | BCQM3148| for-循环输出| ★☆☆☆☆ | ✅ |[BCQM3148](https://www.coderli.com/gesp-1-bcqm3148)|
 | BCQM3056| 基础运算-等差数列末项| ★☆☆☆☆ | ✅ |[BCQM3056](https://www.coderli.com/gesp-1-bcqm3056)|
 | BCQM3149| for-重复说话| ★☆☆☆☆ | ✅ |[BCQM3149](https://www.coderli.com/gesp-1-bcqm3149)|
+| luogu-B3846| 一级模拟-闰年输出| ★☆☆☆☆ | ✅ |[luogu-B3846](https://www.coderli.com/gesp-1-luogu-b3846/)|
