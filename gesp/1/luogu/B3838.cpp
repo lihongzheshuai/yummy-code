@@ -1,20 +1,13 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int a, b, c, d;
-	cin >> a >> b >> c >> d;
-	if(b >= 60){
-		a += 1;
-		b - 60;
+	int hour, minute, hour2, minute2;
+	cin >> hour >> minute >> hour2 >> minute2;
+	if(minute2 < minute){
+		hour2 -= 1;
+		minute2 += 60;
 	}
-	if(d >= 60){
-		c += 1;
-		d - 60;
-	}
-	if(d < b){
-		c -= 1;
-		d += 60;
-	}
-	cout << (c - a)*60 << d - b;
+	int i = hour2 - hour;
+	cout << i * 60 + (minute2 - minute);
 	return 0;
-}
+} 
