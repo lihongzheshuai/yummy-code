@@ -60,3 +60,6 @@
 | BCQM3056| 基础运算-等差数列末项| ★☆☆☆☆ | ✅ |[BCQM3056](https://www.coderli.com/gesp-1-bcqm3056)|
 | BCQM3149| for-重复说话| ★☆☆☆☆ | ✅ |[BCQM3149](https://www.coderli.com/gesp-1-bcqm3149)|
 | luogu-B3846| 一级模拟-闰年输出| ★✮☆☆☆ | ✅ |[luogu-B3846](https://www.coderli.com/gesp-1-luogu-b3846/)|
+| BCQM3092| if-双面打印| ★✮☆☆☆ | ✅ |[BCQM3092](https://www.coderli.com/gesp-1-bcqm3092/)|
+| luogu-B3834| 真题-长方形面积| ★✮☆☆☆ | ✅ |[luogu-B3834](https://www.coderli.com/gesp-1-luogu-b3834/)|
+| luogu-B3835| 真题-每月天数| ★✮☆☆☆ | ✅ |[luogu-B3835](https://www.coderli.com/gesp-1-luogu-b3835/)|
