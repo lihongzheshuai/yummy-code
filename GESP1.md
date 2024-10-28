@@ -64,3 +64,4 @@
 | luogu-B3834| 真题-长方形面积| ★✮☆☆☆ | ✅ |[luogu-B3834](https://www.coderli.com/gesp-1-luogu-b3834/)|
 | luogu-B3835| 真题-每月天数| ★✮☆☆☆ | ✅ |[luogu-B3835](https://www.coderli.com/gesp-1-luogu-b3835/)|
 | luogu-B3838| 真题-时间规划| ★✮☆☆☆ | ✅ |[luogu-B3838](https://www.coderli.com/gesp-1-luogu-b3838/)|
+| luogu-B3839| 真题-累计相加| ★✮☆☆☆ | ✅ |[luogu-B3839](https://www.coderli.com/gesp-1-luogu-b3839/)|
