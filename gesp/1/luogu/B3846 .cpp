@@ -4,9 +4,9 @@ int main() {
     int a, b;
     scanf("%d%d", &a, &b);
     int ans = 0;
-    for (a + 1; a < b; a++) {
-        if ((a % 4 == 0 && a % 100 != 0) || a % 400 == 0) {
-            ans += a;
+    for (int i = a + 1; i < b; i++) {
+        if ((i % 4 == 0 && i % 100 != 0) || i % 400 == 0) {
+            ans += i;
         }
     }
     printf("%d", ans);
