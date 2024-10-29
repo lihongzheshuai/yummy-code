@@ -3,12 +3,13 @@ using namespace std;
 int main() {
     int first, second, third, money;
     cin >> first >> second >> third >> money;
-    if (money >= first * 2 + second * 5 + third * 3) {
+    int total_cost = first * 2 + second * 5 + third * 3;
+    if (money >= total_cost) {
         cout << "Yes" << endl;
-        cout << money - (first * 2 + second * 5 + third * 3);
+        cout << money - total_cost;
     } else {
         cout << "No" << endl;
-        cout << (first * 2 + second * 5 + third * 3) - money;
+        cout << total_cost - money;
     }
     return 0;
 }
