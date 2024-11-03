@@ -68,3 +68,5 @@
 | luogu-B3863| 真题-买文具| ★✮☆☆☆ | ✅ |[luogu-B3863](https://www.coderli.com/gesp-1-luogu-b3863/)|
 | luogu-B3864| 真题-小明的幸运数| ★✮☆☆☆ | ✅ |[luogu-B3864](https://www.coderli.com/gesp-1-luogu-b3864/)|
 | luogu-B3922| 真题-小杨报数| ★☆☆☆☆ | ✅ |[luogu-B3922](https://www.coderli.com/gesp-1-luogu-b3922/)|
+| luogu-B3921| 真题-小杨的考试| ★☆☆☆☆ | ✅ |[luogu-B3921](https://www.coderli.com/gesp-1-luogu-b3921/)|
+| luogu-B3847| 模拟-当天的第几秒| ★☆☆☆☆ | ✅ |[luogu-B3847](https://www.coderli.com/gesp-1-luogu-b3847/)|
