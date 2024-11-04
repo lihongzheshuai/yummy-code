@@ -2,11 +2,21 @@
 int main() {
     int n;
     scanf("%d", &n);
-    int a = 1, b = 2;
-    double q = b / a;
-    for (int i = 1; i <= n; i++) {
-        q += (b + 1) / (a + 1);
+    int a1 = 2;
+    int a2 = 3;
+    int b1 = 1;
+    int b2 = 2;
+    double sum = 0;
+  	if (n == 1) {
+  		
+	}
+	if (n == 2) {
+		
+	}
+    for (int i = 3; i <= n; i++) {
+    	int an = 
+
     }
-    printf("%4f", q);
+    printf("%4f", a1);
     return 0;
 }
