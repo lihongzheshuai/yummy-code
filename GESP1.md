@@ -71,3 +71,4 @@
 | luogu-B3921| 真题-小杨的考试| ★☆☆☆☆ | ✅ |[luogu-B3921](https://www.coderli.com/gesp-1-luogu-b3921/)|
 | luogu-B3847| 模拟-当天的第几秒| ★☆☆☆☆ | ✅ |[luogu-B3847](https://www.coderli.com/gesp-1-luogu-b3847/)|
 | luogu-B3952| 真题-小杨买书| ★☆☆☆☆ | ✅ |[luogu-B3952](https://www.coderli.com/gesp-1-luogu-b3952/)|
+| luogu-B3953| 真题-找因数| ★☆☆☆☆ | ✅ |[luogu-B3953](https://www.coderli.com/gesp-1-luogu-b3953/)|
