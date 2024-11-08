@@ -74,3 +74,4 @@
 | luogu-B3953| 真题-找因数| ★☆☆☆☆ | ✅ |[luogu-B3953](https://www.coderli.com/gesp-1-luogu-b3953/)|
 | luogu-B4000| 真题-休息时间| ★☆☆☆☆ | ✅ |[luogu-B4000](https://www.coderli.com/gesp-1-luogu-b4000/)|
 | luogu-B4001| 真题-立方数| ★☆☆☆☆ | ✅ |[luogu-B4001](https://www.coderli.com/gesp-1-luogu-b4001/)|
+| luogu-B3993| 模拟-明日复明日| ★☆☆☆☆ | ✅ |[luogu-B3993](https://www.coderli.com/gesp-1-luogu-b3993/)|
