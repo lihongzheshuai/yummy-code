@@ -1,8 +1,8 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-	int n, a, b;
-	cin >> n >> a >> b;
-	cout << n / (a + b);
-	return 0;
+int main() {
+    int n, a, b;
+    cin >> n >> a >> b;
+    cout << n / (a + b);
+    return 0;
 }
