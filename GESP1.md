@@ -78,3 +78,4 @@
 | luogu-B4034| 真题-小杨购物| ★☆☆☆☆ | ✅ |[luogu-B4034](https://www.coderli.com/gesp-1-luogu-b4034/)|
 | luogu-B4035| 真题-美丽数字| ★☆☆☆☆ | ✅ |[luogu-B4035](https://www.coderli.com/gesp-1-luogu-b4035/)|
 | luogu-B3659| for-课程QQ群| ★☆☆☆☆ | ✅ |[luogu-B3659](https://www.coderli.com/gesp-1-luogu-b3659/)|
+| luogu-B2068| 综合模拟-统计满足条件的 4 位数| ★☆☆☆☆ | ✅ |[luogu-B2068](https://www.coderli.com/gesp-1-luogu-b2068/)|
