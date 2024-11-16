@@ -8,6 +8,6 @@ int main(){
 		scanf("%lf", &a);
 		ans += a;	
 	}
-	printf("%.2f", ans / n);	
+	printf("%.4f", (double)ans / n);	
 	return 0;
 }
