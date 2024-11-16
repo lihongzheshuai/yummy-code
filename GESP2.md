@@ -10,3 +10,4 @@
 | BCQM3051| 隐式强转| ★☆☆☆☆ | ✅ |[BCQM3051](https://www.coderli.com/gesp-1-bcqm3051)|
 | BCQM3144| ASCII码-输出26个字母| ★☆☆☆☆ | ✅ |[BCQM3144](https://www.coderli.com/gesp-1-bcqm3144)|
 | luogu-B2054| 显式强转-求平均年龄| ★☆☆☆☆ | ✅ |[luogu-B2054](https://www.coderli.com/gesp-3-luogu-b2054/)|
+| luogu-B2056| 显式强转-求整数的和与均值| ★☆☆☆☆ | ✅ |[luogu-B2056](https://www.coderli.com/gesp-3-luogu-b2056/)|
