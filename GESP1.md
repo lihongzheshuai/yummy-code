@@ -79,3 +79,4 @@
 | luogu-B4035| 真题-美丽数字| ★☆☆☆☆ | ✅ |[luogu-B4035](https://www.coderli.com/gesp-1-luogu-b4035/)|
 | luogu-B3659| for-课程QQ群| ★☆☆☆☆ | ✅ |[luogu-B3659](https://www.coderli.com/gesp-1-luogu-b3659/)|
 | luogu-B2068| 综合模拟-统计满足条件的 4 位数| ★☆☆☆☆ | ✅ |[luogu-B2068](https://www.coderli.com/gesp-1-luogu-b2068/)|
+| luogu-B2055| 综合模拟-均值| ★☆☆☆☆ | ✅ |[luogu-B2055](https://www.coderli.com/gesp-1-luogu-b2055/)|
