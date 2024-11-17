@@ -3,15 +3,15 @@ using namespace std;
 int main(){
 	int n;
 	scanf("%d", &n);
-	int ans = 0, bns = 0;
+	double ans = 0;
 	for(int i = 1;i<=n;i++){
 		if(i % 2 != 0){
-			ans += i;
+			ans += 1.0 / i;
 		}
 		if(i % 2 == 0){
-			bns += i;
+			ans -= 1.0 / i;
 		}
 	}
-	printf("%.4f", (1 / (double)ans) - (1 / (double)bns));
+	printf("%.4f", ans);
 	return 0;
 }
