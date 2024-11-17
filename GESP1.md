@@ -80,3 +80,4 @@
 | luogu-B3659| for-课程QQ群| ★☆☆☆☆ | ✅ |[luogu-B3659](https://www.coderli.com/gesp-1-luogu-b3659/)|
 | luogu-B2068| 综合模拟-统计满足条件的 4 位数| ★☆☆☆☆ | ✅ |[luogu-B2068](https://www.coderli.com/gesp-1-luogu-b2068/)|
 | luogu-B2057| 综合模拟-最高的分数| ★☆☆☆☆ | ✅ |[luogu-B2057](https://www.coderli.com/gesp-1-luogu-b2057/)|
+| luogu-B2069| 综合模拟-求分数序列和| ★☆☆☆☆ | ✅ |[luogu-B2069](https://www.coderli.com/gesp-1-luogu-b2069/)|
