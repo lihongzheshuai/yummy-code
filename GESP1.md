@@ -82,5 +82,5 @@
 | luogu-B2057| 综合模拟-最高的分数| ★☆☆☆☆ | ✅ |[luogu-B2057](https://www.coderli.com/gesp-1-luogu-b2057/)|
 | luogu-B2069| 综合模拟-求分数序列和| ★✮☆☆☆ | ✅ |[luogu-B2069](https://www.coderli.com/gesp-1-luogu-b2069/)|
 | luogu-B2090| 综合模拟-年龄与疾病| ★✮☆☆☆ | ✅ |[luogu-B2090](https://www.coderli.com/gesp-1-luogu-b2090/)|
-| luogu-B3648| 输入-你几岁了| ★✮☆☆☆ | ✅ |[luogu-B3648](https://www.coderli.com/gesp-1-luogu-b3648/)|
-| luogu-B2071| while-余数相同问题| ★✮☆☆☆ | ✅ |[luogu-B32071](https://www.coderli.com/gesp-1-luogu-b2071/)|
+| luogu-B3648| 输入-你几岁了| ★☆☆☆☆ | ✅ |[luogu-B3648](https://www.coderli.com/gesp-1-luogu-b3648/)|
+| luogu-B2071| while-余数相同问题| ★☆☆☆☆ | ✅ |[luogu-B32071](https://www.coderli.com/gesp-1-luogu-b2071/)|
