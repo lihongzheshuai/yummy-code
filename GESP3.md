@@ -4,4 +4,4 @@
 |------|----------|------|----------|----------|
 | BCQM3091| string-选择题判定| ★☆☆☆☆ | ✅ |[BCQM3091](https://www.coderli.com/gesp-1-bcqm3091)|
 | luogu-B2064| 一维数组-斐波那契数列| ★☆☆☆☆ | ✅ |[luogu-B2064](https://www.coderli.com/gesp-3-luogu-b2064/)|
-| luogu-B2064| 一维数组-斐波那契数列| ★☆☆☆☆ | ✅ |[luogu-B2064](https://www.coderli.com/gesp-3-luogu-b2064/)|
+| luogu-B3661| 一维数组-排排队| ★☆☆☆☆ | ✅ |[luogu-B3661](https://www.coderli.com/gesp-3-luogu-b3661/)|
