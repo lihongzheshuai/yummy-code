@@ -87,3 +87,4 @@
 | luogu-B2070| for-分数加减表达式| ★☆☆☆☆ | ✅ |[luogu-B2070](https://www.coderli.com/gesp-1-luogu-b2070/)|
 | luogu-B2060| for-满足条件的数累加| ★☆☆☆☆ | ✅ |[luogu-B2060](https://www.coderli.com/gesp-1-luogu-b2060/)|
 | luogu-B2058| for-奥运奖牌计数| ★☆☆☆☆ | ✅ |[luogu-B2058](https://www.coderli.com/gesp-1-luogu-b2058/)|
+| luogu-B2059| for-奇数求和| ★☆☆☆☆ | ✅ |[luogu-B2059](https://www.coderli.com/gesp-1-luogu-b2059/)|
