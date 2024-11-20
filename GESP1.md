@@ -89,3 +89,5 @@
 | luogu-B2058| for-奥运奖牌计数| ★☆☆☆☆ | ✅ |[luogu-B2058](https://www.coderli.com/gesp-1-luogu-b2058/)|
 | luogu-B2059| for-奇数求和| ★☆☆☆☆ | ✅ |[luogu-B2059](https://www.coderli.com/gesp-1-luogu-b2059/)|
 | luogu-B2072| for-分苹果| ★☆☆☆☆ | ✅ |[luogu-B2072](https://www.coderli.com/gesp-1-luogu-b2072/)|
+| luogu-B2032| 基本运算-等差数列末项计算| ★☆☆☆☆ | ✅ |[luogu-B2032](https://www.coderli.com/gesp-1-luogu-b2032/)|
+| luogu-B2043| 取余-判断能否被 3，5，7 整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
