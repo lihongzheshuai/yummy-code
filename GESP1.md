@@ -82,4 +82,12 @@
 | luogu-B2057| 综合模拟-最高的分数| ★☆☆☆☆ | ✅ |[luogu-B2057](https://www.coderli.com/gesp-1-luogu-b2057/)|
 | luogu-B2069| 综合模拟-求分数序列和| ★✮☆☆☆ | ✅ |[luogu-B2069](https://www.coderli.com/gesp-1-luogu-b2069/)|
 | luogu-B2090| 综合模拟-年龄与疾病| ★✮☆☆☆ | ✅ |[luogu-B2090](https://www.coderli.com/gesp-1-luogu-b2090/)|
-| luogu-B3648| 输入-你几岁了| ★✮☆☆☆ | ✅ |[luogu-B3648](https://www.coderli.com/gesp-1-luogu-b3648/)|
+| luogu-B3648| 输入-你几岁了| ★☆☆☆☆ | ✅ |[luogu-B3648](https://www.coderli.com/gesp-1-luogu-b3648/)|
+| luogu-B2071| while-余数相同问题| ★☆☆☆☆ | ✅ |[luogu-B2071](https://www.coderli.com/gesp-1-luogu-b2071/)|
+| luogu-B2070| for-分数加减表达式| ★☆☆☆☆ | ✅ |[luogu-B2070](https://www.coderli.com/gesp-1-luogu-b2070/)|
+| luogu-B2060| for-满足条件的数累加| ★☆☆☆☆ | ✅ |[luogu-B2060](https://www.coderli.com/gesp-1-luogu-b2060/)|
+| luogu-B2058| for-奥运奖牌计数| ★☆☆☆☆ | ✅ |[luogu-B2058](https://www.coderli.com/gesp-1-luogu-b2058/)|
+| luogu-B2059| for-奇数求和| ★☆☆☆☆ | ✅ |[luogu-B2059](https://www.coderli.com/gesp-1-luogu-b2059/)|
+| luogu-B2072| for-分苹果| ★☆☆☆☆ | ✅ |[luogu-B2072](https://www.coderli.com/gesp-1-luogu-b2072/)|
+| luogu-B2032| 基本运算-等差数列末项计算| ★☆☆☆☆ | ✅ |[luogu-B2032](https://www.coderli.com/gesp-1-luogu-b2032/)|
+| luogu-B2043| 取余-判断能否被 3，5，7 整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
