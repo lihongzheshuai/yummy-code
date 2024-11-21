@@ -92,3 +92,4 @@
 | luogu-B2032| 基本运算-等差数列末项计算| ★☆☆☆☆ | ✅ |[luogu-B2032](https://www.coderli.com/gesp-1-luogu-b2032/)|
 | luogu-B2043| 取余-判断能否被 3，5，7 整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
 | luogu-B2044| if-有一门课不及格的学生| ★☆☆☆☆ | ✅ |[luogu-B2044](https://www.coderli.com/gesp-1-luogu-b2044/)|
+| luogu-B2052| if-简单计算器| ★☆☆☆☆ | ✅ |[luogu-B2052](https://www.coderli.com/gesp-1-luogu-b2052/)|
