@@ -11,3 +11,5 @@
 | BCQM3144| ASCII码-输出26个字母| ★☆☆☆☆ | ✅ |[BCQM3144](https://www.coderli.com/gesp-1-bcqm3144)|
 | luogu-B2054| 显式强转-求平均年龄| ★☆☆☆☆ | ✅ |[luogu-B2054](https://www.coderli.com/gesp-3-luogu-b2054/)|
 | luogu-B2056| 显式强转-求整数的和与均值| ★☆☆☆☆ | ✅ |[luogu-B2056](https://www.coderli.com/gesp-3-luogu-b2056/)|
+| luogu-B2094| 分支嵌套-不与最大数相同的数字之和| ★☆☆☆☆ | ✅ |[luogu-B2094](https://www.coderli.com/gesp-3-luogu-b2094/)|
+
