@@ -93,3 +93,4 @@
 | luogu-B2043| 取余-判断能否被 3，5，7 整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
 | luogu-B2044| if-有一门课不及格的学生| ★☆☆☆☆ | ✅ |[luogu-B2044](https://www.coderli.com/gesp-1-luogu-b2044/)|
 | luogu-B2052| if-简单计算器| ★☆☆☆☆ | ✅ |[luogu-B2052](https://www.coderli.com/gesp-1-luogu-b2052/)|
+| luogu-B3650| for-求和| ★☆☆☆☆ | ✅ |[luogu-B3650](https://www.coderli.com/gesp-1-luogu-b3650/)|
