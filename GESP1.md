@@ -95,3 +95,4 @@
 | luogu-B2052| if-简单计算器| ★☆☆☆☆ | ✅ |[luogu-B2052](https://www.coderli.com/gesp-1-luogu-b2052/)|
 | luogu-B3650| for-求和| ★☆☆☆☆ | ✅ |[luogu-B3650](https://www.coderli.com/gesp-1-luogu-b3650/)|
 | luogu-B2074| 综合模拟-计算星期几| ★★☆☆☆ | ✅ |[luogu-B2074](https://www.coderli.com/gesp-1-luogu-b2074/)|
+| luogu-B2041| if-收集瓶盖赢大奖| ★☆☆☆☆ | ✅ |[luogu-B2041](https://www.coderli.com/gesp-1-luogu-b2041/)|
