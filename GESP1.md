@@ -97,3 +97,4 @@
 | luogu-B2074| 综合模拟-计算星期几| ★★☆☆☆ | ✅ |[luogu-B2074](https://www.coderli.com/gesp-1-luogu-b2074/)|
 | luogu-B2041| if-收集瓶盖赢大奖| ★☆☆☆☆ | ✅ |[luogu-B2041](https://www.coderli.com/gesp-1-luogu-b2041/)|
 | luogu-B2061| forif-整数的个数| ★☆☆☆☆ | ✅ |[luogu-B2061](https://www.coderli.com/gesp-1-luogu-b2061/)|
+| luogu-B2088| 基本运算-计算书费| ★☆☆☆☆ | ✅ |[luogu-B2088](https://www.coderli.com/gesp-1-luogu-b2088/)|
