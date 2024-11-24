@@ -98,3 +98,4 @@
 | luogu-B2041| if-收集瓶盖赢大奖| ★☆☆☆☆ | ✅ |[luogu-B2041](https://www.coderli.com/gesp-1-luogu-b2041/)|
 | luogu-B2061| forif-整数的个数| ★☆☆☆☆ | ✅ |[luogu-B2061](https://www.coderli.com/gesp-1-luogu-b2061/)|
 | luogu-B2088| 基本运算-计算书费| ★☆☆☆☆ | ✅ |[luogu-B2088](https://www.coderli.com/gesp-1-luogu-b2088/)|
+| luogu-B3931| if-射箭| ★☆☆☆☆ | ✅ |[luogu-B3931](https://www.coderli.com/gesp-1-luogu-b3931/)|
