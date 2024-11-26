@@ -102,3 +102,5 @@
 | luogu-B2036| if-输出绝对值箭| ★☆☆☆☆ | ✅ |[luogu-B2036](https://www.coderli.com/gesp-1-luogu-b2036/)|
 | luogu-B2048| 综合-计算邮资| ★☆☆☆☆ | ✅ |[luogu-B2048](https://www.coderli.com/gesp-1-luogu-b2048/)|
 | luogu-P1421| 基本运算-小玉买文具| ★☆☆☆☆ | ✅ |[luogu-P1421](https://www.coderli.com/gesp-1-luogu-p1421/)|
+| luogu-P1046| if-陶陶摘苹果| ★☆☆☆☆ | ✅ |[luogu-P1046](https://www.coderli.com/gesp-1-luogu-p1046/)|
+| luogu-P1035| for-级数求和| ★☆☆☆☆ | ✅ |[luogu-P1035](https://www.coderli.com/gesp-1-luogu-p1035/)|
