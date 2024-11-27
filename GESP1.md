@@ -104,3 +104,4 @@
 | luogu-P1421| 基本运算-小玉买文具| ★☆☆☆☆ | ✅ |[luogu-P1421](https://www.coderli.com/gesp-1-luogu-p1421/)|
 | luogu-P1046| if-陶陶摘苹果| ★☆☆☆☆ | ✅ |[luogu-P1046](https://www.coderli.com/gesp-1-luogu-p1046/)|
 | luogu-P1035| for-级数求和| ★☆☆☆☆ | ✅ |[luogu-P1035](https://www.coderli.com/gesp-1-luogu-p1035/)|
+| luogu-P1422| if-小玉家的电费| ★☆☆☆☆ | ✅ |[luogu-P1422](https://www.coderli.com/gesp-1-luogu-p1422/)|
