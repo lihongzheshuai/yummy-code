@@ -63,7 +63,7 @@
 | BCQM3092| if-双面打印| ★✮☆☆☆ | ✅ |[BCQM3092](https://www.coderli.com/gesp-1-bcqm3092/)|
 | luogu-B3834| 真题-长方形面积| ★✮☆☆☆ | ✅ |[luogu-B3834](https://www.coderli.com/gesp-1-luogu-b3834/)|
 | luogu-B3835| 真题-每月天数| ★✮☆☆☆ | ✅ |[luogu-B3835](https://www.coderli.com/gesp-1-luogu-b3835/)|
-| luogu-B3838| 真题-时间规划| ★✮☆☆☆ | ✅ |[luogu-B3838](https://www.coderli.com/gesp-1-luogu-b3838/)|
+| luogu-B3838| 真题-时间规划| ★☆☆☆☆ | ✅ |[luogu-B3838](https://www.coderli.com/gesp-1-luogu-b3838/)|
 | luogu-B3839| 真题-累计相加| ★✮☆☆☆ | ✅ |[luogu-B3839](https://www.coderli.com/gesp-1-luogu-b3839/)|
 | luogu-B3863| 真题-买文具| ★✮☆☆☆ | ✅ |[luogu-B3863](https://www.coderli.com/gesp-1-luogu-b3863/)|
 | luogu-B3864| 真题-小明的幸运数| ★✮☆☆☆ | ✅ |[luogu-B3864](https://www.coderli.com/gesp-1-luogu-b3864/)|
@@ -90,7 +90,7 @@
 | luogu-B2059| for-奇数求和| ★☆☆☆☆ | ✅ |[luogu-B2059](https://www.coderli.com/gesp-1-luogu-b2059/)|
 | luogu-B2072| for-分苹果| ★☆☆☆☆ | ✅ |[luogu-B2072](https://www.coderli.com/gesp-1-luogu-b2072/)|
 | luogu-B2032| 基本运算-等差数列末项计算| ★☆☆☆☆ | ✅ |[luogu-B2032](https://www.coderli.com/gesp-1-luogu-b2032/)|
-| luogu-B2043| 取余-判断能否被 3，5，7 整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
+| luogu-B2043| 取余-判断能否被 3，5，7 ✮整除| ★☆☆☆☆ | ✅ |[luogu-B2043](https://www.coderli.com/gesp-1-luogu-b2043/)|
 | luogu-B2044| if-有一门课不及格的学生| ★☆☆☆☆ | ✅ |[luogu-B2044](https://www.coderli.com/gesp-1-luogu-b2044/)|
 | luogu-B2052| if-简单计算器| ★☆☆☆☆ | ✅ |[luogu-B2052](https://www.coderli.com/gesp-1-luogu-b2052/)|
 | luogu-B3650| for-求和| ★☆☆☆☆ | ✅ |[luogu-B3650](https://www.coderli.com/gesp-1-luogu-b3650/)|
@@ -105,3 +105,4 @@
 | luogu-P1046| if-陶陶摘苹果| ★☆☆☆☆ | ✅ |[luogu-P1046](https://www.coderli.com/gesp-1-luogu-p1046/)|
 | luogu-P1035| for-级数求和| ★☆☆☆☆ | ✅ |[luogu-P1035](https://www.coderli.com/gesp-1-luogu-p1035/)|
 | luogu-P1422| if-小玉家的电费| ★☆☆☆☆ | ✅ |[luogu-P1422](https://www.coderli.com/gesp-1-luogu-p1422/)|
+| luogu-P1423| 综合-小玉在游泳| ★✮☆☆☆ | ✅ |[luogu-P1423](https://www.coderli.com/gesp-1-luogu-p1423/)|
