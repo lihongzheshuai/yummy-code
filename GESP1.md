@@ -109,3 +109,4 @@
 | luogu-P1424| 综合-小鱼的航程| ★☆☆☆☆ | ✅ |[luogu-P1424](https://www.coderli.com/gesp-1-luogu-p1424/)|
 | luogu-P1425| 综合-小鱼的游泳时间| ★☆☆☆☆ | ✅ |[luogu-P1425](https://www.coderli.com/gesp-1-luogu-p1425/)|
 | luogu-P1634| for-禽兽的传染病| ★☆☆☆☆ | ✅ |[luogu-P1634](https://www.coderli.com/gesp-1-luogu-p1634/)|
+| luogu-B2012| 基本运算-甲流疫情死亡率| ★☆☆☆☆ | ✅ |[luogu-B2012](https://www.coderli.com/gesp-1-luogu-b2012/)|
