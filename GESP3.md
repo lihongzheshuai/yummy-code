@@ -6,3 +6,4 @@
 | luogu-B2064| 一维数组-斐波那契数列| ★☆☆☆☆ | ✅ |[luogu-B2064](https://www.coderli.com/gesp-3-luogu-b2064/)|
 | luogu-B3661| 一维数组-排排队| ★☆☆☆☆ | ✅ |[luogu-B3661](https://www.coderli.com/gesp-3-luogu-b3661/)|
 | luogu-B2087| 一维数组-与指定数字相同的数的个数| ★☆☆☆☆ | ✅ |[luogu-B2087](https://www.coderli.com/gesp-3-luogu-b2087/)|
+| luogu-P1427| 一维数组-小鱼的数字游戏| ★☆☆☆☆ | ✅ |[luogu-P1427](https://www.coderli.com/gesp-3-luogu-p1427/)|
