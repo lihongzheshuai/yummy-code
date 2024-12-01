@@ -111,3 +111,5 @@
 | luogu-P1634| for-禽兽的传染病| ★☆☆☆☆ | ✅ |[luogu-P1634](https://www.coderli.com/gesp-1-luogu-p1634/)|
 | luogu-B2012| 基本运算-甲流疫情死亡率| ★☆☆☆☆ | ✅ |[luogu-B2012](https://www.coderli.com/gesp-1-luogu-b2012/)|
 | luogu-B2078| 综合练习-含 k 个 3 的数| ★✮☆☆☆ | ✅ |[luogu-B2078](https://www.coderli.com/gesp-1-luogu-b2078/)|
+| luogu-B2077| 综合练习-角谷猜想| ★✮☆☆☆ | ✅ |[luogu-B2077](https://www.coderli.com/gesp-1-luogu-b2077/)|
+| luogu-B4008| 综合练习-[语言月赛 202407] true| ★☆☆☆☆ | ✅ |[luogu-B4008](https://www.coderli.com/gesp-1-luogu-b4008/)|
