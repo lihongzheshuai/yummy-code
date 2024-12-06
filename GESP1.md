@@ -117,3 +117,4 @@
 | bcqm-3151| for-输出奇偶数之和| ★☆☆☆☆ | ✅ |[bcqm-3151](https://www.coderli.com/gesp-1-bcqm-3151/)|
 | bcqm-3152| for-打老虎| ★☆☆☆☆ | ✅ |[bcqm-3152](https://www.coderli.com/gesp-1-bcqm-3152/)|
 | bcqm-3153| for-订餐时间| ★☆☆☆☆ | ✅ |[bcqm-3153](https://www.coderli.com/gesp-1-bcqm-3153/)|
+| bcqm-3154| for-偶数求和| ★☆☆☆☆ | ✅ |[bcqm-3154](https://www.coderli.com/gesp-1-bcqm-3154/)|
