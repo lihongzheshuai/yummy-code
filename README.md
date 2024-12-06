@@ -14,6 +14,7 @@
 
 | 知识点 | 知识讲解 | 考试级别 |
 |------|----------|------|
+|GESP考试开发环境配置|[【GESP】Windows系统配置官方要求Dev-C++和g++13.2.0编译环境](https://www.coderli.com/gesp-config-g++/)|[一级](https://www.coderli.com/categories/%E4%B8%80%E7%BA%A7/)|
 |scanf/printf关于浮点型输出知识拓展|[【GESP】C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/)|[一级](https://www.coderli.com/categories/%E4%B8%80%E7%BA%A7/)|
 |bool型变量|[【GESP】C++一级知识点研究，布尔(bool)型变量](https://www.coderli.com/gesp-knowledge-bool/)|[一级](https://www.coderli.com/categories/%E4%B8%80%E7%BA%A7/)|
 |cout/prinf|[【GESP】C++一级知识点研究，cout和printf性能差异分析](https://www.coderli.com/gesp-knowledge-cout-printf/)|[一级](https://www.coderli.com/categories/%E4%B8%80%E7%BA%A7/)|
