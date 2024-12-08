@@ -114,3 +114,7 @@
 | luogu-B2077| 综合练习-角谷猜想| ★✮☆☆☆ | ✅ |[luogu-B2077](https://www.coderli.com/gesp-1-luogu-b2077/)|
 | luogu-B4008| 综合练习-[语言月赛 202407] true| ★☆☆☆☆ | ✅ |[luogu-B4008](https://www.coderli.com/gesp-1-luogu-b4008/)|
 | luogu-P1534| 综合练习-不高兴的津津（升级版）| ★✮☆☆☆ | ✅ |[luogu-P1534](https://www.coderli.com/gesp-1-luogu-P1534/)|
+| bcqm-3151| for-输出奇偶数之和| ★☆☆☆☆ | ✅ |[bcqm-3151](https://www.coderli.com/gesp-1-bcqm-3151/)|
+| bcqm-3152| for-打老虎| ★☆☆☆☆ | ✅ |[bcqm-3152](https://www.coderli.com/gesp-1-bcqm-3152/)|
+| bcqm-3153| for-订餐时间| ★☆☆☆☆ | ✅ |[bcqm-3153](https://www.coderli.com/gesp-1-bcqm-3153/)|
+| bcqm-3154| for-偶数求和| ★☆☆☆☆ | ✅ |[bcqm-3154](https://www.coderli.com/gesp-1-bcqm-3154/)|
