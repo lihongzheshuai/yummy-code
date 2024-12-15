@@ -9,6 +9,10 @@
 | 考点 | 知识讲解 | 考试级别 |
 |------|----------|------|
 |（1）了解计算机的基本构成（CPU，内存，I/O 设备等） ，了解 Windows、Linux等操作系统基本概念和常见操作，了解计算机的历史及在现代社会中的常见应用。|[【GESP】C++一级考试大纲知识点梳理, 计算机基础和操作系统](https://www.coderli.com/gesp-1-exam-syllabus-computer-basics/)|[一级](https://www.coderli.com/categories/%E4%B8%80%E7%BA%A7/)|
+|（1）了解计算机存储的基本概念及分类，了解随机存储器（RAM）、只读存储器（ROM）和高速缓冲存储器（Cache）的功能及区别。|[【GESP】C++一级考试大纲知识点梳理, 计算机基础和操作系统](https://www.coderli.com/gesp-2-exam-syllabus-computer-storage/)|[二级](https://www.coderli.com/categories/%E4%BA%8C%E7%BA%A7/)|
+|（2）了解计算机网络的概念，了解计算机网络的分类（广域网（WAN）、城域网（MAN）、局域网（LAN）），了解计算机网络的层级结构及作用（TCP/IP 四层模型与 OSI七层模型），了解不同层级的重要协议，了解 IP 地址及子网划分。|[【GESP】C++二级考试大纲知识点梳理, （2）计算机网络的基本概念及分类](https://www.coderli.com/gesp-2-exam-syllabus-network/)|[二级](https://www.coderli.com/categories/%E4%BA%8C%E7%BA%A7/)|
+|（3）了解程序设计语言的几大分类及特点（机器语言、汇编语言、高级语言），了解常见的高级语言（C++、Python 等）。|[【GESP】C++二级考试大纲知识点梳理, （3）计算机程序设计语言相关知识](https://www.coderli.com/gesp-2-exam-syllabus-coding-language/)|[二级](https://www.coderli.com/categories/%E4%BA%8C%E7%BA%A7/)|
+|（4）了解流程图的概念及基本表示符号，掌握绘制流程图的方法，能正确使用流程图描述程序设计的三种基本结构。|[【GESP】C++二级考试大纲知识点梳理, （4）流程图](https://www.coderli.com/gesp-2-exam-syllabus-flow-chart/)|[二级](https://www.coderli.com/categories/%E4%BA%8C%E7%BA%A7/)|
 
 ### 知识拓展
 

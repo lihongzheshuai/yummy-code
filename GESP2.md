@@ -14,4 +14,5 @@
 | luogu-B2094| 分支嵌套-不与最大数相同的数字之和| ★☆☆☆☆ | ✅ |[luogu-B2094](https://www.coderli.com/gesp-3-luogu-b2094/)|
 | BCQM-3150| ASCII码-26个兄弟姐妹2| ★☆☆☆☆ | ✅ |[bcqm-3150](https://www.coderli.com/gesp-2-bcqm-3150/)|
 | BCQM-3172| 多层嵌套-短信计费| ★✮☆☆☆ | ✅ |[bcqm-3172](https://www.coderli.com/gesp-2-bcqm-3172/)|
+| luogu-t259142| 多层嵌套-数数字| ★✮☆☆☆ | ✅ |[luogu-t259142](https://www.coderli.com/gesp-2-luogu-t259142/)|
 
