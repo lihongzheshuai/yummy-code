@@ -16,3 +16,4 @@
 | BCQM-3172| 多层嵌套-短信计费| ★✮☆☆☆ | ✅ |[bcqm-3172](https://www.coderli.com/gesp-2-bcqm-3172/)|
 | luogu-t259142| 多层嵌套-数数字| ★✮☆☆☆ | ✅ |[luogu-t259142](https://www.coderli.com/gesp-2-luogu-t259142/)|
 | luogu-B2082| 多层嵌套-数字统计| ★✮☆☆☆ | ✅ |[luogu-B2082](https://www.coderli.com/gesp-2-luogu-b2082/)|
+| luogu-B2081| 多层嵌套-与 7 无关的数| ★✮☆☆☆ | ✅ |[luogu-B2081](https://www.coderli.com/gesp-2-luogu-b2081/)|
