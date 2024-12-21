@@ -119,4 +119,5 @@
 | bcqm-3153| for-订餐时间| ★☆☆☆☆ | ✅ |[bcqm-3153](https://www.coderli.com/gesp-1-bcqm-3153/)|
 | bcqm-3154| for-偶数求和| ★☆☆☆☆ | ✅ |[bcqm-3154](https://www.coderli.com/gesp-1-bcqm-3154/)|
 | bcqm-3173| 综合练习-上课点名| ★☆☆☆☆ | ✅ |[bcqm-3173](https://www.coderli.com/gesp-1-bcqm-3173/)|
-| luogu-b4062| 真题-温度转换| ★☆☆☆☆ | ✅ |[luogu-b4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
+| luogu-b4062| 真题-202412温度转换| ★☆☆☆☆ | ✅ |[luogu-b4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
+| luogu-b4063| 真题-202412奇数和偶数| ★☆☆☆☆ | ✅ |[luogu-b4063](https://www.coderli.com/gesp-1-luogu-b4063/)|
