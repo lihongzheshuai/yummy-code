@@ -19,3 +19,4 @@
 | luogu-B2081| 多层嵌套-与 7 无关的数| ★✮☆☆☆ | ✅ |[luogu-B2081](https://www.coderli.com/gesp-2-luogu-b2081/)|
 | luogu-T259140| 多层嵌套-三角形| ★✮☆☆☆ | ✅ |[luogu-T259140](https://www.coderli.com/gesp-2-luogu-t259140/)|
 | luogu-B2086| 多层嵌套-不定方程求解| ★✮☆☆☆ | ✅ |[luogu-B2086](https://www.coderli.com/gesp-2-luogu-b2086/)|
+| luogu-B3638| 数学函数-三角形面积| ★✮☆☆☆ | ✅ |[luogu-B3638](https://www.coderli.com/gesp-2-luogu-b3638/)|
