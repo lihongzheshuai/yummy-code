@@ -21,3 +21,4 @@
 | luogu-B2086| 多层嵌套-不定方程求解| ★✮☆☆☆ | ✅ |[luogu-B2086](https://www.coderli.com/gesp-2-luogu-b2086/)|
 | luogu-B3638| 数学函数-三角形面积| ★✮☆☆☆ | ✅ |[luogu-B3638](https://www.coderli.com/gesp-2-luogu-b3638/)|
 | luogu-B3658| 数学函数-口算练习| ★✮☆☆☆ | ✅ |[luogu-B3658](https://www.coderli.com/gesp-2-luogu-b3658/)|
+| luogu-B3660| 多层嵌套-集卡| ★✮☆☆☆ | ✅ |[luogu-B3660](https://www.coderli.com/gesp-2-luogu-b3660/)|
