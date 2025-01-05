@@ -23,3 +23,4 @@
 | luogu-B3658| 数学函数-口算练习| ★✮☆☆☆ | ✅ |[luogu-B3658](https://www.coderli.com/gesp-2-luogu-b3658/)|
 | luogu-B3660| 多层嵌套-集卡| ★✮☆☆☆ | ✅ |[luogu-B3660](https://www.coderli.com/gesp-2-luogu-b3660/)|
 | luogu-B2079| 多层嵌套-求出 e 的值| ★✮☆☆☆ | ✅ |[luogu-B2079](https://www.coderli.com/gesp-2-luogu-b2079/)|
+| luogu-B2080| 数学函数-计算多项式的值| ★✮☆☆☆ | ✅ |[luogu-B2080](https://www.coderli.com/gesp-2-luogu-b2080/)|
