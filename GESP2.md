@@ -25,3 +25,4 @@
 | luogu-B2079| 多层嵌套-求出 e 的值| ★✮☆☆☆ | ✅ |[luogu-B2079](https://www.coderli.com/gesp-2-luogu-b2079/)|
 | luogu-B2080| 数学函数-计算多项式的值| ★✮☆☆☆ | ✅ |[luogu-B2080](https://www.coderli.com/gesp-2-luogu-b2080/)|
 | luogu-B2083| 多层嵌套-画矩形| ★✮☆☆☆ | ✅ |[luogu-B2083](https://www.coderli.com/gesp-2-luogu-b2083/)|
+| luogu-B3845| 多层嵌套-勾股数| ★✮☆☆☆ | ✅ |[luogu-B3845](https://www.coderli.com/gesp-2-luogu-b3845/)|
