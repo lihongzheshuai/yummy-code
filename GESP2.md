@@ -29,3 +29,4 @@
 | luogu-B3844| 多层嵌套-画正方形| ★✮☆☆☆ | ✅ |[luogu-B3844](https://www.coderli.com/gesp-2-luogu-b3844/)|
 | luogu-B3837| 真题-画三角形| ★✮☆☆☆ | ✅ |[luogu-B3837](https://www.coderli.com/gesp-2-luogu-b3837/)|
 | luogu-B3836| 真题-百鸡问题| ★✮☆☆☆ | ✅ |[luogu-B3836](https://www.coderli.com/gesp-2-luogu-b3836/)|
+| luogu-B3764| 多层嵌套-计算阶乘| ★✮☆☆☆ | ✅ |[luogu-B3764](https://www.coderli.com/gesp-2-luogu-b3764/)|
