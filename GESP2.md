@@ -31,4 +31,5 @@
 | luogu-B3836| 真题-百鸡问题| ★✮☆☆☆ | ✅ |[luogu-B3836](https://www.coderli.com/gesp-2-luogu-b3836/)|
 | luogu-B3764| 多层嵌套-计算阶乘| ★✮☆☆☆ | ✅ |[luogu-B3764](https://www.coderli.com/gesp-2-luogu-b3764/)|
 | luogu-B3677| 多层嵌套-Fear| ★✮☆☆☆ | ✅ |[luogu-B3677](https://www.coderli.com/gesp-2-luogu-b3677/)|
+| luogu-B3786| 多层嵌套-幸运数字| ★✮☆☆☆ | ✅ |[luogu-B3786](https://www.coderli.com/gesp-2-luogu-b3786/)|
 
