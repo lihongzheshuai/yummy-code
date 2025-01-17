@@ -33,4 +33,5 @@
 | luogu-B3677| 多层嵌套-Fear| ★✮☆☆☆ | ✅ |[luogu-B3677](https://www.coderli.com/gesp-2-luogu-b3677/)|
 | luogu-B3786| 多层嵌套-幸运数字| ★✮☆☆☆ | ✅ |[luogu-B3786](https://www.coderli.com/gesp-2-luogu-b3786/)|
 | luogu-B2085| 多层嵌套-第 n 小的质数| ★✮☆☆☆ | ✅ |[luogu-B2085](https://www.coderli.com/gesp-2-luogu-b2085/)|
+| luogu-B2063| 数学函数-人口增长问题| ★✮☆☆☆ | ✅ |[luogu-B2063](https://www.coderli.com/gesp-2-luogu-b2063/)|
 
