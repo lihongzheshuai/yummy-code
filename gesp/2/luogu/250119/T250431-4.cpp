@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
-int a[105];
 int main(){
 	int n, x;
 	cin >> n;
+	int a[n+1];
 	for(int i = 1;i<=n;i++){
 		cin >> a[i];
 	}
@@ -15,4 +15,5 @@ int main(){
 		}
 	}
 	return 0;
-}
+		
+} 

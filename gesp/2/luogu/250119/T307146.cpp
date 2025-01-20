@@ -1,18 +1,17 @@
 #include<iostream>
 using namespace std;
-int a[105];
 int main(){
-	int n, x;
+	int n;
 	cin >> n;
-	for(int i = 1;i<=n;i++){
+	int d = n + 1;
+	int a[d];
+	for(int i =1;i<=n;i++){
 		cin >> a[i];
 	}
-	cin >> x;
 	for(int i = n;i >= 1;i--){
-		if(a[i] == x){
-			cout << i;
-			break;
-		}
+		cout << a[d] << " ";
+		d--;
+	
 	}
 	return 0;
 }
