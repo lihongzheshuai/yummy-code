@@ -34,4 +34,6 @@
 | luogu-B3786| 多层嵌套-幸运数字| ★✮☆☆☆ | ✅ |[luogu-B3786](https://www.coderli.com/gesp-2-luogu-b3786/)|
 | luogu-B2085| 多层嵌套-第 n 小的质数| ★✮☆☆☆ | ✅ |[luogu-B2085](https://www.coderli.com/gesp-2-luogu-b2085/)|
 | luogu-B2063| 数学函数-人口增长问题| ★✮☆☆☆ | ✅ |[luogu-B2063](https://www.coderli.com/gesp-2-luogu-b2063/)|
+| luogu-B2062| 数学函数-乘方计算| ★✮☆☆☆ | ✅ |[luogu-B2062](https://www.coderli.com/gesp-2-luogu-b2062/)|
+| luogu-B2053| 数学函数-求一元二次方程| ★✮☆☆☆ | ✅ |[luogu-B2053](https://www.coderli.com/gesp-2-luogu-b2053/)|
 
