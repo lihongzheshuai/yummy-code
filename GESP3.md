@@ -8,3 +8,4 @@
 | luogu-B2087| 一维数组-与指定数字相同的数的个数| ★☆☆☆☆ | ✅ |[luogu-B2087](https://www.coderli.com/gesp-3-luogu-b2087/)|
 | luogu-P1427| 一维数组-小鱼的数字游戏| ★☆☆☆☆ | ✅ |[luogu-P1427](https://www.coderli.com/gesp-3-luogu-p1427/)|
 | luogu-P1307| 一维数组-数字反转| ★✮☆☆☆ | ✅ |[luogu-P1307](https://www.coderli.com/gesp-3-luogu-p1307/)|
+| luogu-T250431| 一维数组-找元素| ★✮☆☆☆ | ✅ |[luogu-T250431](https://www.coderli.com/gesp-3-luogu-t250431/)|
