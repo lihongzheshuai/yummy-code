@@ -38,4 +38,4 @@
 | luogu-B2053| 数学函数-求一元二次方程| ★✮☆☆☆ | ✅ |[luogu-B2053](https://www.coderli.com/gesp-2-luogu-b2053/)|
 | luogu-B2084| 数学函数-质因数分解| ★✮☆☆☆ | ✅ |[luogu-B2084](https://www.coderli.com/gesp-2-luogu-b2084/)|
 | luogu-B3658| 数学函数-口算练习| ★✮☆☆☆ | ✅ |[luogu-B3658](https://www.coderli.com/gesp-2-luogu-b3658/)|
-
+| luogu-B3840| 真题-找素数| ★✮☆☆☆ | ✅ |[luogu-B3840](https://www.coderli.com/gesp-2-luogu-b3840/)|
