@@ -1,4 +1,6 @@
+#include <cmath>
 #include <iostream>
+
 using namespace std;
 int main() {
     int n;
@@ -8,8 +10,8 @@ int main() {
         ans += n % 10;
         n /= 10;
     }
-    int count = ans * ans;
-    int count_2 = ans * ans * ans;
+    int count = pow(ans, 2);
+    int count_2 = pow(ans, 3);
     cout << ans << endl << count << endl << count_2;
     return 0;
 }
