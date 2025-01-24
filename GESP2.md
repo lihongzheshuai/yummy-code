@@ -40,3 +40,5 @@
 | luogu-B3658| 数学函数-口算练习| ★✮☆☆☆ | ✅ |[luogu-B3658](https://www.coderli.com/gesp-2-luogu-b3658/)|
 | luogu-B3840| 真题-找素数| ★✮☆☆☆ | ✅ |[luogu-B3840](https://www.coderli.com/gesp-2-luogu-b3840/)|
 | luogu-B3685| 数学函数-计算| ★✮☆☆☆ | ✅ |[luogu-B3685](https://www.coderli.com/gesp-2-luogu-b3685/)|
+| luogu-B3686| 数学函数-洛谷三角洲| ★✮☆☆☆ | ✅ |[luogu-B3686](https://www.coderli.com/gesp-2-luogu-b3686/)|
+| luogu-B3687| 多层嵌套-数字口袋| ★✮☆☆☆ | ✅ |[luogu-B3687](https://www.coderli.com/gesp-2-luogu-b3687/)|
