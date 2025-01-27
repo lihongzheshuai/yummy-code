@@ -38,5 +38,4 @@ int main() {
         }
     }
     printf("%.2f %.2f", new_avg, max_diff);
-    return 0;
 }

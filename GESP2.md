@@ -42,3 +42,4 @@
 | luogu-B3685| 数学函数-计算| ★✮☆☆☆ | ✅ |[luogu-B3685](https://www.coderli.com/gesp-2-luogu-b3685/)|
 | luogu-B3686| 数学函数-洛谷三角洲| ★✮☆☆☆ | ✅ |[luogu-B3686](https://www.coderli.com/gesp-2-luogu-b3686/)|
 | luogu-B3687| 多层嵌套-数字口袋| ★✮☆☆☆ | ✅ |[luogu-B3687](https://www.coderli.com/gesp-2-luogu-b3687/)|
+| luogu-P2669| 多层嵌套-金币| ★✮☆☆☆ | ✅ |[luogu-P2669](https://www.coderli.com/gesp-2-luogu-p2669/)|
