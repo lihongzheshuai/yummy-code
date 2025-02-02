@@ -12,7 +12,6 @@ int main(){
 		for(int j = i-1;j>=0;j--){
 			if(a[j] < a[i]){
 				result[i]++;
-				cout << "j: "<< j << "i:" << i << "a[i]:" << a[i] << "a[j]:"<< a[j] << "result[i]:" << result[i] << endl;
 			}
 		}
 	}
