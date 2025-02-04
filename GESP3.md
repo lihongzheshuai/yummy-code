@@ -11,3 +11,4 @@
 | luogu-T250431| 一维数组-找元素| ★✮☆☆☆ | ✅ |[luogu-T250431](https://www.coderli.com/gesp-3-luogu-t250431/)|
 | luogu-B2095| 一维数组-白细胞计数| ★★☆☆☆ | ✅ |[luogu-B2095](https://www.coderli.com/gesp-3-luogu-b2095/)|
 | luogu-P1420| 一维数组-最长连号| ★★☆☆☆ | ✅ |[luogu-P1420](https://www.coderli.com/gesp-3-luogu-p1420/)|
+| luogu-P1428| 一维数组-小鱼比可爱| ★★☆☆☆ | ✅ |[luogu-P1428](https://www.coderli.com/gesp-3-luogu-p1428/)|
