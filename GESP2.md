@@ -49,3 +49,4 @@
 | luogu-B2067| 多层嵌套-药房管理| ★☆☆☆☆ | ✅ |[luogu-B2067](https://www.coderli.com/gesp-2-luogu-b2067/)|
 | luogu-B2038| ASCII码-奇偶 ASCII 值判断| ★☆☆☆☆ | ✅ |[luogu-B2038](https://www.coderli.com/gesp-2-luogu-b2038/)|
 | luogu-B3865| 真题-小杨的 X 字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3865](https://www.coderli.com/gesp-2-luogu-b3865/)|
+| luogu-B3866| 真题-数字黑洞| ★✮☆☆☆ | ✅ |[luogu-B3866](https://www.coderli.com/gesp-2-luogu-b3866/)|
