@@ -47,3 +47,5 @@
 | luogu-B3669| 数学函数-购物节| ★✮☆☆☆ | ✅ |[luogu-B3669](https://www.coderli.com/gesp-2-luogu-b3669/)|
 | luogu-B3670| 多层嵌套-玉桂狗| ★☆☆☆☆ | ✅ |[luogu-B3670](https://www.coderli.com/gesp-2-luogu-b3670/)|
 | luogu-B2067| 多层嵌套-药房管理| ★☆☆☆☆ | ✅ |[luogu-B2067](https://www.coderli.com/gesp-2-luogu-b2067/)|
+| luogu-B2038| ASCII码-奇偶 ASCII 值判断| ★☆☆☆☆ | ✅ |[luogu-B2038](https://www.coderli.com/gesp-2-luogu-b2038/)|
+
