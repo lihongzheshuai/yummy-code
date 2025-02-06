@@ -54,3 +54,4 @@
 | luogu-B3924| 真题-小杨的H字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3924](https://www.coderli.com/gesp-2-luogu-b3924/)|
 | luogu-B3954| 真题-乘法问题| ★✮☆☆☆ | ✅ |[luogu-B3954](https://www.coderli.com/gesp-2-luogu-b3954/)|
 | luogu-B3955| 真题-小杨的日字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3955](https://www.coderli.com/gesp-2-luogu-b3955/)|
+| luogu-B3995| 真题-小洛的田字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3995](https://www.coderli.com/gesp-2-luogu-b3995/)|
