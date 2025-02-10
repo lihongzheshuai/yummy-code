@@ -57,3 +57,4 @@
 | luogu-B3995| 模拟-小洛的田字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3995](https://www.coderli.com/gesp-2-luogu-b3995/)|
 | luogu-B3994| 模拟-周长与面积计算| ★✮☆☆☆ | ✅ |[luogu-B3994](https://www.coderli.com/gesp-2-luogu-b3994/)|
 | luogu-P1150| 循环、数学-Peter 的烟| ★✮☆☆☆ | ✅ |[luogu-P1150](https://www.coderli.com/gesp-2-luogu-p1150/)|
+| luogu-P1179| 循环、数学-数字统计| ★✮☆☆☆ | ✅ |[luogu-P1179](https://www.coderli.com/gesp-2-luogu-p1179/)|
