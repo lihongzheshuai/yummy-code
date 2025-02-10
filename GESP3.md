@@ -12,3 +12,4 @@
 | luogu-B2095| 一维数组-白细胞计数| ★★☆☆☆ | ✅ |[luogu-B2095](https://www.coderli.com/gesp-3-luogu-b2095/)|
 | luogu-P1420| 一维数组-最长连号| ★★☆☆☆ | ✅ |[luogu-P1420](https://www.coderli.com/gesp-3-luogu-p1420/)|
 | luogu-P1428| 一维数组-小鱼比可爱| ★★☆☆☆ | ✅ |[luogu-P1428](https://www.coderli.com/gesp-3-luogu-p1428/)|
+| luogu-P1567| 一维数组-统计天数| ★★☆☆☆ | ✅ |[luogu-P1567](https://www.coderli.com/gesp-3-luogu-p1567/)|
