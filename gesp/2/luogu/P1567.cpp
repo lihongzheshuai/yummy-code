@@ -18,7 +18,7 @@ int main() {
 	for (int i = 1; i < n; i++) {
 		if (a[i] > last_num) {
 			cur_max++;
-		} else {
+		} else  {
 			total_max = max(total_max, cur_max);
 			cur_max = 1;
 		}
