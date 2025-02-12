@@ -58,3 +58,4 @@
 | luogu-B3994| 模拟-周长与面积计算| ★✮☆☆☆ | ✅ |[luogu-B3994](https://www.coderli.com/gesp-2-luogu-b3994/)|
 | luogu-P1150| 循环、数学-Peter 的烟| ★✮☆☆☆ | ✅ |[luogu-P1150](https://www.coderli.com/gesp-2-luogu-p1150/)|
 | luogu-P1179| 循环、数学-数字统计| ★✮☆☆☆ | ✅ |[luogu-P1179](https://www.coderli.com/gesp-2-luogu-p1179/)|
+| luogu-B4002| 真题-平方之和| ★✮☆☆☆ | ✅ |[luogu-B4002](https://www.coderli.com/gesp-2-luogu-b4002/)|
