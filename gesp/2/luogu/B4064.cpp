@@ -16,7 +16,7 @@ int main() {
         if (flag == true) {
             cout << (int)c << endl;
         } else {
-            cout << "-1";
+            cout << "-1" << endl;
         }
     }
     return 0;
