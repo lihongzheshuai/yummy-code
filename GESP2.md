@@ -63,3 +63,4 @@
 | luogu-B4036| 真题-数位之和| ★✮☆☆☆ | ✅ |[luogu-B4036](https://www.coderli.com/gesp-2-luogu-b4036/)|
 | luogu-B4037| 真题-小杨的 N 字矩阵| ★✮☆☆☆ | ✅ |[luogu-B4037](https://www.coderli.com/gesp-2-luogu-b4037/)|
 | luogu-B4064| 真题-寻找数字| ★✮☆☆☆ | ✅ |[luogu-B4064](https://www.coderli.com/gesp-2-luogu-b4064/)|
+| luogu-B4065| 真题-数位和| ★✮☆☆☆ | ✅ |[luogu-B4065](https://www.coderli.com/gesp-2-luogu-b4065/)|
