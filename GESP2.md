@@ -65,3 +65,4 @@
 | luogu-B4064| 真题-寻找数字| ★✮☆☆☆ | ✅ |[luogu-B4064](https://www.coderli.com/gesp-2-luogu-b4064/)|
 | luogu-B4065| 真题-数位和| ★✮☆☆☆ | ✅ |[luogu-B4065](https://www.coderli.com/gesp-2-luogu-b4065/)|
 | luogu-B2073| 多层循环-求小数的某一位| ★✮☆☆☆ | ✅ |[luogu-B2073](https://www.coderli.com/gesp-2-luogu-b2073/)|
+| luogu-B3700| 多层循环-九九乘方表| ★✮☆☆☆ | ✅ |[luogu-B3700](https://www.coderli.com/gesp-2-luogu-b3700/)|
