@@ -67,3 +67,4 @@
 | luogu-B2073| 多层循环-求小数的某一位| ★✮☆☆☆ | ✅ |[luogu-B2073](https://www.coderli.com/gesp-2-luogu-b2073/)|
 | luogu-B3700| 多层循环-九九乘方表| ★✮☆☆☆ | ✅ |[luogu-B3700](https://www.coderli.com/gesp-2-luogu-b3700/)|
 | luogu-B3710| 多层循环-破碎的历史| ★✮☆☆☆ | ✅ |[luogu-B3710](https://www.coderli.com/gesp-2-luogu-b3710/)|
+| luogu-B3698| 多层循环-一次函数| ★✮☆☆☆ | ✅ |[luogu-B3698](https://www.coderli.com/gesp-2-luogu-b3698/)|
