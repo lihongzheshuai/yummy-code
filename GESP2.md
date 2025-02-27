@@ -70,4 +70,4 @@
 | luogu-B3698| 多层循环-一次函数| ★✮☆☆☆ | ✅ |[luogu-B3698](https://www.coderli.com/gesp-2-luogu-b3698/)|
 | luogu-B2075| 多层循环-幂的末尾| ★✮☆☆☆ | ✅ |[luogu-B2075](https://www.coderli.com/gesp-2-luogu-b2075/)|
 | luogu-B3707| 多层循环-风神瞳| ★✮☆☆☆ | ✅ |[luogu-B3707](https://www.coderli.com/gesp-2-luogu-b3707/)|
-
+| luogu-P1426| 多层循环-小鱼会有危险吗| ★✮☆☆☆ | ✅ |[luogu-P1426](https://www.coderli.com/gesp-2-luogu-p1426/)|
