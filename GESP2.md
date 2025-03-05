@@ -72,3 +72,4 @@
 | luogu-B3707| 多层循环-风神瞳| ★✮☆☆☆ | ✅ |[luogu-B3707](https://www.coderli.com/gesp-2-luogu-b3707/)|
 | luogu-P1426| 多层循环-小鱼会有危险吗| ★✮☆☆☆ | ✅ |[luogu-P1426](https://www.coderli.com/gesp-2-luogu-p1426/)|
 | luogu-B3709| 多层循环-最澄澈的空与海| ★✮☆☆☆ | ✅ |[luogu-B3709](https://www.coderli.com/gesp-2-luogu-b3709/)|
+| luogu-B3719| 多层循环-最澄澈的空与海| ★✮☆☆☆ | ✅ |[luogu-B3719](https://www.coderli.com/gesp-2-luogu-b3719/)|
