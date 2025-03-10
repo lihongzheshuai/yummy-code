@@ -74,5 +74,6 @@
 | luogu-B3709| 多层循环-最澄澈的空与海| ★✮☆☆☆ | ✅ |[luogu-B3709](https://www.coderli.com/gesp-2-luogu-b3709/)|
 | luogu-B3719| 多层循环-最澄澈的空与海| ★✮☆☆☆ | ✅ |[luogu-B3719](https://www.coderli.com/gesp-2-luogu-b3719/)|
 | luogu-B3706| 数学函数-晚秋绝诗| ★✮☆☆☆ | ✅ |[luogu-B3706](https://www.coderli.com/gesp-2-luogu-b3706/)|
-| luogu-P5725| 多层循环-求三角形| ★✮☆☆☆ | ✅ |[luogu-B5725](https://www.coderli.com/gesp-2-luogu-p5725/)|
-| luogu-P5726| 学函数-打分| ★✮☆☆☆ | ✅ |[luogu-B5726](https://www.coderli.com/gesp-2-luogu-p5726/)|
+| luogu-P5725| 多层循环-求三角形| ★✮☆☆☆ | ✅ |[luogu-P5725](https://www.coderli.com/gesp-2-luogu-p5725/)|
+| luogu-P5726| 学函数-打分| ★✮☆☆☆ | ✅ |[luogu-P5726](https://www.coderli.com/gesp-2-luogu-p5726/)|
+| luogu-P5719| 多层循环-分类平均| ★☆☆☆☆ | ✅ |[luogu-P5719](https://www.coderli.com/gesp-2-luogu-p5719/)|
