@@ -78,3 +78,4 @@
 | luogu-P5726| 学函数-打分| ★✮☆☆☆ | ✅ |[luogu-P5726](https://www.coderli.com/gesp-2-luogu-p5726/)|
 | luogu-P5719| 多层循环-分类平均| ★☆☆☆☆ | ✅ |[luogu-P5719](https://www.coderli.com/gesp-2-luogu-p5719/)|
 | luogu-P5723| 多层循环-质数口袋| ★☆☆☆☆ | ✅ |[luogu-P5723](https://www.coderli.com/gesp-2-luogu-p5723/)|
+| luogu-P4956| 多层循环-[COCI 2017/2018 #6] Davor| ★☆☆☆☆ | ✅ |[luogu-P4956](https://www.coderli.com/gesp-2-luogu-p4956/)|
