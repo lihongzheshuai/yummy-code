@@ -75,9 +75,10 @@
 | luogu-B3719| 多层循环-最澄澈的空与海| ★✮☆☆☆ | ✅ |[luogu-B3719](https://www.coderli.com/gesp-2-luogu-b3719/)|
 | luogu-B3706| 数学函数-晚秋绝诗| ★✮☆☆☆ | ✅ |[luogu-B3706](https://www.coderli.com/gesp-2-luogu-b3706/)|
 | luogu-P5725| 多层循环-求三角形| ★✮☆☆☆ | ✅ |[luogu-P5725](https://www.coderli.com/gesp-2-luogu-p5725/)|
-| luogu-P5726| 学函数-打分| ★✮☆☆☆ | ✅ |[luogu-P5726](https://www.coderli.com/gesp-2-luogu-p5726/)|
+| luogu-P5726| 数学函数-打分| ★✮☆☆☆ | ✅ |[luogu-P5726](https://www.coderli.com/gesp-2-luogu-p5726/)|
 | luogu-P5719| 多层循环-分类平均| ★☆☆☆☆ | ✅ |[luogu-P5719](https://www.coderli.com/gesp-2-luogu-p5719/)|
 | luogu-P5723| 多层循环-质数口袋| ★☆☆☆☆ | ✅ |[luogu-P5723](https://www.coderli.com/gesp-2-luogu-p5723/)|
 | luogu-P4956| 多层循环-[COCI 2017/2018 #6] Davor| ★☆☆☆☆ | ✅ |[luogu-P4956](https://www.coderli.com/gesp-2-luogu-p4956/)|
 | luogu-B3720| 多层分支-Out for Dinner B| ★✮☆☆☆ | ✅ |[luogu-B3720](https://www.coderli.com/gesp-2-luogu-b3720/)|
 | luogu-B3721| 多层循环分支-Stone Gambling S ★✮☆☆☆ | ✅ |[luogu-B3721](https://www.coderli.com/gesp-2-luogu-b3721/)|
+| luogu-B3735| 数学思维-圣诞树 ★☆☆☆☆ | ✅ |[luogu-B3735](https://www.coderli.com/gesp-2-luogu-b3735/)|
