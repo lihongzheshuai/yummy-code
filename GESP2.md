@@ -80,5 +80,6 @@
 | luogu-P5723| 多层循环-质数口袋| ★☆☆☆☆ | ✅ |[luogu-P5723](https://www.coderli.com/gesp-2-luogu-p5723/)|
 | luogu-P4956| 多层循环-[COCI 2017/2018 #6] Davor| ★☆☆☆☆ | ✅ |[luogu-P4956](https://www.coderli.com/gesp-2-luogu-p4956/)|
 | luogu-B3720| 多层分支-Out for Dinner B| ★✮☆☆☆ | ✅ |[luogu-B3720](https://www.coderli.com/gesp-2-luogu-b3720/)|
-| luogu-B3721| 多层循环分支-Stone Gambling S ★✮☆☆☆ | ✅ |[luogu-B3721](https://www.coderli.com/gesp-2-luogu-b3721/)|
-| luogu-B3735| 数学思维-圣诞树 ★☆☆☆☆ | ✅ |[luogu-B3735](https://www.coderli.com/gesp-2-luogu-b3735/)|
+| luogu-B3721| 多层循环分支-Stone Gambling S| ★✮☆☆☆ | ✅ |[luogu-B3721](https://www.coderli.com/gesp-2-luogu-b3721/)|
+| luogu-B3735| 数学思维-圣诞树| ★☆☆☆☆ | ✅ |[luogu-B3735](https://www.coderli.com/gesp-2-luogu-b3735/)|
+| luogu-B3736| 多层循环分支-最大公约数| ★☆☆☆☆ | ✅ |[luogu-B3736](https://www.coderli.com/gesp-2-luogu-b3736/)|
