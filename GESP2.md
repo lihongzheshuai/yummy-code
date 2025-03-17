@@ -83,3 +83,4 @@
 | luogu-B3721| 多层循环分支-Stone Gambling S| ★✮☆☆☆ | ✅ |[luogu-B3721](https://www.coderli.com/gesp-2-luogu-b3721/)|
 | luogu-B3735| 数学思维-圣诞树| ★☆☆☆☆ | ✅ |[luogu-B3735](https://www.coderli.com/gesp-2-luogu-b3735/)|
 | luogu-B3736| 多层循环分支-最大公约数| ★☆☆☆☆ | ✅ |[luogu-B3736](https://www.coderli.com/gesp-2-luogu-b3736/)|
+| luogu-P1720| 数学函数-月落乌啼算钱| ★☆☆☆☆ | ✅ |[luogu-P1720](https://www.coderli.com/gesp-2-luogu-p1720/)|
