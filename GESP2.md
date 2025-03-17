@@ -84,3 +84,4 @@
 | luogu-B3735| 数学思维-圣诞树| ★☆☆☆☆ | ✅ |[luogu-B3735](https://www.coderli.com/gesp-2-luogu-b3735/)|
 | luogu-B3736| 多层循环分支-最大公约数| ★☆☆☆☆ | ✅ |[luogu-B3736](https://www.coderli.com/gesp-2-luogu-b3736/)|
 | luogu-P1720| 数学函数-月落乌啼算钱| ★☆☆☆☆ | ✅ |[luogu-P1720](https://www.coderli.com/gesp-2-luogu-p1720/)|
+| luogu-P5721| 多层循环-数字直角三角形| ★☆☆☆☆ | ✅ |[luogu-P5721](https://www.coderli.com/gesp-2-luogu-p5721/)|
