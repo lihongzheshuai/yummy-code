@@ -85,9 +85,10 @@
 | luogu-B3736| 多层循环分支-最大公约数| ★☆☆☆☆ | ✅ |[luogu-B3736](https://www.coderli.com/gesp-2-luogu-b3736/)|
 | luogu-P1720| 数学函数-月落乌啼算钱| ★☆☆☆☆ | ✅ |[luogu-P1720](https://www.coderli.com/gesp-2-luogu-p1720/)|
 | luogu-P5721| 多层循环-数字直角三角形| ★☆☆☆☆ | ✅ |[luogu-P5721](https://www.coderli.com/gesp-2-luogu-p5721/)|
-| local-01| 多层循环-图形输出练习-X图形| ★☆☆☆☆ | ✅ |[local-01](https://www.coderli.com/gesp-2-local-01-x-pic/)|
-| local-02| 多层循环-图形输出练习-三角形（右对齐）| ★☆☆☆☆ | ✅ |[local-02](https://www.coderli.com/gesp-2-local-02-tri-right-pic/)|
-| local-03| 多层循环-图形输出练习-三角形（左对齐）| ★☆☆☆☆ | ✅ |[local-03](https://www.coderli.com/gesp-2-local-03-tri-left-pic/)|
-| local-04| 多层循环-图形输出练习-三角形（左对齐-倒置）| ★☆☆☆☆ | ✅ |[local-04](https://www.coderli.com/gesp-2-local-04-tri-left-down-pic/)|
-| local-05| 多层循环-图形输出练习-三角形（右对齐-倒置）| ★☆☆☆☆ | ✅ |[local-05](https://www.coderli.com/gesp-2-local-05-tri-right-down-pic/)|
-| local-06| 多层循环-图形输出练习-菱形（实心）| ★☆☆☆☆ | ✅ |[local-06](https://www.coderli.com/gesp-2-local-06-dia-full-pic/)|
+| local-01| 多层循环-图形输出练习-X图形| ★✮☆☆☆ | ✅ |[local-01](https://www.coderli.com/gesp-2-local-01-x-pic/)|
+| local-02| 多层循环-图形输出练习-三角形（右对齐）| ★✮☆☆☆ | ✅ |[local-02](https://www.coderli.com/gesp-2-local-02-tri-right-pic/)|
+| local-03| 多层循环-图形输出练习-三角形（左对齐）| ★✮☆☆☆ | ✅ |[local-03](https://www.coderli.com/gesp-2-local-03-tri-left-pic/)|
+| local-04| 多层循环-图形输出练习-三角形（左对齐-倒置）| ★✮☆☆☆ | ✅ |[local-04](https://www.coderli.com/gesp-2-local-04-tri-left-down-pic/)|
+| local-05| 多层循环-图形输出练习-三角形（右对齐-倒置）| ★✮☆☆☆ | ✅ |[local-05](https://www.coderli.com/gesp-2-local-05-tri-right-down-pic/)|
+| local-06| 多层循环-图形输出练习-菱形（实心）| ★✮☆☆☆ | ✅ |[local-06](https://www.coderli.com/gesp-2-local-06-dia-full-pic/)|
+| local-07| 多层循环-图形输出练习-三角形（等腰）| ★✮☆☆☆ | ✅ |[local-07](https://www.coderli.com/gesp-2-local-07-tri-mid-pic/)|
