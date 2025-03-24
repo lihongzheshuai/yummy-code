@@ -92,3 +92,5 @@
 | local-05| 多层循环-图形输出练习-三角形（右对齐-倒置）| ★✮☆☆☆ | ✅ |[local-05](https://www.coderli.com/gesp-2-local-05-tri-right-down-pic/)|
 | local-06| 多层循环-图形输出练习-菱形（实心）| ★✮☆☆☆ | ✅ |[local-06](https://www.coderli.com/gesp-2-local-06-dia-full-pic/)|
 | local-07| 多层循环-图形输出练习-三角形（等腰）| ★✮☆☆☆ | ✅ |[local-07](https://www.coderli.com/gesp-2-local-07-tri-mid-pic/)|
+| local-08| 多层循环-图形输出练习-菱形（十字）| ★✮☆☆☆ | ✅ |[local-08](https://www.coderli.com/gesp-2-local-08-dia-mid-pic/)|
+| local-09| 多层循环-图形输出练习-菱形（中心）| ★✮☆☆☆ | ✅ |[local-09](https://www.coderli.com/gesp-2-local-09-dia-one/)|
