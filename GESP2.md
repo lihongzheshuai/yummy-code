@@ -94,3 +94,4 @@
 | local-07| 多层循环-图形输出练习-三角形（等腰）| ★✮☆☆☆ | ✅ |[local-07](https://www.coderli.com/gesp-2-local-07-tri-mid-pic/)|
 | local-08| 多层循环-图形输出练习-菱形（十字）| ★✮☆☆☆ | ✅ |[local-08](https://www.coderli.com/gesp-2-local-08-dia-mid-pic/)|
 | local-09| 多层循环-图形输出练习-菱形（中心）| ★✮☆☆☆ | ✅ |[local-09](https://www.coderli.com/gesp-2-local-09-dia-one/)|
+| luogu-B4259| 真题-等差矩阵| ★✮☆☆☆ | ✅ |[luogu-B4259](https://www.coderli.com/gesp-2-luogu-b4259/)|
