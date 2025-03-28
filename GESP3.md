@@ -13,3 +13,4 @@
 | luogu-P1420| 一维数组-最长连号| ★★☆☆☆ | ✅ |[luogu-P1420](https://www.coderli.com/gesp-3-luogu-p1420/)|
 | luogu-P1428| 一维数组-小鱼比可爱| ★★☆☆☆ | ✅ |[luogu-P1428](https://www.coderli.com/gesp-3-luogu-p1428/)|
 | luogu-P1567| 一维数组-统计天数| ★★☆☆☆ | ✅ |[luogu-P1567](https://www.coderli.com/gesp-3-luogu-p1567/)|
+| luogu-B2109| 字符串-统计数字字符个数| ★✮☆☆☆ | ✅ |[luogu-B2109](https://www.coderli.com/gesp-3-luogu-b2109/)|
