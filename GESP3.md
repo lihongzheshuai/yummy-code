@@ -14,3 +14,4 @@
 | luogu-P1428| 一维数组-小鱼比可爱| ★★☆☆☆ | ✅ |[luogu-P1428](https://www.coderli.com/gesp-3-luogu-p1428/)|
 | luogu-P1567| 一维数组-统计天数| ★★☆☆☆ | ✅ |[luogu-P1567](https://www.coderli.com/gesp-3-luogu-p1567/)|
 | luogu-B2109| 字符串-统计数字字符个数| ★✮☆☆☆ | ✅ |[luogu-B2109](https://www.coderli.com/gesp-3-luogu-b2109/)|
+| luogu-B2110| 字符串、数组-找第一个只出现一次的字符| ★✮☆☆☆ | ✅ |[luogu-B2110](https://www.coderli.com/gesp-3-luogu-b2110/)|
