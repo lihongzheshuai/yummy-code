@@ -17,3 +17,5 @@
 | luogu-B2110| 字符串、数组-找第一个只出现一次的字符| ★✮☆☆☆ | ✅ |[luogu-B2110](https://www.coderli.com/gesp-3-luogu-b2110/)|
 | luogu-B2111| 字符串-基因相关性| ★✮☆☆☆ | ✅ |[luogu-B2111](https://www.coderli.com/gesp-3-luogu-b2111/)|
 | luogu-B2112| 字符串-石头剪子布| ★✮☆☆☆ | ✅ |[luogu-B2112](https://www.coderli.com/gesp-3-luogu-b2112/)|
+| luogu-B2113| 字符串-输出亲朋字符串| ★✮☆☆☆ | ✅ |[luogu-B2113](https://www.coderli.com/gesp-3-luogu-b2113/)|
+
