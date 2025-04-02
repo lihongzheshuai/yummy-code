@@ -18,4 +18,5 @@
 | luogu-B2111| 字符串-基因相关性| ★✮☆☆☆ | ✅ |[luogu-B2111](https://www.coderli.com/gesp-3-luogu-b2111/)|
 | luogu-B2112| 字符串-石头剪子布| ★✮☆☆☆ | ✅ |[luogu-B2112](https://www.coderli.com/gesp-3-luogu-b2112/)|
 | luogu-B2113| 字符串-输出亲朋字符串| ★✮☆☆☆ | ✅ |[luogu-B2113](https://www.coderli.com/gesp-3-luogu-b2113/)|
-
+| luogu-B2114| 字符串-配对碱基链| ★✮☆☆☆ | ✅ |[luogu-B2114](https://www.coderli.com/gesp-3-luogu-b2114/)|
+| luogu-B3842| 真题(一维数组)-春游| ★✮☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
