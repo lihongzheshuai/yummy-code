@@ -20,3 +20,4 @@
 | luogu-B2113| 字符串-输出亲朋字符串| ★✮☆☆☆ | ✅ |[luogu-B2113](https://www.coderli.com/gesp-3-luogu-b2113/)|
 | luogu-B2114| 字符串-配对碱基链| ★✮☆☆☆ | ✅ |[luogu-B2114](https://www.coderli.com/gesp-3-luogu-b2114/)|
 | luogu-B3842| 真题(一维数组)-春游| ★✮☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
+| luogu-B2116| 字符串-加密的病历单| ★★☆☆☆ | ✅ |[luogu-B2116](https://www.coderli.com/gesp-3-luogu-b2116/)|
