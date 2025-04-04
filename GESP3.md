@@ -21,3 +21,4 @@
 | luogu-B2114| 字符串-配对碱基链| ★✮☆☆☆ | ✅ |[luogu-B2114](https://www.coderli.com/gesp-3-luogu-b2114/)|
 | luogu-B3842| 真题(一维数组)-春游| ★✮☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
 | luogu-B2116| 字符串-加密的病历单| ★★☆☆☆ | ✅ |[luogu-B2116](https://www.coderli.com/gesp-3-luogu-b2116/)|
+| luogu-B2117| 字符串-整理药名| ★★☆☆☆ | ✅ |[luogu-B2117](https://www.coderli.com/gesp-3-luogu-b2117/)|
