@@ -23,3 +23,4 @@
 | luogu-B2116| 字符串-加密的病历单| ★★☆☆☆ | ✅ |[luogu-B2116](https://www.coderli.com/gesp-3-luogu-b2116/)|
 | luogu-B2117| 字符串-整理药名| ★★☆☆☆ | ✅ |[luogu-B2117](https://www.coderli.com/gesp-3-luogu-b2117/)|
 | luogu-B2118| 字符串-验证子串| ★★☆☆☆ | ✅ |[luogu-B2118](https://www.coderli.com/gesp-3-luogu-b2118/)|
+| luogu-B2119| 字符串-删除单词后缀| ★★☆☆☆ | ✅ |[luogu-B2119](https://www.coderli.com/gesp-3-luogu-b2119/)|
