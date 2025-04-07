@@ -24,3 +24,6 @@
 | luogu-B2117| 字符串-整理药名| ★★☆☆☆ | ✅ |[luogu-B2117](https://www.coderli.com/gesp-3-luogu-b2117/)|
 | luogu-B2118| 字符串-验证子串| ★★☆☆☆ | ✅ |[luogu-B2118](https://www.coderli.com/gesp-3-luogu-b2118/)|
 | luogu-B2119| 字符串-删除单词后缀| ★★☆☆☆ | ✅ |[luogu-B2119](https://www.coderli.com/gesp-3-luogu-b2119/)|
+| luogu-B2091| 一维数组-向量点积计算| ★★☆☆☆ | ✅ |[luogu-B2091](https://www.coderli.com/gesp-3-luogu-b2091/)|
+| luogu-B2089| 一维数组-数组逆序重存放| ★★☆☆☆ | ✅ |[luogu-B2089](https://www.coderli.com/gesp-3-luogu-b2089/)|
+| luogu-B2093| 一维数组-查找特定的值| ★★☆☆☆ | ✅ |[luogu-B2093](https://www.coderli.com/gesp-3-luogu-b2093/)|
