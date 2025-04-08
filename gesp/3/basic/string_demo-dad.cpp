@@ -2,7 +2,8 @@
 #include <cstring>
 #include <iostream>
 #include <string>
-#include<bits/stdc++.h>
+#include <sstream>
+#include <vector>
 
 using namespace std;
 // （6）掌握字符串及其函数的使用包括但不限于大小写转换、字符串搜索、分割、替换。
@@ -22,6 +23,17 @@ int main() {
 
     cout << str3 << endl;
     cout << str4 << endl;
+
+    // 判断字符大小写，并进行互转
+    string str5 = "ABCabcDEF";
+    for (int i = 0; i < str5.length(); i++) {
+        if (islower(str5[i])) {
+            str5[i] = toupper(str5[i]);
+        } else if (isupper(str5[i])) {
+            str5[i] = tolower(str5[i]);
+        }
+    }
+    cout << str5 << endl;
 
     // 字符串搜索
     // 从头寻找
