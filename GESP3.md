@@ -27,3 +27,4 @@
 | luogu-B2091| 一维数组-向量点积计算| ★★☆☆☆ | ✅ |[luogu-B2091](https://www.coderli.com/gesp-3-luogu-b2091/)|
 | luogu-B2089| 一维数组-数组逆序重存放| ★★☆☆☆ | ✅ |[luogu-B2089](https://www.coderli.com/gesp-3-luogu-b2089/)|
 | luogu-B2093| 一维数组-查找特定的值| ★★☆☆☆ | ✅ |[luogu-B2093](https://www.coderli.com/gesp-3-luogu-b2093/)|
+| luogu-B2120| 字符串-单词的长度| ★★☆☆☆ | ✅ |[luogu-B2120](https://www.coderli.com/gesp-3-luogu-b2120/)|
