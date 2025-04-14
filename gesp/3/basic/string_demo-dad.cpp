@@ -142,5 +142,11 @@ int main() {
     string str_14 = "C++ programming is fun!";
     const char* str_c14 = str_14.c_str();
     cout << str_c14 << endl;
+
+    //子字符串
+    string str_15 = "C++ programming is fun!";
+    string sub_str = str_15.substr(4, 9);
+    cout << sub_str << endl;
+    
     return 0;
 }
