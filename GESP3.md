@@ -29,4 +29,4 @@
 | luogu-B2093| 一维数组-查找特定的值| ★★☆☆☆ | ✅ |[luogu-B2093](https://www.coderli.com/gesp-3-luogu-b2093/)|
 | luogu-B2120| 字符串-单词的长度| ★★☆☆☆ | ✅ |[luogu-B2120](https://www.coderli.com/gesp-3-luogu-b2120/)|
 | luogu-B2121| 字符串-最长最短单词| ★★☆☆☆ | ✅ |[luogu-B2121](https://www.coderli.com/gesp-3-luogu-b2121/)|
-
+| luogu-B2122| 字符串-单词翻转| ★★☆☆☆ | ✅ |[luogu-B2122](https://www.coderli.com/gesp-3-luogu-b2122/)|
