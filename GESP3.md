@@ -31,3 +31,4 @@
 | luogu-B2121| 字符串-最长最短单词| ★★☆☆☆ | ✅ |[luogu-B2121](https://www.coderli.com/gesp-3-luogu-b2121/)|
 | luogu-B2122| 字符串-单词翻转| ★★☆☆☆ | ✅ |[luogu-B2122](https://www.coderli.com/gesp-3-luogu-b2122/)|
 | luogu-B2123| 字符串-字符串 p 型编码| ★★☆☆☆ | ✅ |[luogu-B2123](https://www.coderli.com/gesp-3-luogu-b2123/)|
+| luogu-B2124| 字符串- 判断字符串是否为回文| ★★☆☆☆ | ✅ |[luogu-B2124](https://www.coderli.com/gesp-3-luogu-b2124/)|
