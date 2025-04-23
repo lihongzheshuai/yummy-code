@@ -33,3 +33,4 @@
 | luogu-B2123| 字符串-字符串 p 型编码| ★★☆☆☆ | ✅ |[luogu-B2123](https://www.coderli.com/gesp-3-luogu-b2123/)|
 | luogu-B2124| 字符串- 判断字符串是否为回文| ★★☆☆☆ | ✅ |[luogu-B2124](https://www.coderli.com/gesp-3-luogu-b2124/)|
 | luogu-B2125| 字符串-最高分数的学生姓名| ★★☆☆☆ | ✅ |[luogu-B2125](https://www.coderli.com/gesp-3-luogu-b2125/)|
+| luogu-B2126| 字符串-连续出现的字符| ★★☆☆☆ | ✅ |[luogu-B2126](https://www.coderli.com/gesp-3-luogu-b2126/)|
