@@ -37,3 +37,4 @@
 | luogu-B2155| 字符串-合法 C 标识符| ★★☆☆☆ | ✅ |[luogu-B2155](https://www.coderli.com/gesp-3-luogu-b2155/)|
 | luogu-B2156| 字符串-最长单词 2| ★★☆☆☆ | ✅ |[luogu-B2156](https://www.coderli.com/gesp-3-luogu-b2156/)|
 | luogu-B3663| 字符串-Luogu Academic| ★★☆☆☆ | ✅ |[luogu-B3663](https://www.coderli.com/gesp-3-luogu-b3663/)|
+| luogu-B3674| 字符串-标题修改| ★★☆☆☆ | ✅ |[luogu-B3674](https://www.coderli.com/gesp-3-luogu-b3674/)|
