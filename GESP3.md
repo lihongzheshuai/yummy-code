@@ -38,3 +38,5 @@
 | luogu-B2156| 字符串-最长单词 2| ★★☆☆☆ | ✅ |[luogu-B2156](https://www.coderli.com/gesp-3-luogu-b2156/)|
 | luogu-B3663| 字符串-Luogu Academic| ★★☆☆☆ | ✅ |[luogu-B3663](https://www.coderli.com/gesp-3-luogu-b3663/)|
 | luogu-B3674| 字符串-标题修改| ★★☆☆☆ | ✅ |[luogu-B3674](https://www.coderli.com/gesp-3-luogu-b3674/)|
+| luogu-B3842| 真题-春游| ★★☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
+| luogu-B3843| 真题-密码合规| ★★✮☆☆ | ✅ |[luogu-B3843](https://www.coderli.com/gesp-3-luogu-b3843/)|
