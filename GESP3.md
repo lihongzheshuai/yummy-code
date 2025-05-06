@@ -40,3 +40,5 @@
 | luogu-B3674| 字符串-标题修改| ★★☆☆☆ | ✅ |[luogu-B3674](https://www.coderli.com/gesp-3-luogu-b3674/)|
 | luogu-B3842| 真题-春游| ★★☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
 | luogu-B3843| 真题-密码合规| ★★✮☆☆ | ✅ |[luogu-B3843](https://www.coderli.com/gesp-3-luogu-b3843/)|
+| luogu-B3848| 样题-逛商场| ★★✮☆☆ | ✅ |[luogu-B3848](https://www.coderli.com/gesp-3-luogu-b3848/)|
+| luogu-B3849| 样题-进制转换| ★★✮☆☆ | ✅ |[luogu-B3849](https://www.coderli.com/gesp-3-luogu-b3849/)|
