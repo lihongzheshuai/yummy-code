@@ -42,3 +42,4 @@
 | luogu-B3843| 真题-密码合规| ★★✮☆☆ | ✅ |[luogu-B3843](https://www.coderli.com/gesp-3-luogu-b3843/)|
 | luogu-B3848| 样题-逛商场| ★★✮☆☆ | ✅ |[luogu-B3848](https://www.coderli.com/gesp-3-luogu-b3848/)|
 | luogu-B3849| 样题-进制转换| ★★✮☆☆ | ✅ |[luogu-B3849](https://www.coderli.com/gesp-3-luogu-b3849/)|
+| luogu-B3867| 真题-小杨的储蓄| ★★✮☆☆ | ✅ |[luogu-B3867](https://www.coderli.com/gesp-3-luogu-b3867/)|
