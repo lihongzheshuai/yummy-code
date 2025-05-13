@@ -44,3 +44,4 @@
 | luogu-B3849| 样题-进制转换| ★★✮☆☆ | ✅ |[luogu-B3849](https://www.coderli.com/gesp-3-luogu-b3849/)|
 | luogu-B3867| 真题-小杨的储蓄| ★★✮☆☆ | ✅ |[luogu-B3867](https://www.coderli.com/gesp-3-luogu-b3867/)|
 | luogu-B3868| 真题-进制判断| ★★✮☆☆ | ✅ |[luogu-B3868](https://www.coderli.com/gesp-3-luogu-b3868/)|
+| luogu-B3925| 真题-小猫分鱼| ★★✮☆☆ | ✅ |[luogu-B3925](https://www.coderli.com/gesp-3-luogu-b3925/)|
