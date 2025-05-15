@@ -46,3 +46,4 @@
 | luogu-B3868| 真题-进制判断| ★★✮☆☆ | ✅ |[luogu-B3868](https://www.coderli.com/gesp-3-luogu-b3868/)|
 | luogu-B3925| 真题-小猫分鱼| ★★✮☆☆ | ✅ |[luogu-B3925](https://www.coderli.com/gesp-3-luogu-b3925/)|
 | luogu-B3926| 真题-单位转换| ★★✮☆☆ | ✅ |[luogu-B3926](https://www.coderli.com/gesp-3-luogu-b3926/)|
+| luogu-B3956| 真题-字母求和| ★★☆☆☆ | ✅ |[luogu-B3956](https://www.coderli.com/gesp-3-luogu-b3956/)|
