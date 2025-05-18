@@ -48,3 +48,4 @@
 | luogu-B3926| 真题-单位转换| ★★✮☆☆ | ✅ |[luogu-B3926](https://www.coderli.com/gesp-3-luogu-b3926/)|
 | luogu-B3956| 真题-字母求和| ★★☆☆☆ | ✅ |[luogu-B3956](https://www.coderli.com/gesp-3-luogu-b3956/)|
 | luogu-B3957| 真题-完全平方数| ★★☆☆☆ | ✅ |[luogu-B3957](https://www.coderli.com/gesp-3-luogu-b3957/)|
+| luogu-B4003| 真题-移位| ★★☆☆☆ | ✅ |[luogu-B4003](https://www.coderli.com/gesp-3-luogu-b4003/)|
