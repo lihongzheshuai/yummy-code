@@ -49,3 +49,5 @@
 | luogu-B3956| 真题-字母求和| ★★☆☆☆ | ✅ |[luogu-B3956](https://www.coderli.com/gesp-3-luogu-b3956/)|
 | luogu-B3957| 真题-完全平方数| ★★☆☆☆ | ✅ |[luogu-B3957](https://www.coderli.com/gesp-3-luogu-b3957/)|
 | luogu-B4003| 真题-移位| ★★☆☆☆ | ✅ |[luogu-B4003](https://www.coderli.com/gesp-3-luogu-b4003/)|
+| luogu-B4004| 真题-寻找倍数| ★★☆☆☆ | ✅ |[luogu-B4004](https://www.coderli.com/gesp-3-luogu-b4004/)|
+| luogu-B4038| 真题-平衡序列| ★★☆☆☆ | ✅ |[luogu-B4038](https://www.coderli.com/gesp-3-luogu-b4038/)|
