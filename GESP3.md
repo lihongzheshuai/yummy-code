@@ -52,3 +52,4 @@
 | luogu-B4004| 真题-寻找倍数| ★★☆☆☆ | ✅ |[luogu-B4004](https://www.coderli.com/gesp-3-luogu-b4004/)|
 | luogu-B4038| 真题-平衡序列| ★★☆☆☆ | ✅ |[luogu-B4038](https://www.coderli.com/gesp-3-luogu-b4038/)|
 | luogu-B4039| 真题-回文拼接| ★★✮☆☆ | ✅ |[luogu-B4039](https://www.coderli.com/gesp-3-luogu-b4039/)|
+| luogu-B4066| 真题-数字替换| ★★✮☆☆ | ✅ |[luogu-B4066](https://www.coderli.com/gesp-3-luogu-b4066/)|
