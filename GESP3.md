@@ -55,3 +55,4 @@
 | luogu-B4066| 真题-数字替换| ★★✮☆☆ | ✅ |[luogu-B4066](https://www.coderli.com/gesp-3-luogu-b4066/)|
 | luogu-B4067| 真题-打印数字| ★★☆☆☆ | ✅ |[luogu-B4067](https://www.coderli.com/gesp-3-luogu-b4067/)|
 | luogu-B4261| 真题-2025| ★★☆☆☆ | ✅ |[luogu-B4261](https://www.coderli.com/gesp-3-luogu-b4261/)|
+| luogu-B4262| 真题-词频统计| ★★★☆☆ | ✅ |[luogu-B4262](https://www.coderli.com/gesp-3-luogu-b4262/)|
