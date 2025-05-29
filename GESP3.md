@@ -56,3 +56,4 @@
 | luogu-B4067| 真题-打印数字| ★★☆☆☆ | ✅ |[luogu-B4067](https://www.coderli.com/gesp-3-luogu-b4067/)|
 | luogu-B4261| 真题-2025| ★★☆☆☆ | ✅ |[luogu-B4261](https://www.coderli.com/gesp-3-luogu-b4261/)|
 | luogu-B4262| 真题-词频统计| ★★★☆☆ | ✅ |[luogu-B4262](https://www.coderli.com/gesp-3-luogu-b4262/)|
+| luogu-B3640| 真题-句子反转| ★★☆☆☆ | ✅ |[luogu-B3640](https://www.coderli.com/gesp-3-luogu-b3640/)|
