@@ -121,3 +121,4 @@
 | bcqm-3173| 综合练习-上课点名| ★☆☆☆☆ | ✅ |[bcqm-3173](https://www.coderli.com/gesp-1-bcqm-3173/)|
 | luogu-b4062| 真题-202412温度转换| ★☆☆☆☆ | ✅ |[luogu-b4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
 | luogu-b4063| 真题-202412奇数和偶数| ★☆☆☆☆ | ✅ |[luogu-b4063](https://www.coderli.com/gesp-1-luogu-b4063/)|
+| luogu-b4257| 真题-202503图书馆里的老鼠| ★☆☆☆☆ | ✅ |[luogu-b4257](https://www.coderli.com/gesp-1-luogu-b4257/)|
