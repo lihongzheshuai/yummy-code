@@ -122,3 +122,4 @@
 | luogu-b4062| 真题-202412温度转换| ★☆☆☆☆ | ✅ |[luogu-b4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
 | luogu-b4063| 真题-202412奇数和偶数| ★☆☆☆☆ | ✅ |[luogu-b4063](https://www.coderli.com/gesp-1-luogu-b4063/)|
 | luogu-b4257| 真题-202503图书馆里的老鼠| ★☆☆☆☆ | ✅ |[luogu-b4257](https://www.coderli.com/gesp-1-luogu-b4257/)|
+| luogu-b4258| 真题-四舍五入| ★☆☆☆☆ | ✅ |[luogu-b4258](https://www.coderli.com/gesp-1-luogu-b4258/)|
