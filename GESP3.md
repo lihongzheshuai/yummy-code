@@ -57,3 +57,6 @@
 | luogu-B4261| 真题-2025| ★★☆☆☆ | ✅ |[luogu-B4261](https://www.coderli.com/gesp-3-luogu-b4261/)|
 | luogu-B4262| 真题-词频统计| ★★★☆☆ | ✅ |[luogu-B4262](https://www.coderli.com/gesp-3-luogu-b4262/)|
 | luogu-B3640| 真题-句子反转| ★★☆☆☆ | ✅ |[luogu-B3640](https://www.coderli.com/gesp-3-luogu-b3640/)|
+| luogu-B3654| 字符串-影子字符串| ★★☆☆☆ | ✅ |[luogu-B3654](https://www.coderli.com/gesp-3-luogu-b3654/)|
+| luogu-B3769| 字符串-制糊串| ★★☆☆☆ | ✅ |[luogu-B3769](https://www.coderli.com/gesp-3-luogu-b3769/)|
+| luogu-P5728| 一维数组-旗鼓相当的对手| ★★☆☆☆ | ✅ |[luogu-P5728](https://www.coderli.com/gesp-3-luogu-p5728/)|
