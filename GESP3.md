@@ -62,3 +62,4 @@
 | luogu-P5728| 一维数组-旗鼓相当的对手| ★★☆☆☆ | ✅ |[luogu-P5728](https://www.coderli.com/gesp-3-luogu-p5728/)|
 | luogu-B2096| 一维数组-直方图| ★★☆☆☆ | ✅ |[luogu-B2096](https://www.coderli.com/gesp-3-luogu-b2096/)|
 | luogu-B2097| 一维数组-最长平台| ★★☆☆☆ | ✅ |[luogu-B2097](https://www.coderli.com/gesp-3-luogu-b2097/)|
+| luogu-B2098| 一维数组-整数去重| ★★☆☆☆ | ✅ |[luogu-B2098](https://www.coderli.com/gesp-3-luogu-b2098/)|

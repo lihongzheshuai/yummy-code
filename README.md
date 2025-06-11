@@ -21,6 +21,7 @@
 |(7) (8) 理解枚举算法、模拟算法的原理及特点，可以解决实际问题。|[【GESP】C++三级考试大纲知识点梳理, (7) (8) 枚举算法、模拟算法](https://www.coderli.com/gesp-3-exam-syllabus-algo-enumeration-simulation/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 |（1）理解 C++指针类型的概念，掌握指针类型变量的定义、赋值、解引用。|[【GESP】C++四级考试大纲知识点梳理, (1) 指针](https://www.coderli.com/gesp-4-exam-syllabus-pointer/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（2）掌握 C++结构体、二维及多维数组的基本概念及使用|[【GESP】C++四级考试大纲知识点梳理, (2) 结构体和二维数组](https://www.coderli.com/gesp-4-exam-syllabus-struct-two-dimensional-array/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（3）理解模块化编程思想，掌握函数的声明、定义及调用，掌握形参与实参的概念及区别|[【GESP】C++四级考试大纲知识点梳理, (3) 模块化和函数](https://www.coderli.com/gesp-4-exam-syllabus-module-function/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 
 ### 知识拓展
 
