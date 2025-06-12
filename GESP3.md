@@ -63,3 +63,4 @@
 | luogu-B2096| 一维数组-直方图| ★★☆☆☆ | ✅ |[luogu-B2096](https://www.coderli.com/gesp-3-luogu-b2096/)|
 | luogu-B2097| 一维数组-最长平台| ★★☆☆☆ | ✅ |[luogu-B2097](https://www.coderli.com/gesp-3-luogu-b2097/)|
 | luogu-B2098| 一维数组-整数去重| ★★☆☆☆ | ✅ |[luogu-B2098](https://www.coderli.com/gesp-3-luogu-b2098/)|
+| luogu-P5727| 一维数组-冰雹猜想| ★★☆☆☆ | ✅ |[luogu-P5727](https://www.coderli.com/gesp-3-luogu-p5727/)|
