@@ -10,6 +10,10 @@ int main() {
 	cin >> n;
 	string input;
 	//一、 循环读取每次输入
+	// 记录最大词频数
+	int m = 0;
+	// 记录最大词频位置
+	int idx = 0;
 	for(int i = 0; i<n; i++) {
 		cin >> input;
 		// input转换成小写
@@ -22,26 +26,26 @@ int main() {
 			if (str_ary[j] == input) {
 				str_time[j]++;
 				is_exist = true;
+				// 每读入一个单词，就比较当前单词的词频，始终保持记录当前最大值和位置。 
+				if (m < str_time[j]) {
+					m = str_time[j];
+					idx = j;
+				}
 			}
 		}
 		// 2.2 否则（没有出现过）新增一条记录，次数=1
 		if (!is_exist) {
 			str_ary[i] = input;
 			str_time[i] = 1;
+			if (m < 1) {
+				m = 1;
+				idx = i;
+			}
 		}
 	}
-	int max = 0;
-	int time = 0;
-	// 三、找出最大的出现次数和对应的单词
-	for(int j = 0; j<n; j++) {
-		//打擂台找出最多出现次数
-		if(str_time[j]>max) {
-			max = str_time[j];
-			time = j;
-		}
-	}
+
 	// 输出
-	cout << str_ary[time];
+	cout << str_ary[idx];
 
 	return 0;
 }
