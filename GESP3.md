@@ -66,3 +66,4 @@
 | luogu-P5727| 一维数组-冰雹猜想| ★★☆☆☆ | ✅ |[luogu-P5727](https://www.coderli.com/gesp-3-luogu-p5727/)|
 | luogu-P1047| 一维数组-校门外的树| ★★☆☆☆ | ✅ |[luogu-P1047](https://www.coderli.com/gesp-3-luogu-p1047/)|
 | luogu-P1554| 一维数组-梦中的统计| ★★☆☆☆ | ✅ |[luogu-P1554](https://www.coderli.com/gesp-3-luogu-p1554/)|
+| luogu-P1614| 一维数组-爱与愁的心痛| ★★☆☆☆ | ✅ |[luogu-P1614](https://www.coderli.com/gesp-3-luogu-p1614/)|
