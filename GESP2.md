@@ -85,6 +85,7 @@
 | luogu-B3736| 多层循环分支-最大公约数| ★☆☆☆☆ | ✅ |[luogu-B3736](https://www.coderli.com/gesp-2-luogu-b3736/)|
 | luogu-P1720| 数学函数-月落乌啼算钱| ★☆☆☆☆ | ✅ |[luogu-P1720](https://www.coderli.com/gesp-2-luogu-p1720/)|
 | luogu-P5721| 多层循环-数字直角三角形| ★☆☆☆☆ | ✅ |[luogu-P5721](https://www.coderli.com/gesp-2-luogu-p5721/)|
+| luogu-P1304| 多层循环-哥德巴赫猜想| ★☆☆☆☆ | ✅ |[luogu-P1304](https://www.coderli.com/gesp-2-luogu-p1304/)|
 | local-01| 多层循环-图形输出练习-X图形| ★✮☆☆☆ | ✅ |[local-01](https://www.coderli.com/gesp-2-local-01-x-pic/)|
 | local-02| 多层循环-图形输出练习-三角形（右对齐）| ★✮☆☆☆ | ✅ |[local-02](https://www.coderli.com/gesp-2-local-02-tri-right-pic/)|
 | local-03| 多层循环-图形输出练习-三角形（左对齐）| ★✮☆☆☆ | ✅ |[local-03](https://www.coderli.com/gesp-2-local-03-tri-left-pic/)|
