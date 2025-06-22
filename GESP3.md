@@ -67,3 +67,4 @@
 | luogu-P1047| 一维数组-校门外的树| ★★☆☆☆ | ✅ |[luogu-P1047](https://www.coderli.com/gesp-3-luogu-p1047/)|
 | luogu-P1554| 一维数组-梦中的统计| ★★☆☆☆ | ✅ |[luogu-P1554](https://www.coderli.com/gesp-3-luogu-p1554/)|
 | luogu-P1614| 一维数组-爱与愁的心痛| ★★☆☆☆ | ✅ |[luogu-P1614](https://www.coderli.com/gesp-3-luogu-p1614/)|
+| luogu-P2141| 一维数组-珠心算测验| ★★☆☆☆ | ✅ |[luogu-P2141](https://www.coderli.com/gesp-3-luogu-p2141/)|
