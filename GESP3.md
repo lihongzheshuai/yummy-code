@@ -19,7 +19,6 @@
 | luogu-B2112| 字符串-石头剪子布| ★✮☆☆☆ | ✅ |[luogu-B2112](https://www.coderli.com/gesp-3-luogu-b2112/)|
 | luogu-B2113| 字符串-输出亲朋字符串| ★✮☆☆☆ | ✅ |[luogu-B2113](https://www.coderli.com/gesp-3-luogu-b2113/)|
 | luogu-B2114| 字符串-配对碱基链| ★✮☆☆☆ | ✅ |[luogu-B2114](https://www.coderli.com/gesp-3-luogu-b2114/)|
-| luogu-B3842| 真题(一维数组)-春游| ★✮☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
 | luogu-B2116| 字符串-加密的病历单| ★★☆☆☆ | ✅ |[luogu-B2116](https://www.coderli.com/gesp-3-luogu-b2116/)|
 | luogu-B2117| 字符串-整理药名| ★★☆☆☆ | ✅ |[luogu-B2117](https://www.coderli.com/gesp-3-luogu-b2117/)|
 | luogu-B2118| 字符串-验证子串| ★★☆☆☆ | ✅ |[luogu-B2118](https://www.coderli.com/gesp-3-luogu-b2118/)|
@@ -38,25 +37,8 @@
 | luogu-B2156| 字符串-最长单词 2| ★★☆☆☆ | ✅ |[luogu-B2156](https://www.coderli.com/gesp-3-luogu-b2156/)|
 | luogu-B3663| 字符串-Luogu Academic| ★★☆☆☆ | ✅ |[luogu-B3663](https://www.coderli.com/gesp-3-luogu-b3663/)|
 | luogu-B3674| 字符串-标题修改| ★★☆☆☆ | ✅ |[luogu-B3674](https://www.coderli.com/gesp-3-luogu-b3674/)|
-| luogu-B3842| 真题-春游| ★★☆☆☆ | ✅ |[luogu-B3842](https://www.coderli.com/gesp-3-luogu-b3842/)|
-| luogu-B3843| 真题-密码合规| ★★✮☆☆ | ✅ |[luogu-B3843](https://www.coderli.com/gesp-3-luogu-b3843/)|
 | luogu-B3848| 样题-逛商场| ★★✮☆☆ | ✅ |[luogu-B3848](https://www.coderli.com/gesp-3-luogu-b3848/)|
 | luogu-B3849| 样题-进制转换| ★★✮☆☆ | ✅ |[luogu-B3849](https://www.coderli.com/gesp-3-luogu-b3849/)|
-| luogu-B3867| 真题-小杨的储蓄| ★★✮☆☆ | ✅ |[luogu-B3867](https://www.coderli.com/gesp-3-luogu-b3867/)|
-| luogu-B3868| 真题-进制判断| ★★✮☆☆ | ✅ |[luogu-B3868](https://www.coderli.com/gesp-3-luogu-b3868/)|
-| luogu-B3925| 真题-小猫分鱼| ★★✮☆☆ | ✅ |[luogu-B3925](https://www.coderli.com/gesp-3-luogu-b3925/)|
-| luogu-B3926| 真题-单位转换| ★★✮☆☆ | ✅ |[luogu-B3926](https://www.coderli.com/gesp-3-luogu-b3926/)|
-| luogu-B3956| 真题-字母求和| ★★☆☆☆ | ✅ |[luogu-B3956](https://www.coderli.com/gesp-3-luogu-b3956/)|
-| luogu-B3957| 真题-完全平方数| ★★☆☆☆ | ✅ |[luogu-B3957](https://www.coderli.com/gesp-3-luogu-b3957/)|
-| luogu-B4003| 真题-移位| ★★☆☆☆ | ✅ |[luogu-B4003](https://www.coderli.com/gesp-3-luogu-b4003/)|
-| luogu-B4004| 真题-寻找倍数| ★★☆☆☆ | ✅ |[luogu-B4004](https://www.coderli.com/gesp-3-luogu-b4004/)|
-| luogu-B4038| 真题-平衡序列| ★★☆☆☆ | ✅ |[luogu-B4038](https://www.coderli.com/gesp-3-luogu-b4038/)|
-| luogu-B4039| 真题-回文拼接| ★★✮☆☆ | ✅ |[luogu-B4039](https://www.coderli.com/gesp-3-luogu-b4039/)|
-| luogu-B4066| 真题-数字替换| ★★✮☆☆ | ✅ |[luogu-B4066](https://www.coderli.com/gesp-3-luogu-b4066/)|
-| luogu-B4067| 真题-打印数字| ★★☆☆☆ | ✅ |[luogu-B4067](https://www.coderli.com/gesp-3-luogu-b4067/)|
-| luogu-B4261| 真题-2025| ★★☆☆☆ | ✅ |[luogu-B4261](https://www.coderli.com/gesp-3-luogu-b4261/)|
-| luogu-B4262| 真题-词频统计| ★★★☆☆ | ✅ |[luogu-B4262](https://www.coderli.com/gesp-3-luogu-b4262/)|
-| luogu-B3640| 真题-句子反转| ★★☆☆☆ | ✅ |[luogu-B3640](https://www.coderli.com/gesp-3-luogu-b3640/)|
 | luogu-B3654| 字符串-影子字符串| ★★☆☆☆ | ✅ |[luogu-B3654](https://www.coderli.com/gesp-3-luogu-b3654/)|
 | luogu-B3769| 字符串-制糊串| ★★☆☆☆ | ✅ |[luogu-B3769](https://www.coderli.com/gesp-3-luogu-b3769/)|
 | luogu-P5728| 一维数组-旗鼓相当的对手| ★★☆☆☆ | ✅ |[luogu-P5728](https://www.coderli.com/gesp-3-luogu-p5728/)|
