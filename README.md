@@ -39,6 +39,10 @@
 |（1）理解 C++指针类型的概念，掌握指针类型变量的定义、赋值、解引用。|[【GESP】C++四级考试大纲知识点梳理, (1) 指针](https://www.coderli.com/gesp-4-exam-syllabus-pointer/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（2）掌握 C++结构体、二维及多维数组的基本概念及使用|[【GESP】C++四级考试大纲知识点梳理, (2) 结构体和二维数组](https://www.coderli.com/gesp-4-exam-syllabus-struct-two-dimensional-array/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（3）理解模块化编程思想，掌握函数的声明、定义及调用，掌握形参与实参的概念及区别|[【GESP】C++四级考试大纲知识点梳理, (3) 模块化和函数](https://www.coderli.com/gesp-4-exam-syllabus-module-function/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（4）掌握变量作用域的概念，理解全局变量与局部变量的区别。|[【GESP】C++四级考试大纲知识点梳理, (4) 变量和作用域](https://www.coderli.com/gesp-4-exam-syllabus-variable-scope/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（5）掌握函数参数的传递方式：C++值传递、引用传递、指针传递；Python 值传递、引用传递。|[【GESP】C++四【GESP】C++四级考试大纲知识点梳理, (5) 值传递](https://www.coderli.com/gesp-4-exam-syllabus-pass-by-value-reference-pointer/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（6）掌握递推算法基本思想、递推关系式的推导以及递推问题求解。|[【GESP】C++四级考试大纲知识点梳理, (6) 递推算法](https://www.coderli.com/gesp-4-exam-syllabus-iteration-algo/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（7）掌握排序算法的概念，了解内排序和外排序的概念及差别，理解排序算法的时间复杂度、空间复杂度、使用场景以及稳定性。|[【GESP】C++四级考试大纲知识点梳理, (7) 排序算法基本概念](https://www.coderli.com/gesp-4-exam-syllabus-sorting-algo-conception/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 
 ### 真题解析-客观题
 
@@ -64,6 +68,24 @@
 
 | 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
 |------|----------|------|----------|
+| 2023年3月| luogu-B3834-长方形面积|循环语句|[luogu-B3834](https://www.coderli.com/gesp-1-luogu-b3834/)|
+| 2023年3月| luogu-B3835-每月天数|分支语句|[luogu-B3835](https://www.coderli.com/gesp-1-luogu-b3835/)|
+| 2023年6月| luogu-B3838-时间规划|基础运算|[luogu-B3838](https://www.coderli.com/gesp-1-luogu-b3838/)|
+| 2023年6月| luogu-B3839-累计相加|循环语句|[luogu-B3839](https://www.coderli.com/gesp-1-luogu-b3839/)|
+| 2023年9月| luogu-B3863-买文具|分支语句|[luogu-B3863](https://www.coderli.com/gesp-1-luogu-b3863/)|
+| 2023年9月| luogu-B3864-小明的幸运数|循环语句|[luogu-B3864](https://www.coderli.com/gesp-1-luogu-b3864/)|
+| 2023年12月| luogu-B3922-小杨报数|循环语句|[luogu-B3922](https://www.coderli.com/gesp-1-luogu-b3922/)|
+| 2023年12月| luogu-B3921-小杨的考试|基础运算|[luogu-B3921](https://www.coderli.com/gesp-1-luogu-b3921/)|
+| 2024年3月| luogu-B3952-小杨买书|基础运算|[luogu-B3952](https://www.coderli.com/gesp-1-luogu-b3952/)|
+| 2024年3月| luogu-B3953-找因数|循环语句|[luogu-B3953](https://www.coderli.com/gesp-1-luogu-b3953/)|
+| 2024年6月| luogu-B4000-休息时间|基础运算|[luogu-B4000](https://www.coderli.com/gesp-1-luogu-b4000/)|
+| 2024年6月| luogu-B4001-立方数|循环语句|[luogu-B4001](https://www.coderli.com/gesp-1-luogu-b4001/)|
+| 2024年9月| luogu-B4034-小杨购物|基础运算|[luogu-B4034](https://www.coderli.com/gesp-1-luogu-b4034/)|
+| 2024年9月| luogu-B4035-美丽数字|循环语句|[luogu-B4035](https://www.coderli.com/gesp-1-luogu-b4035/)|
+| 2024年12月| luogu-B4062-温度转换|基础运算|[luogu-B4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
+| 2024年12月| luogu-B4063-奇数和偶数|循环语句|[luogu-B4063](https://www.coderli.com/gesp-1-luogu-b4063/)|
+| 2025年3月| luogu-B4257-图书馆里的老鼠|基础运算|[luogu-B4257](https://www.coderli.com/gesp-1-luogu-b4257/)|
+| 2025年3月| luogu-B4258-四舍五入|循环语句|[luogu-B4258](https://www.coderli.com/gesp-1-luogu-b4258/)|
 
 #### 二级(编程题)
 

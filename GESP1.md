@@ -61,22 +61,8 @@
 | BCQM3149| for-重复说话| ★☆☆☆☆ | ✅ |[BCQM3149](https://www.coderli.com/gesp-1-bcqm3149)|
 | luogu-B3846| 一级模拟-闰年输出| ★✮☆☆☆ | ✅ |[luogu-B3846](https://www.coderli.com/gesp-1-luogu-b3846/)|
 | BCQM3092| if-双面打印| ★✮☆☆☆ | ✅ |[BCQM3092](https://www.coderli.com/gesp-1-bcqm3092/)|
-| luogu-B3834| 真题-长方形面积| ★✮☆☆☆ | ✅ |[luogu-B3834](https://www.coderli.com/gesp-1-luogu-b3834/)|
-| luogu-B3835| 真题-每月天数| ★✮☆☆☆ | ✅ |[luogu-B3835](https://www.coderli.com/gesp-1-luogu-b3835/)|
-| luogu-B3838| 真题-时间规划| ★☆☆☆☆ | ✅ |[luogu-B3838](https://www.coderli.com/gesp-1-luogu-b3838/)|
-| luogu-B3839| 真题-累计相加| ★✮☆☆☆ | ✅ |[luogu-B3839](https://www.coderli.com/gesp-1-luogu-b3839/)|
-| luogu-B3863| 真题-买文具| ★✮☆☆☆ | ✅ |[luogu-B3863](https://www.coderli.com/gesp-1-luogu-b3863/)|
-| luogu-B3864| 真题-小明的幸运数| ★✮☆☆☆ | ✅ |[luogu-B3864](https://www.coderli.com/gesp-1-luogu-b3864/)|
-| luogu-B3922| 真题-小杨报数| ★☆☆☆☆ | ✅ |[luogu-B3922](https://www.coderli.com/gesp-1-luogu-b3922/)|
-| luogu-B3921| 真题-小杨的考试| ★☆☆☆☆ | ✅ |[luogu-B3921](https://www.coderli.com/gesp-1-luogu-b3921/)|
 | luogu-B3847| 模拟-当天的第几秒| ★☆☆☆☆ | ✅ |[luogu-B3847](https://www.coderli.com/gesp-1-luogu-b3847/)|
-| luogu-B3952| 真题-小杨买书| ★☆☆☆☆ | ✅ |[luogu-B3952](https://www.coderli.com/gesp-1-luogu-b3952/)|
-| luogu-B3953| 真题-找因数| ★☆☆☆☆ | ✅ |[luogu-B3953](https://www.coderli.com/gesp-1-luogu-b3953/)|
-| luogu-B4000| 真题-休息时间| ★☆☆☆☆ | ✅ |[luogu-B4000](https://www.coderli.com/gesp-1-luogu-b4000/)|
-| luogu-B4001| 真题-立方数| ★☆☆☆☆ | ✅ |[luogu-B4001](https://www.coderli.com/gesp-1-luogu-b4001/)|
 | luogu-B3993| 模拟-明日复明日| ★☆☆☆☆ | ✅ |[luogu-B3993](https://www.coderli.com/gesp-1-luogu-b3993/)|
-| luogu-B4034| 真题-小杨购物| ★☆☆☆☆ | ✅ |[luogu-B4034](https://www.coderli.com/gesp-1-luogu-b4034/)|
-| luogu-B4035| 真题-美丽数字| ★☆☆☆☆ | ✅ |[luogu-B4035](https://www.coderli.com/gesp-1-luogu-b4035/)|
 | luogu-B3659| for-课程QQ群| ★☆☆☆☆ | ✅ |[luogu-B3659](https://www.coderli.com/gesp-1-luogu-b3659/)|
 | luogu-B2068| 综合模拟-统计满足条件的 4 位数| ★☆☆☆☆ | ✅ |[luogu-B2068](https://www.coderli.com/gesp-1-luogu-b2068/)|
 | luogu-B2057| 综合模拟-最高的分数| ★☆☆☆☆ | ✅ |[luogu-B2057](https://www.coderli.com/gesp-1-luogu-b2057/)|
@@ -119,7 +105,3 @@
 | bcqm-3153| for-订餐时间| ★☆☆☆☆ | ✅ |[bcqm-3153](https://www.coderli.com/gesp-1-bcqm-3153/)|
 | bcqm-3154| for-偶数求和| ★☆☆☆☆ | ✅ |[bcqm-3154](https://www.coderli.com/gesp-1-bcqm-3154/)|
 | bcqm-3173| 综合练习-上课点名| ★☆☆☆☆ | ✅ |[bcqm-3173](https://www.coderli.com/gesp-1-bcqm-3173/)|
-| luogu-b4062| 真题-202412温度转换| ★☆☆☆☆ | ✅ |[luogu-b4062](https://www.coderli.com/gesp-1-luogu-b4062/)|
-| luogu-b4063| 真题-202412奇数和偶数| ★☆☆☆☆ | ✅ |[luogu-b4063](https://www.coderli.com/gesp-1-luogu-b4063/)|
-| luogu-b4257| 真题-202503图书馆里的老鼠| ★☆☆☆☆ | ✅ |[luogu-b4257](https://www.coderli.com/gesp-1-luogu-b4257/)|
-| luogu-b4258| 真题-四舍五入| ★☆☆☆☆ | ✅ |[luogu-b4258](https://www.coderli.com/gesp-1-luogu-b4258/)|
