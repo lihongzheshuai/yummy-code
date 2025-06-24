@@ -27,8 +27,6 @@
 | luogu-B2083| 多层嵌套-画矩形| ★✮☆☆☆ | ✅ |[luogu-B2083](https://www.coderli.com/gesp-2-luogu-b2083/)|
 | luogu-B3845| 多层嵌套-勾股数| ★✮☆☆☆ | ✅ |[luogu-B3845](https://www.coderli.com/gesp-2-luogu-b3845/)|
 | luogu-B3844| 多层嵌套-画正方形| ★✮☆☆☆ | ✅ |[luogu-B3844](https://www.coderli.com/gesp-2-luogu-b3844/)|
-| luogu-B3837| 真题-画三角形| ★✮☆☆☆ | ✅ |[luogu-B3837](https://www.coderli.com/gesp-2-luogu-b3837/)|
-| luogu-B3836| 真题-百鸡问题| ★✮☆☆☆ | ✅ |[luogu-B3836](https://www.coderli.com/gesp-2-luogu-b3836/)|
 | luogu-B3764| 多层嵌套-计算阶乘| ★✮☆☆☆ | ✅ |[luogu-B3764](https://www.coderli.com/gesp-2-luogu-b3764/)|
 | luogu-B3677| 多层嵌套-Fear| ★✮☆☆☆ | ✅ |[luogu-B3677](https://www.coderli.com/gesp-2-luogu-b3677/)|
 | luogu-B3786| 多层嵌套-幸运数字| ★✮☆☆☆ | ✅ |[luogu-B3786](https://www.coderli.com/gesp-2-luogu-b3786/)|
@@ -38,32 +36,18 @@
 | luogu-B2053| 数学函数-求一元二次方程| ★✮☆☆☆ | ✅ |[luogu-B2053](https://www.coderli.com/gesp-2-luogu-b2053/)|
 | luogu-B2084| 数学函数-质因数分解| ★✮☆☆☆ | ✅ |[luogu-B2084](https://www.coderli.com/gesp-2-luogu-b2084/)|
 | luogu-B3658| 数学函数-口算练习| ★✮☆☆☆ | ✅ |[luogu-B3658](https://www.coderli.com/gesp-2-luogu-b3658/)|
-| luogu-B3840| 真题-找素数| ★✮☆☆☆ | ✅ |[luogu-B3840](https://www.coderli.com/gesp-2-luogu-b3840/)|
 | luogu-B3685| 数学函数-计算| ★✮☆☆☆ | ✅ |[luogu-B3685](https://www.coderli.com/gesp-2-luogu-b3685/)|
 | luogu-B3686| 数学函数-洛谷三角洲| ★✮☆☆☆ | ✅ |[luogu-B3686](https://www.coderli.com/gesp-2-luogu-b3686/)|
 | luogu-B3687| 多层嵌套-数字口袋| ★✮☆☆☆ | ✅ |[luogu-B3687](https://www.coderli.com/gesp-2-luogu-b3687/)|
 | luogu-P2669| 多层嵌套-金币| ★✮☆☆☆ | ✅ |[luogu-P2669](https://www.coderli.com/gesp-2-luogu-p2669/)|
-| luogu-B3841| 真题-自幂数判断| ★✮☆☆☆ | ✅ |[luogu-B3841](https://www.coderli.com/gesp-2-luogu-b3841/)|
 | luogu-B3669| 数学函数-购物节| ★✮☆☆☆ | ✅ |[luogu-B3669](https://www.coderli.com/gesp-2-luogu-b3669/)|
 | luogu-B3670| 多层嵌套-玉桂狗| ★✮☆☆☆ | ✅ |[luogu-B3670](https://www.coderli.com/gesp-2-luogu-b3670/)|
 | luogu-B2067| 多层嵌套-药房管理| ★☆☆☆☆ | ✅ |[luogu-B2067](https://www.coderli.com/gesp-2-luogu-b2067/)|
 | luogu-B2038| ASCII码-奇偶 ASCII 值判断| ★☆☆☆☆ | ✅ |[luogu-B2038](https://www.coderli.com/gesp-2-luogu-b2038/)|
-| luogu-B3865| 真题-小杨的 X 字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3865](https://www.coderli.com/gesp-2-luogu-b3865/)|
-| luogu-B3866| 真题-数字黑洞| ★✮☆☆☆ | ✅ |[luogu-B3866](https://www.coderli.com/gesp-2-luogu-b3866/)|
-| luogu-B3923| 真题-小杨做题| ★✮☆☆☆ | ✅ |[luogu-B3923](https://www.coderli.com/gesp-2-luogu-b3923/)|
-| luogu-B3924| 真题-小杨的H字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3924](https://www.coderli.com/gesp-2-luogu-b3924/)|
-| luogu-B3954| 真题-乘法问题| ★✮☆☆☆ | ✅ |[luogu-B3954](https://www.coderli.com/gesp-2-luogu-b3954/)|
-| luogu-B3955| 真题-小杨的日字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3955](https://www.coderli.com/gesp-2-luogu-b3955/)|
 | luogu-B3995| 模拟-小洛的田字矩阵| ★✮☆☆☆ | ✅ |[luogu-B3995](https://www.coderli.com/gesp-2-luogu-b3995/)|
 | luogu-B3994| 模拟-周长与面积计算| ★✮☆☆☆ | ✅ |[luogu-B3994](https://www.coderli.com/gesp-2-luogu-b3994/)|
 | luogu-P1150| 循环、数学-Peter 的烟| ★✮☆☆☆ | ✅ |[luogu-P1150](https://www.coderli.com/gesp-2-luogu-p1150/)|
 | luogu-P1179| 循环、数学-数字统计| ★✮☆☆☆ | ✅ |[luogu-P1179](https://www.coderli.com/gesp-2-luogu-p1179/)|
-| luogu-B4002| 真题-平方之和| ★✮☆☆☆ | ✅ |[luogu-B4002](https://www.coderli.com/gesp-2-luogu-b4002/)|
-| luogu-B4007| 真题-计数| ★✮☆☆☆ | ✅ |[luogu-B4007](https://www.coderli.com/gesp-2-luogu-b4007/)|
-| luogu-B4036| 真题-数位之和| ★✮☆☆☆ | ✅ |[luogu-B4036](https://www.coderli.com/gesp-2-luogu-b4036/)|
-| luogu-B4037| 真题-小杨的 N 字矩阵| ★✮☆☆☆ | ✅ |[luogu-B4037](https://www.coderli.com/gesp-2-luogu-b4037/)|
-| luogu-B4064| 真题-寻找数字| ★✮☆☆☆ | ✅ |[luogu-B4064](https://www.coderli.com/gesp-2-luogu-b4064/)|
-| luogu-B4065| 真题-数位和| ★✮☆☆☆ | ✅ |[luogu-B4065](https://www.coderli.com/gesp-2-luogu-b4065/)|
 | luogu-B2073| 多层循环-求小数的某一位| ★✮☆☆☆ | ✅ |[luogu-B2073](https://www.coderli.com/gesp-2-luogu-b2073/)|
 | luogu-B3700| 多层循环-九九乘方表| ★✮☆☆☆ | ✅ |[luogu-B3700](https://www.coderli.com/gesp-2-luogu-b3700/)|
 | luogu-B3710| 多层循环-破碎的历史| ★✮☆☆☆ | ✅ |[luogu-B3710](https://www.coderli.com/gesp-2-luogu-b3710/)|
@@ -95,5 +79,3 @@
 | local-07| 多层循环-图形输出练习-三角形（等腰）| ★✮☆☆☆ | ✅ |[local-07](https://www.coderli.com/gesp-2-local-07-tri-mid-pic/)|
 | local-08| 多层循环-图形输出练习-菱形（十字）| ★✮☆☆☆ | ✅ |[local-08](https://www.coderli.com/gesp-2-local-08-dia-mid-pic/)|
 | local-09| 多层循环-图形输出练习-菱形（中心）| ★✮☆☆☆ | ✅ |[local-09](https://www.coderli.com/gesp-2-local-09-dia-one/)|
-| luogu-B4259| 真题-等差矩阵| ★✮☆☆☆ | ✅ |[luogu-B4259](https://www.coderli.com/gesp-2-luogu-b4259/)|
-| luogu-B4260| 真题-时间跨越| ★✮☆☆☆ | ✅ |[luogu-B4260](https://www.coderli.com/gesp-2-luogu-b4260/)|
