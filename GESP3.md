@@ -69,4 +69,3 @@
 | luogu-P1614| 一维数组-爱与愁的心痛| ★★☆☆☆ | ✅ |[luogu-P1614](https://www.coderli.com/gesp-3-luogu-p1614/)|
 | luogu-P2141| 一维数组-珠心算测验| ★★☆☆☆ | ✅ |[luogu-P2141](https://www.coderli.com/gesp-3-luogu-p2141/)|
 | luogu-P2911| 一维数组-[USACO08OCT] Bovine Bones G| ★★☆☆☆ | ✅ |[luogu-P2911](https://www.coderli.com/gesp-3-luogu-p2911/)|
-
