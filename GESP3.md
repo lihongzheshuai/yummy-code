@@ -52,3 +52,4 @@
 | luogu-P2141| 一维数组-珠心算测验| ★★☆☆☆ | ✅ |[luogu-P2141](https://www.coderli.com/gesp-3-luogu-p2141/)|
 | luogu-P2911| 一维数组-[USACO08OCT] Bovine Bones G| ★★✮☆☆ | ✅ |[luogu-P2911](https://www.coderli.com/gesp-3-luogu-p2911/)|
 | luogu-B1161| 一维数组-开灯| ★★☆☆☆ | ✅ |[luogu-B1161](https://www.coderli.com/gesp-3-luogu-b1161/)|
+| luogu-B1319| 字符串/位运算-压缩技术| ★★☆☆☆ | ✅ |[luogu-B1319](https://www.coderli.com/gesp-3-luogu-b1319/)|
