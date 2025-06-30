@@ -88,7 +88,7 @@
 | 2025年3月| 图书馆里的老鼠|基础运算|[luogu-B4257-图书馆里的老鼠](https://www.coderli.com/gesp-1-luogu-b4257/)|
 | 2025年3月| 四舍五入|循环语句|[luogu-B4258-四舍五入](https://www.coderli.com/gesp-1-luogu-b4258/)|
 | 2025年6月| 假期阅读|基础运算+分支语句|[luogu-B4354-假期阅读](https://www.coderli.com/gesp-1-luogu-b4354/)|
-| 2025年6月| 值日|基础运算+分支语句|[luogu-B4355-值日](https://www.coderli.com/gesp-1-luogu-b4355/)|
+| 2025年6月| 值日|基础运算+循环语句|[luogu-B4355-值日](https://www.coderli.com/gesp-1-luogu-b4355/)|
 
 #### 二级(编程题)
 
