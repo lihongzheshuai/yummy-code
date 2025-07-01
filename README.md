@@ -94,24 +94,26 @@
 
 | 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
 |------|----------|------|----------|
-| 2023年3月|百鸡问题|多重循环/分支|[luogu-B3836-百鸡问题](https://www.coderli.com/gesp-2-luogu-b3836/)|
-| 2023年3月| 画三角形|多重循环/分支+ASCII码|[luogu-B3837-画三角形](https://www.coderli.com/gesp-2-luogu-b3837/)|
-| 2023年6月| 找素数|多重循环/分支+数学函数|[luogu-B3840-找素数](https://www.coderli.com/gesp-2-luogu-b3840/)|
-| 2023年6月| 自幂数判断|多重循环/分支|[luogu-B3841-自幂数判断](https://www.coderli.com/gesp-2-luogu-b3841/)|
-| 2023年9月| 小杨的 X 字矩阵|多重循环/分支|[luogu-B3865-小杨的 X 字矩阵](https://www.coderli.com/gesp-2-luogu-b3865/)|
-| 2023年9月| 数字黑洞|多重循环/分支+数学函数|[luogu-B3866-数字黑洞](https://www.coderli.com/gesp-2-luogu-b3866/)|
-| 2023年12月| 小杨做题|多重循环/分支|[luogu-B3923-小杨做题](https://www.coderli.com/gesp-2-luogu-b3923/)|
-| 2023年12月| 小杨的H字矩阵|多重循环/分支|[luogu-B3924-小杨的H字矩阵](https://www.coderli.com/gesp-2-luogu-b3924/)|
-| 2024年3月| 乘法问题|多重循环/分支|[luogu-B3954-乘法问题](https://www.coderli.com/gesp-2-luogu-b3954/)|
-| 2024年3月| 小杨的日字矩阵|多重循环/分支|[luogu-B3955-小杨的日字矩阵](https://www.coderli.com/gesp-2-luogu-b3955/)|
-| 2024年6月| 平方之和|多重循环/分支|[luogu-B4002-平方之和](https://www.coderli.com/gesp-2-luogu-b4002/)|
-| 2024年6月| 计数|多重循环/分支|[luogu-B4007-计数](https://www.coderli.com/gesp-2-luogu-b4007/)|
-| 2024年9月| 数位之和|多重循环/分支|[luogu-B4036-数位之和](https://www.coderli.com/gesp-2-luogu-b4036/)|
-| 2024年9月| 小杨的 N 字矩阵|多重循环/分支|[luogu-B4037-小杨的 N 字矩阵](https://www.coderli.com/gesp-2-luogu-b4037/)|
-| 2024年12月| 寻找数字|多重循环/分支|[luogu-B4064-寻找数字](https://www.coderli.com/gesp-2-luogu-b4064/)|
-| 2024年12月| 数位和|多重循环/分支|[luogu-B4065-数位和](https://www.coderli.com/gesp-2-luogu-b4065/)|
-| 2025年3月| 等差矩阵|多重循环/分支|[luogu-B4259-等差矩阵](https://www.coderli.com/gesp-2-luogu-b4259/)|
-| 2025年3月| 时间跨越|多重循环/分支|[luogu-B4260-时间跨越](https://www.coderli.com/gesp-2-luogu-b4260/)|
+| 2023年3月|百鸡问题|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3836-百鸡问题](https://www.coderli.com/gesp-2-luogu-b3836/)|
+| 2023年3月| 画三角形|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)+ASCII码|[luogu-B3837-画三角形](https://www.coderli.com/gesp-2-luogu-b3837/)|
+| 2023年6月| 找素数|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)、[数学函数](https://www.coderli.com/tags/%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0/)|[luogu-B3840-找素数](https://www.coderli.com/gesp-2-luogu-b3840/)|
+| 2023年6月| 自幂数判断|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3841-自幂数判断](https://www.coderli.com/gesp-2-luogu-b3841/)|
+| 2023年9月| 小杨的 X 字矩阵|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3865-小杨的 X 字矩阵](https://www.coderli.com/gesp-2-luogu-b3865/)|
+| 2023年9月| 数字黑洞|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)、[数学函数](https://www.coderli.com/tags/%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0/)|[luogu-B3866-数字黑洞](https://www.coderli.com/gesp-2-luogu-b3866/)|
+| 2023年12月| 小杨做题|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3923-小杨做题](https://www.coderli.com/gesp-2-luogu-b3923/)|
+| 2023年12月| 小杨的H字矩阵|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3924-小杨的H字矩阵](https://www.coderli.com/gesp-2-luogu-b3924/)|
+| 2024年3月| 乘法问题|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3954-乘法问题](https://www.coderli.com/gesp-2-luogu-b3954/)|
+| 2024年3月| 小杨的日字矩阵|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B3955-小杨的日字矩阵](https://www.coderli.com/gesp-2-luogu-b3955/)|
+| 2024年6月| 平方之和|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4002-平方之和](https://www.coderli.com/gesp-2-luogu-b4002/)|
+| 2024年6月| 计数|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4007-计数](https://www.coderli.com/gesp-2-luogu-b4007/)|
+| 2024年9月| 数位之和|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4036-数位之和](https://www.coderli.com/gesp-2-luogu-b4036/)|
+| 2024年9月| 小杨的 N 字矩阵|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4037-小杨的 N 字矩阵](https://www.coderli.com/gesp-2-luogu-b4037/)|
+| 2024年12月| 寻找数字|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4064-寻找数字](https://www.coderli.com/gesp-2-luogu-b4064/)|
+| 2024年12月| 数位和|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4065-数位和](https://www.coderli.com/gesp-2-luogu-b4065/)|
+| 2025年3月| 等差矩阵|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4259-等差矩阵](https://www.coderli.com/gesp-2-luogu-b4259/)|
+| 2025年3月| 时间跨越|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4260-时间跨越](https://www.coderli.com/gesp-2-luogu-b4260/)|
+| 2025年6月| 数三角形|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4356-数三角形](https://www.coderli.com/gesp-2-luogu-b4356/)|
+| 2025年6月| 幂和数|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)、[数学函数](https://www.coderli.com/tags/%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0/)|[luogu-B4357-幂和数](https://www.coderli.com/gesp-2-luogu-b4357/)|
 
 #### 三级(编程题)
 
