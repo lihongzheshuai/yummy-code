@@ -160,4 +160,5 @@
 - C++ GESP交流频道：[点击加入](https://pd.qq.com/s/1gsdm3gdn)
 - C++ GESP学习交流群：[点击加入](https://qm.qq.com/q/LwkBh6rMMS)
 - ***GESP/CSP 认证学习微信公众号***
+
 ![GESP/CSP 认证学习微信公众号](/resources/wechat_qrcode.jpg)
