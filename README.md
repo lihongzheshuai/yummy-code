@@ -40,10 +40,11 @@
 |（2）掌握 C++结构体、二维及多维数组的基本概念及使用|[【GESP】C++四级考试大纲知识点梳理, (2) 结构体和二维数组](https://www.coderli.com/gesp-4-exam-syllabus-struct-two-dimensional-array/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（3）理解模块化编程思想，掌握函数的声明、定义及调用，掌握形参与实参的概念及区别|[【GESP】C++四级考试大纲知识点梳理, (3) 模块化和函数](https://www.coderli.com/gesp-4-exam-syllabus-module-function/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（4）掌握变量作用域的概念，理解全局变量与局部变量的区别。|[【GESP】C++四级考试大纲知识点梳理, (4) 变量和作用域](https://www.coderli.com/gesp-4-exam-syllabus-variable-scope/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
-|（5）掌握函数参数的传递方式：C++值传递、引用传递、指针传递；Python 值传递、引用传递。|[【GESP】C++四【GESP】C++四级考试大纲知识点梳理, (5) 值传递](https://www.coderli.com/gesp-4-exam-syllabus-pass-by-value-reference-pointer/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（5）掌握函数参数的传递方式：C++值传递、引用传递、指针传递；Python 值传递、引用传递。|[【GESP】C++四级考试大纲知识点梳理, (5) 值传递](https://www.coderli.com/gesp-4-exam-syllabus-pass-by-value-reference-pointer/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（6）掌握递推算法基本思想、递推关系式的推导以及递推问题求解。|[【GESP】C++四级考试大纲知识点梳理, (6) 递推算法](https://www.coderli.com/gesp-4-exam-syllabus-iteration-algo/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（7）掌握排序算法的概念，了解内排序和外排序的概念及差别，理解排序算法的时间复杂度、空间复杂度、使用场景以及稳定性。|[【GESP】C++四级考试大纲知识点梳理, (7) 排序算法基本概念](https://www.coderli.com/gesp-4-exam-syllabus-sorting-algo-conception/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（8）掌握排序算法中的冒泡排序、插入排序、选择排序的算法思想、排序步骤及代码实现。|[【GESP】C++四级考试大纲知识点梳理, (8) 冒泡、插入、选择排序](https://www.coderli.com/gesp-4-exam-syllabus-three-sorting-methods/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（9）简单算法复杂度的估算，含多项式、指数复杂度。|[【GESP】C++四级考试大纲知识点梳理, (9) 简单算法复杂度的估算](https://www.coderli.com/gesp-4-exam-syllabus-estimation-of-algorithm-time-complexity/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 
 ### 真题解析-客观题
 
