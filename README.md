@@ -52,6 +52,7 @@
 
 | 考试时间 | 题目解析 |
 |------|----------|
+| 2025年6月 | [【GESP】C++ 2025年6月一级考试-客观题真题解析](https://www.coderli.com/gesp-1-analysis-of-real-questions-202506/) |
 
 #### 二级(客观题)
 
