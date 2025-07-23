@@ -29,6 +29,7 @@
 |（2）掌握数据的进制转换：二进制、八进制、十进制、十六进制。|[【GESP】C++三级考试大纲知识点梳理, （2）数据的进制转换](https://www.coderli.com/gesp-3-exam-syllabus-data-conversion/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 |（3）掌握位运算：与(&)、或(\|)、非(~)、异或(^)、左移(«)、右移(»)的基本使用方法及原理。|[【GESP】C++三级考试大纲知识点梳理, （3）位运算](https://www.coderli.com/gesp-3-exam-syllabus-bit-operation/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 |（4）了解算法的概念与描述，熟练运用自然语言、流程图、伪代码方式来描述算法。|[【GESP】C++三级考试大纲知识点梳理, （4）算法](https://www.coderli.com/gesp-3-exam-syllabus-algo/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
+|（5）C++一维数组基本应用；Python 列表、字典、元组、集合的基本应用、内置 函数以及列表解析的使用。|[【GESP】C++三级知识点研究，一维数组声明合法性](https://www.coderli.com/gesp-3-knowledge-one-dimensional-array-declaration/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 |（6）掌握字符串及其函数的使用包括但不限于大小写转换、字符串搜索、分割、替换。|[【GESP】C++三级考试大纲知识点梳理, （6）字符串](https://www.coderli.com/gesp-3-exam-syllabus-string/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 |(7) (8) 理解枚举算法、模拟算法的原理及特点，可以解决实际问题。|[【GESP】C++三级考试大纲知识点梳理, (7) (8) 枚举算法、模拟算法](https://www.coderli.com/gesp-3-exam-syllabus-algo-enumeration-simulation/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|
 
@@ -45,25 +46,101 @@
 |（7）掌握排序算法的概念，了解内排序和外排序的概念及差别，理解排序算法的时间复杂度、空间复杂度、使用场景以及稳定性。|[【GESP】C++四级考试大纲知识点梳理, (7) 排序算法基本概念](https://www.coderli.com/gesp-4-exam-syllabus-sorting-algo-conception/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（8）掌握排序算法中的冒泡排序、插入排序、选择排序的算法思想、排序步骤及代码实现。|[【GESP】C++四级考试大纲知识点梳理, (8) 冒泡、插入、选择排序](https://www.coderli.com/gesp-4-exam-syllabus-three-sorting-methods/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（9）简单算法复杂度的估算，含多项式、指数复杂度。|[【GESP】C++四级考试大纲知识点梳理, (9) 简单算法复杂度的估算](https://www.coderli.com/gesp-4-exam-syllabus-estimation-of-algorithm-time-complexity/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（10）掌握文件操作中的重定向，实现文件读写操作，了解文本文件的分类，掌握写操作、读操作、读写操作。|[【GESP】C++四级考试大纲知识点梳理, (10) 文件读写和重定向](https://www.coderli.com/gesp-4-exam-syllabus-file-read-write/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
+|（11）了解异常处理机制，掌握异常处理的常用方法。|[【GESP】C++四级考试大纲知识点梳理, (11) 异常处理机制](https://www.coderli.com/gesp-4-exam-syllabus-exception/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 
 ### 真题解析-客观题
 
 #### 一级(客观题)
 
-| 考试时间 | 题目解析 |
-|------|----------|
-| 2025年6月 | [【GESP】C++ 2025年6月一级考试-客观题真题解析](https://www.coderli.com/gesp-1-analysis-of-real-questions-202506/) |
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年3月 | [GESP第一次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/2SJtOkaPqnb8IZblSbnfrQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年6月 | [GESP第二次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/-sawtagzrCM27SWz85W0dw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年9月 | [GESP第三次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/i4zchYyW3mt5ZHoyQPMDFA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 | [GESP第五次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/c7uS6mLE436fkJMu1Cuehg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 | [GESP第六次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/AWazv8ttKrxYhWxxfGYzwQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/nQ8d5JcxFFUzh0-JXTj0Ug) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/snIW9bO14f5burkJ74xBug) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [【GESP】C++ 2025年6月一级考试-客观题真题解析](https://www.coderli.com/gesp-1-analysis-of-real-questions-202506/) | [本站](https://www.coderli.com/)|
 
 #### 二级(客观题)
 
-| 考试时间 | 题目解析 |
-|------|----------|
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年3月 | [GESP第一次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/kErNGnm060WC8G3TxSiOrA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年6月 | [GESP第二次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/dFw_mXEr8u3cH1Nlzv6lIQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年9月 | [GESP第三次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/rgZwJyZhKdXMim5we0CG1A) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 | [GESP第五次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/4iNXFfAlmDCeCfYbxMUqTA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 | [GESP第六次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/8Zta63WK6SE1km1sfkJvww) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/dG42rCy8EBoI6n4go1hIEQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/92G6w7Mx8pbHtXDSj0qEyQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 #### 三级(客观题)
 
-| 考试时间 | 题目解析 |
-|------|----------|
-| 2025年3月 | [【GESP】C++ 2025年3月三级考试-客观题真题解析](https://www.coderli.com/gesp-3-analysis-of-real-questions-202503/) |
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年6月 | [GESP第二次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/vN1cVcjP-xDj8ilbWsn0vg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年9月 | [GESP第三次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/olavezuO97ArYdgpDU1_Qw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/r0Qtz2s15MamBHKikYLm7Q) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/MB4GPzmuzkpF5JkyYi2ODA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/18EErHHPhD-w1QtcWmLOxg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/lwPKdQgaQyOGYkyn0-sc_g) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年3月 | [【GESP】C++ 2025年3月三级考试-客观题真题解析](https://www.coderli.com/gesp-3-analysis-of-real-questions-202503/) |[本站](https://www.coderli.com/)|
+
+#### 四级(客观题)
+
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年6月 | [GESP第二次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/moX2cZUBuT1Tw40GNs4qRA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年9月 | [GESP第三次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/K-MgXg4SENNco2BGL_jzMQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/3ZHHMJRXhTUoh51fc4KSFQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/Tm-NkiNH3qji3sxJp-_saA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/6j_0v7V1O7YAqASTIvGr2Q) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/SDu2IfFOSMIi4UhQhGIXfA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年3月 | [【GESP】C++ 2025年3月四级考试-客观题真题解析](https://www.coderli.com/gesp-4-analysis-of-real-questions-202503/) |[本站](https://www.coderli.com/)|
+
+#### 五级(客观题)
+
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年9月 | [GESP第三次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/dr6iVGPEPBPuw96AhIRAmw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年12月 | [GESP第四次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/wckRa0aVqxZ6pUa7UQZtAQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/tJ0ivrTRe9k64DIR4HjhRg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/b-nu42L2l37vFtvfzLxdMQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/uI6aHKEFR2dHpI4LBGigTQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/UVymIpi0nIJ-suweyX3ouw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+
+#### 六级(客观题)
+
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年9月 | [GESP第三次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/knJTsEVwncEl1rUy7GmVEw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2023年12月 | [GESP第四次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/RFbnE-waxTAxMRpNTukcrA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/uBowHCTPFuhwEhbudpiZlw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/YwtzWCZTRNWjVOSslYZeyw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/qN-KMwIrk7_qsteVqFOzvg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/2b2YJ1zepWSnAQgaDDVgrw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+
+#### 七级(客观题)
+
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年12月 | [GESP第四次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/AsVWTmFECtHbJ0RGxhgelw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/6XF2qXb5MNqfNc8i2i1xrA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/nSlcpxCaj2KxVITABg9H-Q) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/E_vPIWkWJiXalDylZ4zYwQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/3qgIQxjgzz42B8WebtUs_g) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+
+#### 八级(客观题)
+
+| 考试时间 | 题目解析 |来源|
+|------|----------|---|
+| 2023年12月 | [GESP第四次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/HiCsMn_vzgIBAhRFUni62A) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年3月 |[GESP第五次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/Bu_CIs1bL54w3uc1yKSazw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年6月 |[GESP第六次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/pQIYo5SIc9vb42Z7zE9z3g) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年9月 | [GESP第七次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/DSa1_RlZa3WBU4ziSgHM0A) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2024年12月 | [GESP第八次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/eQS4bqPm4tGKziFe0b2QMg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 真题解析-编程题
 
