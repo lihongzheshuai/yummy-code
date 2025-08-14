@@ -47,6 +47,15 @@
 |（10）掌握文件操作中的重定向，实现文件读写操作，了解文本文件的分类，掌握写操作、读操作、读写操作。|[【GESP】C++四级考试大纲知识点梳理, (10) 文件读写和重定向](https://www.coderli.com/gesp-4-exam-syllabus-file-read-write/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 |（11）了解异常处理机制，掌握异常处理的常用方法。|[【GESP】C++四级考试大纲知识点梳理, (11) 异常处理机制](https://www.coderli.com/gesp-4-exam-syllabus-exception/)|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|
 
+### 五级（考纲）
+
+| 考点 | 知识讲解 | 考试级别 |
+|------|----------|------|
+|（1）掌握初等数论相关知识的概念和应用，包括素数与合数、最大公约数与最小公倍数、同余与模运算、约数与倍数、质因数分解、奇偶性等。|[【GESP】C++五级考试大纲知识点梳理, (1) 初等数论](https://www.coderli.com/gesp-5-exam-syllabus-elementary-number-theory/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（2）掌握 C++数组模拟高精度加法、减法、乘法和除法的相关知识。|[【GESP】C++五级考试大纲知识点梳理, (2) 模拟高精度计算](https://www.coderli.com/gesp-5-exam-syllabus-simulate-high-precision-arithmetic/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（3-1）掌握链表的创建、插入、删除、遍历和反转操作，理解***单链表***、双链表、循环链表的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-1) 链表-单链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-1-singly/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（3-2）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、***双链表***、循环链表的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-2) 链表-双向链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-2-double/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+
 ---
 
 ## 真题解析-客观题
@@ -213,7 +222,7 @@
 | 2023年9月| 进制判断|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3868-进制判断](https://www.coderli.com/gesp-3-luogu-b3868/)|
 | 2023年12月| 小猫分鱼|[多重循环](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)、[模拟算法](https://www.coderli.com/tags/%E6%A8%A1%E6%8B%9F%E7%AE%97%E6%B3%95/)|[luogu-B3925-小猫分鱼](https://www.coderli.com/gesp-3-luogu-b3925/)|
 | 2023年12月| 单位转换|[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3926-单位转换](https://www.coderli.com/gesp-3-luogu-b3926/)|
-| 2024年3月| 乘字母求和|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3956-乘字母求和](https://www.coderli.com/gesp-3-luogu-b3956/)|
+| 2024年3月| 字母求和|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3956-字母求和](https://www.coderli.com/gesp-3-luogu-b3956/)|
 | 2024年3月| 完全平方数|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3957-完全平方数](https://www.coderli.com/gesp-3-luogu-b3957/)|
 | 2024年6月| 移位|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B4003-移位](https://www.coderli.com/gesp-3-luogu-b4003/)|
 | 2024年6月| 寻找倍数|[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4004-寻找倍数](https://www.coderli.com/gesp-3-luogu-b4004/)|
@@ -232,6 +241,9 @@
 |------|----------|------|----------|
 | 2023年6月| 幸运数|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)|[luogu-B3850-幸运数](https://www.coderli.com/gesp-4-luogu-b3850/)|
 | 2023年6月| 图像压缩|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[结构体](https://www.coderli.com/tags/%E7%BB%93%E6%9E%84%E4%BD%93/)、[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)、[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)|[luogu-B3851-图像压缩](https://www.coderli.com/gesp-4-luogu-b3851/)|
+| 2023年9月| 变长编码|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[位运算](https://www.coderli.com/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/)|[luogu-B3870-变长编码](https://www.coderli.com/gesp-4-luogu-b3870/)|
+| 2023年9月| 进制转换|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)|[luogu-B3869-进制转换](https://www.coderli.com/gesp-4-luogu-b3869/)|
+| 2023年12月| 小杨的字典|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3927-小杨的字典](https://www.coderli.com/gesp-4-luogu-b3927/)|
 
 ---
 
@@ -246,7 +258,13 @@
 |[一维数组](https://www.coderli.com/tags/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84/)|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|[【GESP】C++三级知识点研究，一维数组声明合法性](https://www.coderli.com/gesp-3-knowledge-one-dimensional-array-declaration/)|[本站](https://www.coderli.com/)|
 |位运算|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|[GESP知识充电站\|位运算的应用](https://mp.weixin.qq.com/s/S-rszHFlwGq5b9JJXHSHFg)|[CCF GESP官方](https://gesp.ccf.org.cn/)|
 |位运算|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|[位运算规则与技巧](https://mp.weixin.qq.com/s/rEYtVhkKO2HCX4EdtWr5fQ)|[CCF GESP官方](https://gesp.ccf.org.cn/)|
+|枚举法|[三级](https://www.coderli.com/categories/%E4%B8%89%E7%BA%A7/)|[枚举法\|GESP知识充电站](https://mp.weixin.qq.com/s/qrGI23y1m11lo_dkqAFs5Q)|[CCF GESP官方](https://gesp.ccf.org.cn/)|
 |算法复杂度|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|[算法的时间复杂度分析](https://mp.weixin.qq.com/s/v0CtoL8ri8ZTLb9VQIMWGQ)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+|排序算法|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|[排序算法的稳定性及简单排序算法介绍\|GESP知识充电站](https://mp.weixin.qq.com/s/3KKPvfhzTBg0wac5X0AZiw)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+|异常机制|[四级](https://www.coderli.com/categories/%E5%9B%9B%E7%BA%A7/)|[异常处理\|GESP知识充电站](https://mp.weixin.qq.com/s/d5Y6WCUmskOE3pIcxOVUHA)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+|素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：线性筛](https://mp.weixin.qq.com/s/EK0gkCDotk_HindvjMqeQA)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+|素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：埃式筛](https://mp.weixin.qq.com/s/7G0aSy2PoCe09Oh1YjSuJg)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+|素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：试除法](https://mp.weixin.qq.com/s/Oc2yn1h-ZjKrfdCuV_yLdA)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ---
 
