@@ -1,5 +1,6 @@
-#include <iostream>
 #include <cmath>
+#include <iostream>
+#include <string>
 
 bool is_similar(std::string a, std::string b) {
     if (a == b) {

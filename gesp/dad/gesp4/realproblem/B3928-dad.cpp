@@ -26,14 +26,19 @@ int main() {
 
     // 从后向前遍历 m_array，寻找满足条件的数对
     for (int i = n - 1; i >= 0; i--) {
+        bool horse = false;
         // 从最后一个满足条件的数开始向前遍历 t_array，找到第一个满足条件的数对
         for (int j = last_j - 1; j >= 0; j--) {
             if (m_array[i] > t_array[j]) {
                 count++;
+                horse = true;
                 // 更新最后一个满足条件的数的索引
                 last_j = j;
                 break;
             }
+        }
+        if (!horse) {
+            break;
         }
     }
 
