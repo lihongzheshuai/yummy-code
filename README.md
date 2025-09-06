@@ -244,6 +244,10 @@
 | 2023年9月| 变长编码|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[位运算](https://www.coderli.com/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/)|[luogu-B3870-变长编码](https://www.coderli.com/gesp-4-luogu-b3870/)|
 | 2023年9月| 进制转换|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)|[luogu-B3869-进制转换](https://www.coderli.com/gesp-4-luogu-b3869/)|
 | 2023年12月| 小杨的字典|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3927-小杨的字典](https://www.coderli.com/gesp-4-luogu-b3927/)|
+| 2023年12月| 田忌赛马|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)、[贪心](https://www.coderli.com/tags/%E8%B4%AA%E5%BF%83/)|[luogu-B3928-田忌赛马](https://www.coderli.com/gesp-4-luogu-b3928/)|
+| 2024年3月| 相似字符串|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3958-相似字符串](https://www.coderli.com/gesp-4-luogu-b3958/)|
+| 2024年3月| 做题|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)|[luogu-B3959-做题](https://www.coderli.com/gesp-4-luogu-b3959/)|
+| 2024年6月| 黑白方块|[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)、[前缀和](https://www.coderli.com/tags/%E5%89%8D%E7%BC%80%E5%92%8C/)|[luogu-B4005-黑白方块](https://www.coderli.com/gesp-4-luogu-b4005/)|
 
 ---
 
