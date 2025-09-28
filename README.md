@@ -55,6 +55,11 @@
 |（2）掌握 C++数组模拟高精度加法、减法、乘法和除法的相关知识。|[【GESP】C++五级考试大纲知识点梳理, (2) 模拟高精度计算](https://www.coderli.com/gesp-5-exam-syllabus-simulate-high-precision-arithmetic/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
 |（3-1）掌握链表的创建、插入、删除、遍历和反转操作，理解***单链表***、双链表、循环链表的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-1) 链表-单链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-1-singly/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
 |（3-2）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、***双链表***、循环链表的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-2) 链表-双向链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-2-double/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（3-3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、***循环链表***的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-3) 链表-单向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-3-singly-circle/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（3-4）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、***循环链表***的区别。|[【GESP】C++五级考试大纲知识点梳理, (3-4) 链表-双向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-4-double-circle/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（4）掌握辗转相除法（也称欧几里得算法）、素数表的埃氏筛法和线性筛法、唯一分解定理的原理和应用。|[【GESP】C++五级考试大纲知识点梳理, (4) 辗转相除法、素数表和唯一性定理](https://www.coderli.com/gesp-5-exam-syllabus-4-three-theorem-and-algorithm/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（5）掌握算法复杂度估算方法（含多项式、对数）。|[【GESP】C++五级考试大纲知识点梳理, (5) 算法复杂度估算（多项式、对数）](https://www.coderli.com/gesp-5-exam-syllabus-5-estimation-of-algorithm-polynomial-logarithmic/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
+|（6）掌握二分查找和二分答案算法（也称二分枚举法）的基本原理，能够在有序数组中快速定位目标值。|[【GESP】C++五级考试大纲知识点梳理, (6) 二分查找和二分答案z）](https://www.coderli.com/gesp-5-exam-syllabus-6-binary-search/)|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|
 
 ---
 
@@ -73,6 +78,7 @@
 | 2024年12月 | [GESP第八次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/snIW9bO14f5burkJ74xBug) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/oi1_CfNbTthz81b1bPWgVg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年6月 | [【GESP】C++ 2025年6月一级考试-客观题真题解析](https://www.coderli.com/gesp-1-analysis-of-real-questions-202506/) | [本站](https://www.coderli.com/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++一级真题回顾](https://mp.weixin.qq.com/s/xmpAXna29W1Q9tUuGr2rkQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 二级(客观题)
 
@@ -86,6 +92,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/dG42rCy8EBoI6n4go1hIEQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/92G6w7Mx8pbHtXDSj0qEyQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/2Kg19RFhcUn6WWilIn4RQw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++二级真题回顾](https://mp.weixin.qq.com/s/4NYyP6ZJ0wbRuF5_0yuclw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 三级(客观题)
 
@@ -99,6 +106,7 @@
 | 2024年12月 | [GESP第八次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/lwPKdQgaQyOGYkyn0-sc_g) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [【GESP】C++ 2025年3月三级考试-客观题真题解析](https://www.coderli.com/gesp-3-analysis-of-real-questions-202503/) |[本站](https://www.coderli.com/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/_bYX9BSu9yT9YzMAshozaA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/0L5i5qwycl45v__D0dIcew) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 四级(客观题)
 
@@ -111,6 +119,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/6j_0v7V1O7YAqASTIvGr2Q) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/SDu2IfFOSMIi4UhQhGIXfA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/WqisbmwUs-6vv7DFWRW6Eg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++四级真题回顾](https://mp.weixin.qq.com/s/T3aM9qAttV120ucJV3nuCg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 五级(客观题)
 
@@ -123,6 +132,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/uI6aHKEFR2dHpI4LBGigTQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/UVymIpi0nIJ-suweyX3ouw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/9PxSi7OhGhQGLtkyoqOslA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++五级真题回顾](https://mp.weixin.qq.com/s/6NLPJ2cjc6ciuKxUfNrq1w) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 六级(客观题)
 
@@ -135,6 +145,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/qN-KMwIrk7_qsteVqFOzvg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/2b2YJ1zepWSnAQgaDDVgrw) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/FERvusj2pDdyTkb_QfwwEA) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++六级真题回顾](https://mp.weixin.qq.com/s/CYRSlcd3mLH-GKXYSw2FoQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 七级(客观题)
 
@@ -146,6 +157,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/E_vPIWkWJiXalDylZ4zYwQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/3qgIQxjgzz42B8WebtUs_g) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/3uP4FCE9xZPrK1DIGxaCiQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++七级真题回顾](https://mp.weixin.qq.com/s/dBcVmzM7k2oXIleG-iVNQQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ### 八级(客观题)
 
@@ -157,6 +169,7 @@
 | 2024年9月 | [GESP第七次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/DSa1_RlZa3WBU4ziSgHM0A) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2024年12月 | [GESP第八次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/eQS4bqPm4tGKziFe0b2QMg) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 | 2025年3月 | [GESP第九次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/H8whNj3UCOELIqE_ul1cQQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
+| 2025年6月 | [GESP第十次认证真题解析\|C++八级真题回顾](https://mp.weixin.qq.com/s/U3S2No1Y75daK00_opoanQ) | [CCF GESP官方](https://gesp.ccf.org.cn/)|
 
 ---
 
@@ -211,6 +224,8 @@
 | 2025年3月| 时间跨越|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4260-时间跨越](https://www.coderli.com/gesp-2-luogu-b4260/)|
 | 2025年6月| 数三角形|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4356-数三角形](https://www.coderli.com/gesp-2-luogu-b4356/)|
 | 2025年6月| 幂和数|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)、[数学函数](https://www.coderli.com/tags/%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0/)|[luogu-B4357-幂和数](https://www.coderli.com/gesp-2-luogu-b4357/)|
+| 2025年9月| 优美的数字|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4411-优美的数字](https://www.coderli.com/gesp-2-luogu-b4411/)|
+| 2025年9月| 菱形|[多重循环/分支](https://www.coderli.com/tags/%E5%A4%9A%E9%87%8D%E5%BE%AA%E7%8E%AF/)|[luogu-B4412-菱形](https://www.coderli.com/gesp-2-luogu-b4412/)|
 
 ### 三级(编程题)
 
@@ -248,6 +263,15 @@
 | 2024年3月| 相似字符串|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B3958-相似字符串](https://www.coderli.com/gesp-4-luogu-b3958/)|
 | 2024年3月| 做题|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)|[luogu-B3959-做题](https://www.coderli.com/gesp-4-luogu-b3959/)|
 | 2024年6月| 黑白方块|[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)、[前缀和](https://www.coderli.com/tags/%E5%89%8D%E7%BC%80%E5%92%8C/)|[luogu-B4005-黑白方块](https://www.coderli.com/gesp-4-luogu-b4005/)|
+| 2024年6月| 宝箱|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)、[前缀和](https://www.coderli.com/tags/%E5%89%8D%E7%BC%80%E5%92%8C/)、[滑动窗口](https://www.coderli.com/tags/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/)|[luogu-B4006-宝箱](https://www.coderli.com/gesp-4-luogu-b4006/)|
+| 2024年9月| 黑白方块|[函数](https://www.coderli.com/tags/%E5%87%BD%E6%95%B0/)、[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4040-黑白方块](https://www.coderli.com/gesp-4-luogu-b4040/)|
+| 2024年9月| 区间排序|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)、[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4041-区间排序](https://www.coderli.com/gesp-4-luogu-b4041/)|
+| 2024年12月| Recamán|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)|[luogu-B4068-Recamán](https://www.coderli.com/gesp-4-luogu-b4068/)|
+| 2024年12月| 字符排序|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)、[字符串](https://www.coderli.com/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/)|[luogu-B4069-字符排序](https://www.coderli.com/gesp-4-luogu-b4069/)|
+| 2025年3月| 荒地开垦|[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4263-荒地开垦](https://www.coderli.com/gesp-4-luogu-b4263/)|
+| 2025年3月| 二阶矩阵|[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4264-二阶矩阵](https://www.coderli.com/gesp-4-luogu-b4264/)|
+| 2025年6月| 画布裁剪|[多维数组](https://www.coderli.com/tags/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84/)|[luogu-B4360-画布裁剪](https://www.coderli.com/gesp-4-luogu-b4360/)|
+| 2025年6月| 排序|[排序](https://www.coderli.com/tags/%E6%8E%92%E5%BA%8F/)|[luogu-B4361-排序](https://www.coderli.com/gesp-4-luogu-b4361/)|
 
 ---
 
@@ -269,6 +293,19 @@
 |素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：线性筛](https://mp.weixin.qq.com/s/EK0gkCDotk_HindvjMqeQA)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
 |素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：埃式筛](https://mp.weixin.qq.com/s/7G0aSy2PoCe09Oh1YjSuJg)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
 |素数判断|[五级](https://www.coderli.com/categories/%E4%BA%94%E7%BA%A7/)|[GESP知识充电站\| 数的素性判断：试除法](https://mp.weixin.qq.com/s/Oc2yn1h-ZjKrfdCuV_yLdA)| [CCF GESP官方](https://gesp.ccf.org.cn/)|
+
+---
+
+## 编程武器库
+
+| 分类 | 功能 | 教程 |
+|------|------|----------|
+| [字符判断](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%AD%97%E7%AC%A6/) | 判断是否为数字(0-9) | [【GESP/CSP】编程武器库-1, 字符类型判断](https://www.coderli.com/gesp-arsenal-1-char-check-number-alpha) |
+| [字符判断](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%AD%97%E7%AC%A6/) | 判断是否为字母(a-z/A-Z) |  [【GESP/CSP】编程武器库-1, 字符类型判断](https://www.coderli.com/gesp-arsenal-1-char-check-number-alpha) |
+| [字符判断](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%AD%97%E7%AC%A6/) | 判断是否为大写字母(A-Z) |  [【GESP/CSP】编程武器库-1, 字符类型判断](https://www.coderli.com/gesp-arsenal-1-char-check-number-alpha) |
+| [字符判断](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E5%AD%97%E7%AC%A6/) | 判断是否为小写字母(a-z) |  [【GESP/CSP】编程武器库-1, 字符类型判断](https://www.coderli.com/gesp-arsenal-1-char-check-number-alpha) |
+| [进制转换](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/) | 十进制和十六进制转换 |  [【GESP/CSP】编程武器库-2, 十进制转十六进制](https://www.coderli.com/gesp-arsenal-2-dec-hex-conversion) |
+| [进制转换](https://www.coderli.com/tags/%E6%AD%A6%E5%99%A8%E5%BA%93-%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/) | 十进制和十六进制转换 |  [【GESP/CSP】编程武器库-3, 十六进制转十进制](https://www.coderli.com/gesp-arsenal-3-hex-dec-conversion/) |
 
 ---
 
