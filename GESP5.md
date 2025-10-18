@@ -3,3 +3,4 @@
 | 题号 | 题目类型 | 难度 | 完成情况 | 题目讲解 |
 |------|----------|------|----------|----------|
 | luogu-B3941| 数论-[GESP样题 五级] 小杨的锻炼| ⭐⭐★☆☆ | ✅ |[luogu-B3941](https://www.coderli.com/gesp-5-luogu-b3941/)|
+| luogu-B3951| 排序-[GESP样题 五级] 小杨的队列| ⭐⭐★☆☆ | ✅ |[luogu-B3951](https://www.coderli.com/gesp-5-luogu-b3951/)|
