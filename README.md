@@ -1,6 +1,7 @@
 # GESP C++
 
 记录Yummy和我从GESP C++开始，编程成长的过程。
+所有学习资源、过程汇总，详见[GESP学习专题站](https://wiki.coderli.com)
 
 ## 考纲解析
 
