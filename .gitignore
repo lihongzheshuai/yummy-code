@@ -29,6 +29,8 @@
 # Executables
 *.exe
 *.out
+# But allow .out files in data directories
+!**/data/*.out
 *.app
 
 # Custom
