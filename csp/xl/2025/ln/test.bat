@@ -6,10 +6,10 @@ set "SCRIPT_DIR=%~dp0"
 
 REM If no arguments, print usage
 if "%~1"=="" (
-  echo Usage: %~n0 ^<program_directory^> [source_file]
+  echo Usage: %~n0 ^<program_directory^> ^<program_name^> [source_file]
   echo.
-  echo Example 1: %~n0 count
-  echo Example 2: %~n0 count count-dad.cpp
+  echo Example 1: %~n0 count count
+  echo Example 2: %~n0 count count count-dad.cpp
   goto :eof
 )
 

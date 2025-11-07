@@ -1,12 +1,17 @@
-# Test script: Automatically test all test data files in the data folder
-# Usage: Run in PowerShell: .\test.ps1 <program_directory> [source_file]
-#   Example: .\test.ps1 count count-dad.cpp
+# Test script: Automatically test all test data files for a given program name
+# Usage: Run in PowerShell: .\test.ps1 <program_directory> [program_name] [source_file]
+#   Example: .\test.ps1 count
+#   Example: .\test.ps1 count count
+#   Example: .\test.ps1 count count count-dad.cpp
 #   If source_file is provided, the script will compile it first with C++11 and O2 optimization
 #   If source_file is not provided, the script will look for executable files in the specified program directory
 
 param(
     [Parameter(Mandatory=$true)]
     [string]$ProgramDirectory,
+    
+    [Parameter(Mandatory=$false)]
+    [string]$ProgramName = "",
     
     [Parameter(Mandatory=$false)]
     [string]$SourceFile = ""
@@ -33,12 +38,30 @@ $programDir = [System.IO.Path]::GetFullPath($programDir)
 # Check if program directory exists
 if (-not (Test-Path $programDir)) {
     Write-Host "Error: Program directory not found: $programDir" -ForegroundColor Red
-    Write-Host "Usage: .\test.ps1 <program_directory> [source_file]" -ForegroundColor Yellow
-    Write-Host "Example: .\test.ps1 count count-dad.cpp" -ForegroundColor Yellow
+    Write-Host "Usage: .\test.ps1 <program_directory> [program_name] [source_file]" -ForegroundColor Yellow
+    Write-Host "Example 1: .\test.ps1 count" -ForegroundColor Yellow
+    Write-Host "Example 2: .\test.ps1 count count" -ForegroundColor Yellow
+    Write-Host "Example 3: .\test.ps1 count count count-dad.cpp" -ForegroundColor Yellow
     exit 1
 }
 
 $exePath = $null
+$exeBase = $null
+
+# Helper: strip extension from a filename
+function Strip-Extension([string]$path) {
+    return [System.IO.Path]::GetFileNameWithoutExtension($path)
+}
+
+# Helper: normalize base name by removing common suffixes like -dad, -yummy
+function Normalize-Base([string]$name) {
+    if (-not $name) { return $name }
+    $n = $name
+    foreach ($sfx in @("-dad", "-yummy")) {
+        if ($n.EndsWith($sfx)) { $n = $n.Substring(0, $n.Length - $sfx.Length) }
+    }
+    return $n
+}
 
 # If source file is provided, compile it first
 if ($SourceFile -ne "") {
@@ -61,9 +84,10 @@ if ($SourceFile -ne "") {
     
     Write-Host "Source file: $sourcePath" -ForegroundColor Cyan
     
-    # Determine output executable name (remove extension and add .exe)
-    $sourceName = [System.IO.Path]::GetFileNameWithoutExtension($sourcePath)
-    $exePath = Join-Path $programDir "$sourceName.exe"
+    # Determine output executable base name
+    $exeBaseName = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { Strip-Extension $sourcePath }
+    if (-not $exeBaseName) { $exeBaseName = Split-Path -Leaf $programDir }
+    $exePath = Join-Path $programDir ("$exeBaseName.exe")
     
     # Find compiler (prefer g++, then cl.exe)
     $compiler = $null
@@ -80,7 +104,7 @@ if ($SourceFile -ne "") {
         $cl = Get-Command "cl" -ErrorAction SilentlyContinue
         if ($cl) {
             $compiler = "cl"
-            $exePathWithoutExt = Join-Path $programDir $sourceName
+            $exePathWithoutExt = Join-Path $programDir $exeBaseName
             $compilerArgs = @("/std:c++11", "/O2", "/Fe:$exePathWithoutExt", $sourcePath)
             Write-Host "Using compiler: cl (MSVC)" -ForegroundColor Cyan
         }
@@ -108,11 +132,15 @@ if ($SourceFile -ne "") {
     }
     
     Write-Host "Compilation successful: $exePath" -ForegroundColor Green
+    $exeBase = $exeBaseName
 } else {
     # Try to find executable file in program directory
-    # Common naming patterns: <dirname>-dad.exe, <dirname>.exe, or any .exe file
+    # Common naming patterns: <program_name>-dad.exe, <program_name>.exe, <dirname>-dad.exe, <dirname>.exe, or any .exe file
     $dirName = Split-Path -Leaf $programDir
+    $nameHint = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { $dirName }
     $possibleNames = @(
+        "$nameHint-dad.exe",
+        "$nameHint.exe",
         "$dirName-dad.exe",
         "$dirName.exe",
         "*.exe"
@@ -142,20 +170,21 @@ if ($SourceFile -ne "") {
     if (-not $exePath -or -not (Test-Path $exePath)) {
         Write-Host "Error: No executable file found in program directory: $programDir" -ForegroundColor Red
         Write-Host "Please provide source file or compile the program first" -ForegroundColor Yellow
-        Write-Host "Usage: .\test.ps1 <program_directory> [source_file]" -ForegroundColor Yellow
+        Write-Host "Usage: .\test.ps1 <program_directory> [program_name] [source_file]" -ForegroundColor Yellow
         exit 1
     }
+    $exeBase = Strip-Extension $exePath
 }
 
-# Check if data folder exists in program directory
-$dataDir = Join-Path $programDir "data"
-if (-not (Test-Path $dataDir)) {
-    Write-Host "Error: Data folder not found: $dataDir" -ForegroundColor Red
-    exit 1
-}
+# Resolve data location (support both programDir\data and programDir)
+$dataDirCandidate = Join-Path $programDir "data"
+$dataDir = if (Test-Path $dataDirCandidate) { $dataDirCandidate } else { $programDir }
 
-# Get all .in files
-$inFiles = Get-ChildItem -Path $dataDir -Filter "*.in" | Sort-Object Name
+# Get all .in files (prefer <ProgramName>*.in, fallback to *.in)
+$inFiles = Get-ChildItem -Path $dataDir -Filter ("$ProgramName*.in") -ErrorAction SilentlyContinue | Sort-Object Name
+if ($inFiles.Count -eq 0) {
+    $inFiles = Get-ChildItem -Path $dataDir -Filter "*.in" -ErrorAction SilentlyContinue | Sort-Object Name
+}
 
 if ($inFiles.Count -eq 0) {
     Write-Host "Error: No .in files found in data folder" -ForegroundColor Red
@@ -165,6 +194,7 @@ if ($inFiles.Count -eq 0) {
 Write-Host "Program: $exePath" -ForegroundColor Cyan
 Write-Host "Program directory: $programDir" -ForegroundColor Cyan
 Write-Host "Data folder: $dataDir" -ForegroundColor Cyan
+Write-Host "Executable: $([System.IO.Path]::GetFileName($exePath))" -ForegroundColor Cyan
 Write-Host "Found $($inFiles.Count) test data files" -ForegroundColor Green
 Write-Host "Starting tests...`n" -ForegroundColor Green
 
@@ -174,23 +204,46 @@ $passedTests = 0
 $failedTests = 0
 $results = @()
 
+# Decide IO base name used by the program (e.g., count, points)
+$dirName = Split-Path -Leaf $programDir
+$programHint = if ($ProgramName -ne "") { [System.IO.Path]::GetFileNameWithoutExtension($ProgramName) } else { "" }
+$normalizedExeBase = Normalize-Base ([System.IO.Path]::GetFileNameWithoutExtension($exePath))
+
+# Candidate order: normalized exe base, directory name, program hint, raw exe base
+$ioBaseCandidates = @()
+if ($normalizedExeBase) { $ioBaseCandidates += $normalizedExeBase }
+if ($dirName) { $ioBaseCandidates += $dirName }
+if ($programHint) { $ioBaseCandidates += $programHint }
+if ($exeBase) { $ioBaseCandidates += $exeBase }
+
+# Deduplicate preserving order
+$seen = @{}
+$ioBaseCandidates = $ioBaseCandidates | Where-Object { if ($seen.ContainsKey($_)) { $false } else { $seen[$_] = $true; $true } }
+
+$ioBase = $ioBaseCandidates[0]
+
+Write-Host "IO base name: $ioBase (.in/.out)" -ForegroundColor Cyan
+
 # Temporary file paths (must be in program directory because program uses freopen)
-$tempInFile = Join-Path $programDir "count.in"
-$tempOutFile = Join-Path $programDir "count.out"
+$tempInFile = Join-Path $programDir ("$ioBase.in")
+$tempOutFile = Join-Path $programDir ("$ioBase.out")
 
 foreach ($inFile in $inFiles) {
     $totalTests++
     $testName = $inFile.BaseName
     
-    # Get corresponding .out file
-    $outFile = Join-Path $dataDir "$testName.out"
+    # Get corresponding expected output file (.out preferred, then .ans)
+    $outFile = Join-Path $dataDir ("$testName.out")
+    if (-not (Test-Path $outFile)) {
+        $outFile = Join-Path $dataDir ("$testName.ans")
+    }
     
     if (-not (Test-Path $outFile)) {
-        Write-Host "[$testName] SKIPPED: Corresponding .out file not found" -ForegroundColor Yellow
+        Write-Host "[$testName] SKIPPED: Corresponding .out/.ans file not found" -ForegroundColor Yellow
         $results += @{
             Name = $testName
             Status = "SKIPPED"
-            Reason = "No .out file found"
+            Reason = "No .out/.ans file found"
         }
         continue
     }
