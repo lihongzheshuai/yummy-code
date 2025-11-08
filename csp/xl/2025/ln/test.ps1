@@ -3,16 +3,17 @@
 #   Example: .\test.ps1 count
 #   Example: .\test.ps1 count count
 #   Example: .\test.ps1 count count count-dad.cpp
-#   If source_file is provided, the script will compile it first with C++11 and O2 optimization
-#   If source_file is not provided, the script will look for executable files in the specified program directory
+#   The script will always try to compile source files first, then run tests
+#   If source_file is provided, it will compile that file
+#   If source_file is not provided, it will automatically find and compile .cpp files
 
 param(
     [Parameter(Mandatory=$true)]
     [string]$ProgramDirectory,
-    
+
     [Parameter(Mandatory=$false)]
     [string]$ProgramName = "",
-    
+
     [Parameter(Mandatory=$false)]
     [string]$SourceFile = ""
 )
@@ -63,36 +64,14 @@ function Normalize-Base([string]$name) {
     return $n
 }
 
-# If source file is provided, compile it first
-if ($SourceFile -ne "") {
-    # Resolve source file path
-    if ([System.IO.Path]::IsPathRooted($SourceFile)) {
-        $sourcePath = $SourceFile
-    } else {
-        # Relative path - make it relative to program directory
-        $sourcePath = Join-Path $programDir $SourceFile
-    }
-    
-    # Normalize the path
-    $sourcePath = [System.IO.Path]::GetFullPath($sourcePath)
-    
-    # Check if source file exists
-    if (-not (Test-Path $sourcePath)) {
-        Write-Host "Error: Source file not found: $sourcePath" -ForegroundColor Red
-        exit 1
-    }
-    
+# Helper: compile a source file
+function Compile-SourceFile([string]$sourcePath, [string]$exePath, [string]$programDir) {
     Write-Host "Source file: $sourcePath" -ForegroundColor Cyan
-    
-    # Determine output executable base name
-    $exeBaseName = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { Strip-Extension $sourcePath }
-    if (-not $exeBaseName) { $exeBaseName = Split-Path -Leaf $programDir }
-    $exePath = Join-Path $programDir ("$exeBaseName.exe")
-    
+
     # Find compiler (prefer g++, then cl.exe)
     $compiler = $null
     $compilerArgs = @()
-    
+
     # Try g++ first
     $gpp = Get-Command "g++" -ErrorAction SilentlyContinue
     if ($gpp) {
@@ -104,57 +83,130 @@ if ($SourceFile -ne "") {
         $cl = Get-Command "cl" -ErrorAction SilentlyContinue
         if ($cl) {
             $compiler = "cl"
-            $exePathWithoutExt = Join-Path $programDir $exeBaseName
+            $exePathWithoutExt = [System.IO.Path]::ChangeExtension($exePath, "")
+            if ($exePathWithoutExt.EndsWith(".")) {
+                $exePathWithoutExt = $exePathWithoutExt.Substring(0, $exePathWithoutExt.Length - 1)
+            }
             $compilerArgs = @("/std:c++11", "/O2", "/Fe:$exePathWithoutExt", $sourcePath)
             Write-Host "Using compiler: cl (MSVC)" -ForegroundColor Cyan
         }
     }
-    
+
     if (-not $compiler) {
         Write-Host "Error: No C++ compiler found (g++ or cl.exe)" -ForegroundColor Red
         Write-Host "Please install g++ or Visual Studio with MSVC compiler" -ForegroundColor Yellow
-        exit 1
+        return $false
     }
-    
+
     # Compile the source file
     Write-Host "Compiling source file..." -ForegroundColor Yellow
     $compileProcess = Start-Process -FilePath $compiler -ArgumentList $compilerArgs -WorkingDirectory $programDir -Wait -NoNewWindow -PassThru
-    
+
     if ($compileProcess.ExitCode -ne 0) {
         Write-Host "Error: Compilation failed with exit code $($compileProcess.ExitCode)" -ForegroundColor Red
-        exit 1
+        return $false
     }
-    
+
     # Check if executable was created
     if (-not (Test-Path $exePath)) {
         Write-Host "Error: Compilation succeeded but executable not found: $exePath" -ForegroundColor Red
+        return $false
+    }
+
+    Write-Host "Compilation successful: $exePath" -ForegroundColor Green
+    return $true
+}
+
+# Try to find and compile source file first
+$sourcePath = $null
+$exeBaseName = $null
+
+# If source file is provided, use it
+if ($SourceFile -ne "") {
+    # Resolve source file path
+    if ([System.IO.Path]::IsPathRooted($SourceFile)) {
+        $sourcePath = $SourceFile
+    } else {
+        # Relative path - make it relative to program directory
+        $sourcePath = Join-Path $programDir $SourceFile
+    }
+
+    # Normalize the path
+    $sourcePath = [System.IO.Path]::GetFullPath($sourcePath)
+
+    # Check if source file exists
+    if (-not (Test-Path $sourcePath)) {
+        Write-Host "Error: Source file not found: $sourcePath" -ForegroundColor Red
         exit 1
     }
-    
-    Write-Host "Compilation successful: $exePath" -ForegroundColor Green
+} else {
+    # Try to automatically find source file in program directory
+    # Common naming patterns: <program_name>-dad.cpp, <program_name>.cpp, <dirname>-dad.cpp, <dirname>.cpp, or any .cpp file
+    $dirName = Split-Path -Leaf $programDir
+    $nameHint = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { $dirName }
+    $possibleSourceNames = @(
+        "$nameHint-dad.cpp",
+        "$nameHint.cpp",
+        "$dirName-dad.cpp",
+        "$dirName.cpp"
+    )
+
+    foreach ($name in $possibleSourceNames) {
+        $searchPath = Join-Path $programDir $name
+        if (Test-Path $searchPath) {
+            $sourcePath = [System.IO.Path]::GetFullPath($searchPath)
+            Write-Host "Auto-detected source file: $sourcePath" -ForegroundColor Cyan
+            break
+        }
+    }
+
+    # If still not found, try to find any .cpp file in the directory
+    if (-not $sourcePath) {
+        $cppFiles = Get-ChildItem -Path $programDir -Filter "*.cpp" -ErrorAction SilentlyContinue
+        if ($cppFiles.Count -gt 0) {
+            $sourcePath = $cppFiles[0].FullName
+            if ($cppFiles.Count -gt 1) {
+                Write-Host "Warning: Multiple .cpp files found, using: $sourcePath" -ForegroundColor Yellow
+            }
+            Write-Host "Auto-detected source file: $sourcePath" -ForegroundColor Cyan
+        }
+    }
+}
+
+# Compile source file if found
+if ($sourcePath) {
+    # Determine output executable base name
+    $exeBaseName = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { Strip-Extension $sourcePath }
+    if (-not $exeBaseName) { $exeBaseName = Split-Path -Leaf $programDir }
+    $exePath = Join-Path $programDir ("$exeBaseName.exe")
+
+    # Compile the source file
+    if (-not (Compile-SourceFile -sourcePath $sourcePath -exePath $exePath -programDir $programDir)) {
+        exit 1
+    }
+
     $exeBase = $exeBaseName
 } else {
-    # Try to find executable file in program directory
-    # Common naming patterns: <program_name>-dad.exe, <program_name>.exe, <dirname>-dad.exe, <dirname>.exe, or any .exe file
+    # No source file found, try to find existing executable
+    Write-Host "No source file found, looking for existing executable..." -ForegroundColor Yellow
+
     $dirName = Split-Path -Leaf $programDir
     $nameHint = if ($ProgramName -ne "") { Strip-Extension $ProgramName } else { $dirName }
     $possibleNames = @(
         "$nameHint-dad.exe",
         "$nameHint.exe",
         "$dirName-dad.exe",
-        "$dirName.exe",
-        "*.exe"
+        "$dirName.exe"
     )
-    
+
     foreach ($name in $possibleNames) {
         $searchPath = Join-Path $programDir $name
-        $found = Get-ChildItem -Path $searchPath -ErrorAction SilentlyContinue | Select-Object -First 1
-        if ($found) {
-            $exePath = $found.FullName
+        if (Test-Path $searchPath) {
+            $exePath = [System.IO.Path]::GetFullPath($searchPath)
             break
         }
     }
-    
+
     # If still not found, try to find any .exe file in the directory
     if (-not $exePath) {
         $exeFiles = Get-ChildItem -Path $programDir -Filter "*.exe" -ErrorAction SilentlyContinue
@@ -165,15 +217,17 @@ if ($SourceFile -ne "") {
             }
         }
     }
-    
+
     # Check if executable was found
     if (-not $exePath -or -not (Test-Path $exePath)) {
-        Write-Host "Error: No executable file found in program directory: $programDir" -ForegroundColor Red
-        Write-Host "Please provide source file or compile the program first" -ForegroundColor Yellow
+        Write-Host "Error: No source file or executable found in program directory: $programDir" -ForegroundColor Red
+        Write-Host "Please provide source file or ensure a .cpp file exists in the directory" -ForegroundColor Yellow
         Write-Host "Usage: .\test.ps1 <program_directory> [program_name] [source_file]" -ForegroundColor Yellow
         exit 1
     }
-    $exeBase = Strip-Extension $exePath
+
+    Write-Host "Using existing executable: $exePath" -ForegroundColor Cyan
+    $exeBase = Strip-Extension ([System.IO.Path]::GetFileName($exePath))
 }
 
 # Resolve data location (support both programDir\data and programDir)
@@ -231,13 +285,13 @@ $tempOutFile = Join-Path $programDir ("$ioBase.out")
 foreach ($inFile in $inFiles) {
     $totalTests++
     $testName = $inFile.BaseName
-    
+
     # Get corresponding expected output file (.out preferred, then .ans)
     $outFile = Join-Path $dataDir ("$testName.out")
     if (-not (Test-Path $outFile)) {
         $outFile = Join-Path $dataDir ("$testName.ans")
     }
-    
+
     if (-not (Test-Path $outFile)) {
         Write-Host "[$testName] SKIPPED: Corresponding .out/.ans file not found" -ForegroundColor Yellow
         $results += @{
@@ -247,19 +301,19 @@ foreach ($inFile in $inFiles) {
         }
         continue
     }
-    
+
     try {
         # Copy .in file to program directory as count.in
         Copy-Item -Path $inFile.FullName -Destination $tempInFile -Force
-        
+
         # Remove old output file if exists
         if (Test-Path $tempOutFile) {
             Remove-Item -Path $tempOutFile -Force
         }
-        
+
         # Run the program (WorkingDirectory must be program directory so freopen can find count.in)
         $process = Start-Process -FilePath $exePath -WorkingDirectory $programDir -Wait -NoNewWindow -PassThru
-        
+
         if ($process.ExitCode -ne 0) {
             Write-Host "[$testName] FAILED: Program execution error (Exit code: $($process.ExitCode))" -ForegroundColor Red
             $results += @{
@@ -270,7 +324,7 @@ foreach ($inFile in $inFiles) {
             $failedTests++
             continue
         }
-        
+
         # Check if output file was generated
         if (-not (Test-Path $tempOutFile)) {
             Write-Host "[$testName] FAILED: Program did not generate output file" -ForegroundColor Red
@@ -282,18 +336,18 @@ foreach ($inFile in $inFiles) {
             $failedTests++
             continue
         }
-        
+
         # Read program output and expected output
         $programOutput = Get-Content -Path $tempOutFile -Raw
         $expectedOutput = Get-Content -Path $outFile -Raw
-        
+
         # Normalize output (remove trailing whitespace, unify line endings)
         $crlf = [char]13 + [char]10
         $lf = [char]10
         $cr = [char]13
         $programOutput = $programOutput.TrimEnd() -replace $crlf, $lf -replace $cr, $lf
         $expectedOutput = $expectedOutput.TrimEnd() -replace $crlf, $lf -replace $cr, $lf
-        
+
         # Compare outputs
         if ($programOutput -eq $expectedOutput) {
             Write-Host "[$testName] PASSED" -ForegroundColor Green
@@ -348,12 +402,12 @@ foreach ($result in $results) {
         "SKIPPED" { "Yellow" }
         default { "White" }
     }
-    
+
     $statusText = $result.Status
     if ($result.Reason) {
         $statusText += " - $($result.Reason)"
     }
-    
+
     Write-Host "[$($result.Name)] $statusText" -ForegroundColor $statusColor
 }
 
