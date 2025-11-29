@@ -36,3 +36,5 @@
 # Custom
 .vscode
 temp.cpp
+stocks.txt
+stock_monitor.py
