@@ -7,3 +7,4 @@
 | luogu-P1115| 线性表-最大子段和| ⭐⭐★☆☆ | ✅ |[luogu-P1115](https://www.coderli.com/gesp-5-luogu-p1115/)|
 | luogu-P1147| 双指针-连续自然数和| ⭐⭐★☆☆ | ✅ |[luogu-P1147](https://www.coderli.com/gesp-5-luogu-p1147/)|
 | luogu-P9532| 前缀和-[YsOI2023] 前缀和| ⭐⭐★☆☆ | ✅ |[luogu-P9532](https://www.coderli.com/gesp-5-luogu-p9532/)|
+| luogu-P1387| 前缀和-最大正方形| ⭐⭐★☆☆ | ✅ |[luogu-P1387](https://www.coderli.com/gesp-5-luogu-p1387/)|
