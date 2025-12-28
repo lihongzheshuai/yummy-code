@@ -1,0 +1,5 @@
+20 4
+apple 6 8
+bus 15 1
+cab 1 10
+water 4 8
