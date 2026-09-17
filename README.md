@@ -12,7 +12,7 @@
 | （1）了解计算机的基本构成（CPU，内存，I/O 设备等） ，了解 Windows、Linux等操作系统基本概念和常见操作，了解计算机的历史及在现代社会中的常见应用。 | [【GESP】C++一级考试大纲知识点梳理（1）计算机基础和操作系统](https://www.coderli.com/gesp-1-exam-syllabus-computer-basics/) | [一级](https://www.coderli.com/tags/GESP一级/) |
 | （2）熟悉集成开发环境使用（例如 Dev C++）：创建文件、编辑文件、保存文件、编译、解释、调试。 | [【GESP】C++一级考试大纲知识点梳理(考点2,4,10,13), (2) 开发环境与程序基础](https://www.coderli.com/gesp-1-exam-syllabus-2-env-basics/) | [一级](https://www.coderli.com/tags/GESP一级/) |
 | （3）掌握基础的 cin 语句、scanf 语句、cout 语句、printf 语句，赋值语句等。 | [【GESP】C++一级考试大纲知识点梳理(考点3,5,6,9), (3) 变量、数据类型与输入输出](https://www.coderli.com/gesp-1-exam-syllabus-3-data-io/) | [一级](https://www.coderli.com/tags/GESP一级/) |
-| （7）掌握逻辑运算与（&&）、或（\|\|）、非（！）。 | [【GESP】C++一级考试大纲知识点梳理(考点7,8,11), (4) 逻辑运算与分支结构](https://www.coderli.com/gesp-1-exam-syllabus-4-branching/) | [一级](https://www.coderli.com/tags/GESP一级/) |
+| （7）掌握逻辑运算与（&&）、或（--）、非（！）。 | [【GESP】C++一级考试大纲知识点梳理(考点7,8,11), (4) 逻辑运算与分支结构](https://www.coderli.com/gesp-1-exam-syllabus-4-branching/) | [一级](https://www.coderli.com/tags/GESP一级/) |
 | （12）掌握循环结构程序的编写，掌握 for、while、do-while 循环语句的使用以及 continue 语句和 break 语句在循环中的应用。 | [【GESP】C++一级考试大纲知识点梳理(考点12), (5) 循环结构](https://www.coderli.com/gesp-1-exam-syllabus-5-loops/) | [一级](https://www.coderli.com/tags/GESP一级/) |
 
 ### 二级（考纲解析）
@@ -35,7 +35,7 @@
 |:---|:---|:---:|
 | （1）了解二进制数据编码:原码、反码、补码。 | [【GESP】C++三级考试大纲知识点梳理, （1）二进制数据编码](https://www.coderli.com/gesp-3-exam-syllabus-data-encoding/) | [三级](https://www.coderli.com/tags/GESP三级/) |
 | （2）掌握数据的进制转换：二进制、八进制、十进制、十六进制。 | [【GESP】C++三级考试大纲知识点梳理, （2）数据的进制转换](https://www.coderli.com/gesp-3-exam-syllabus-data-conversion/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| （3）掌握位运算：与(&)、或(\\|)、非(~)、异或(^)、左移(<<)、右移(>>)的基本使用方法及原理。 | [【GESP】C++三级考试大纲知识点梳理, （3）位运算](https://www.coderli.com/gesp-3-exam-syllabus-bit-operation/) | [三级](https://www.coderli.com/tags/GESP三级/) |
+| （3）掌握位运算：与(&)、或(\-)、非(~)、异或(^)、左移(<<)、右移(>>)的基本使用方法及原理。 | [【GESP】C++三级考试大纲知识点梳理, （3）位运算](https://www.coderli.com/gesp-3-exam-syllabus-bit-operation/) | [三级](https://www.coderli.com/tags/GESP三级/) |
 | （4）了解算法的概念与描述，熟练运用自然语言、流程图、伪代码方式来描述算法。 | [【GESP】C++三级考试大纲知识点梳理, （4）算法](https://www.coderli.com/gesp-3-exam-syllabus-algo/) | [三级](https://www.coderli.com/tags/GESP三级/) |
 | (7) (8) 理解枚举算法、模拟算法的原理及特点，可以解决实际问题。 | [【GESP】C++三级考试大纲知识点梳理, (7) (8) 枚举算法、模拟算法](https://www.coderli.com/gesp-3-exam-syllabus-algo-enumeration-simulation/) | [三级](https://www.coderli.com/tags/GESP三级/) |
 | （6）掌握字符串及其函数的使用包括但不限于大小写转换、字符串搜索、分割、替换。 | [【GESP】C++三级考试大纲知识点梳理, (6) 字符串](https://www.coderli.com/gesp-3-exam-syllabus-string/) | [三级](https://www.coderli.com/tags/GESP三级/) |
@@ -147,418 +147,333 @@
 | 2024年3月 | [GESP第五次认证真题解析\|C++三级真题回顾](https://mp.weixin.qq.com/s/4iNXFfAlmDCeCfYbxMUqTA) | CCF GESP官方 |
 | 2025年3月 | [【GESP】C++ 2025年3月三级考试-客观题真题解析](https://www.coderli.com/gesp-3-analysis-of-real-questions-202503/) | [本站](https://www.coderli.com/) |
 
-## 真题解析-编程题
+---
 
-
+## 真题解析-编程题 (CCF GESP 官方认证编程题)
 
 ### 一级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2025-12 | GESP 1-5级编程题核心考点与备考攻略及真题分类 | 编程基础与应用 | [GESP 1-5级编程题核心考点与备考攻略及真题分类](https://www.coderli.com/gesp-common-levels-1-5-guide/) |
-| 2026-06 | 【CSP】CSP-X 2018真题 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习） | CSP | [luogu-B4072-【CSP】CSP-X 2018真题 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4072/) |
-| 2026-04 | 【CSP】CSP-J 2019 江西真题 | 面积 luogu-P5681 （适合GESP一级、二级考生练习） | CSP | [luogu-P5681-【CSP】CSP-J 2019 江西真题 | 面积 luogu-P5681 （适合GESP一级、二级考生练习）](https://www.coderli.com/csp-j-2019-p5681/) |
-| 2023年3月 | 【GESP】C++一级真题练习(202303)luogu-B3834，长方形面积 | 基础语句 | [luogu-B3834-【GESP】C++一级真题练习(202303)luogu-B3834，长方形面积](https://www.coderli.com/gesp-1-luogu-b3834/) |
-| 2023年3月 | 【GESP】C++一级真题练习(202303)luogu-B3835，每月天数 | 基础语句 | [luogu-B3835-【GESP】C++一级真题练习(202303)luogu-B3835，每月天数](https://www.coderli.com/gesp-1-luogu-b3835/) |
-| 2023年6月 | 【GESP】C++一级真题练习(202306)luogu-B3838，时间规划 | 基础语句 | [luogu-B3838-【GESP】C++一级真题练习(202306)luogu-B3838，时间规划](https://www.coderli.com/gesp-1-luogu-b3838/) |
-| 2023年6月 | 【GESP】C++一级真题练习(202306)luogu-B3839，累计相加 | 基础语句 | [luogu-B3839-【GESP】C++一级真题练习(202306)luogu-B3839，累计相加](https://www.coderli.com/gesp-1-luogu-b3839/) |
-| 2023年9月 | 【GESP】C++一级真题练习(202309)luogu-B3863，买文具 | 基础语句 | [luogu-B3863-【GESP】C++一级真题练习(202309)luogu-B3863，买文具](https://www.coderli.com/gesp-1-luogu-b3863/) |
-| 2023年9月 | 【GESP】C++一级真题练习(202309)luogu-B3864，小明的幸运数 | 基础语句 | [luogu-B3864-【GESP】C++一级真题练习(202309)luogu-B3864，小明的幸运数](https://www.coderli.com/gesp-1-luogu-b3864/) |
-| 2023年12月 | 【GESP】C++一级真题练习(202312)luogu-B3921，小杨的考试 | 基础语句 | [luogu-B3921-【GESP】C++一级真题练习(202312)luogu-B3921，小杨的考试](https://www.coderli.com/gesp-1-luogu-b3921/) |
-| 2023年12月 | 【GESP】C++一级真题练习(202312)luogu-B3922，小杨报数 | 基础语句 | [luogu-B3922-【GESP】C++一级真题练习(202312)luogu-B3922，小杨报数](https://www.coderli.com/gesp-1-luogu-b3922/) |
-| 2024年3月 | 【GESP】C++一级真题(202403)luogu-B3952，小杨买书 | 基础语句 | [luogu-B3952-【GESP】C++一级真题(202403)luogu-B3952，小杨买书](https://www.coderli.com/gesp-1-luogu-b3952/) |
-| 2024年3月 | 【GESP】C++一级真题(202403)luogu-B3953，找因数 | 基础语句 | [luogu-B3953-【GESP】C++一级真题(202403)luogu-B3953，找因数](https://www.coderli.com/gesp-1-luogu-b3953/) |
-| 2024年6月 | 【GESP】C++一级真题(202406)luogu-B4000，休息时间 | 基础语句 | [luogu-B4000-【GESP】C++一级真题(202406)luogu-B4000，休息时间](https://www.coderli.com/gesp-1-luogu-b4000/) |
-| 2024年6月 | 【GESP】C++一级真题(202406)luogu-B4001，立方数 | 基础语句 | [luogu-B4001-【GESP】C++一级真题(202406)luogu-B4001，立方数](https://www.coderli.com/gesp-1-luogu-b4001/) |
-| 2024年9月 | 小杨购物 | 基础语句 | [luogu-B4034-小杨购物](https://www.coderli.com/gesp-1-luogu-b4034/) |
-| 2024年9月 | 美丽数字 | 基础语句 | [luogu-B4035-美丽数字](https://www.coderli.com/gesp-1-luogu-b4035/) |
-| 2024年12月 | 温度转换 | 基础语句 | [luogu-B4062-温度转换](https://www.coderli.com/gesp-1-luogu-b4062/) |
-| 2024年12月 | 奇数和偶数 | 基础语句 | [luogu-B4063-奇数和偶数](https://www.coderli.com/gesp-1-luogu-b4063/) |
-| 2025年3月 | 图书馆里的老鼠 | 基础语句 | [luogu-B4257-图书馆里的老鼠](https://www.coderli.com/gesp-1-luogu-b4257/) |
-| 2025年3月 | 四舍五入 | 基础语句 | [luogu-B4258-四舍五入](https://www.coderli.com/gesp-1-luogu-b4258/) |
-| 2025年6月 | 假期阅读 | 基础语句 | [luogu-B4354-假期阅读](https://www.coderli.com/gesp-1-luogu-b4354/) |
-| 2025年6月 | 值日 | 基础语句 | [luogu-B4355-值日](https://www.coderli.com/gesp-1-luogu-b4355/) |
-| 2025年9月 | 商店折扣 | 基础语句 | [luogu-B4409-商店折扣](https://www.coderli.com/gesp-1-luogu-b4409/) |
-| 2025年9月 | 金字塔 | 基础语句 | [luogu-B4410-金字塔](https://www.coderli.com/gesp-1-luogu-b4410/) |
-| 2025年12月 | 第一题小杨的爱心快递 | 基础语句 | [第一题小杨的爱心快递](https://www.coderli.com/gesp-1-202512-1/) |
-| 2025年12月 | 第二题手机电量显示 | 基础语句 | [第二题手机电量显示](https://www.coderli.com/gesp-1-202512-2/) |
-| 2026年3月 | 交朋友 | 基础语句 | [luogu-B4495-交朋友](https://www.coderli.com/gesp-1-luogu-b4495/) |
-| 2026年3月 | 数字替换 | 数位分离 | [luogu-B4496-数字替换](https://www.coderli.com/gesp-1-luogu-b4496/) |
-| 2026年6月 | 去旅行 | 基础语句 | [luogu-B4551-去旅行](https://www.coderli.com/gesp-1-luogu-b4551/) |
-| 2026年6月 | 交税 | 基础语句 | [luogu-B4552-交税](https://www.coderli.com/gesp-1-luogu-b4552/) |
-| 2026年9月 | 新龟兔赛跑 | 分支结构 | [luogu-B4573-新龟兔赛跑](https://www.coderli.com/gesp-1-luogu-b4573-turtle-rabbit/) |
-| 2026年9月 | 棋盘上的奖赏 | 循环结构 | [luogu-B4574-棋盘上的奖赏](https://www.coderli.com/gesp-1-luogu-b4574-chessboard-wheat/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-01 | - | GESP一级C++考纲考点揭秘：深度分析12套真题，揭秘4大核心考点与通关秘籍 | 武器库 | [查看题解](https://www.coderli.com/gesp-secrets-1-level-1/) |
+| 2026-06 | luogu-B4072 | [CSP-X 2018真题] 小明的照片 | CSP | [查看题解](https://www.coderli.com/csp-x-2018-b4072/) |
+| 2026-04 | luogu-P5681 | CSP-J 2019 江西真题 - 面积 | CSP | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |
+| 2023年3月 | luogu-B3834 | C++一级真题练习，长方形面积 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3834/) |
+| 2023年3月 | luogu-B3835 | C++一级真题练习，每月天数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3835/) |
+| 2023年6月 | luogu-B3838 | C++一级真题练习，时间规划 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3838/) |
+| 2023年6月 | luogu-B3839 | C++一级真题练习，累计相加 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3839/) |
+| 2023年9月 | luogu-B3863 | C++一级真题练习，买文具 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3863/) |
+| 2023年9月 | luogu-B3864 | C++一级真题练习，小明的幸运数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3864/) |
+| 2023年12月 | luogu-B3921 | C++一级真题练习，小杨的考试 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3921/) |
+| 2023年12月 | luogu-B3922 | C++一级真题练习，小杨报数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3922/) |
+| 2024年3月 | luogu-B3952 | C++一级真题，小杨买书 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3952/) |
+| 2024年3月 | luogu-B3953 | C++一级真题，找因数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b3953/) |
+| 2024年6月 | luogu-B4000 | C++一级真题，休息时间 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4000/) |
+| 2024年6月 | luogu-B4001 | C++一级真题，立方数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4001/) |
+| 2024年9月 | luogu-B4034 | [GESP202409 一级] 小杨购物 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4034/) |
+| 2024年9月 | luogu-B4035 | [GESP202409 一级] 美丽数字 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4035/) |
+| 2024年12月 | luogu-B4062 | [GESP202412 一级] 温度转换 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4062/) |
+| 2024年12月 | luogu-B4063 | [GESP202412 一级] 奇数和偶数 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4063/) |
+| 2025年3月 | luogu-B4257 | [GESP202503 一级] 图书馆里的老鼠 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4257/) |
+| 2025年3月 | luogu-B4258 | [GESP202503 一级] 四舍五入 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4258/) |
+| 2025年6月 | - | C++ 2025年6月一级考试-客观题真题解析 | 真题解析 | [查看题解](https://www.coderli.com/gesp-1-analysis-of-real-questions-202506/) |
+| 2025年6月 | luogu-B4354 | [GESP202506 一级] 假期阅读 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4354/) |
+| 2025年6月 | luogu-B4355 | [GESP202506 一级] 值日 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4355/) |
+| 2025年9月 | luogu-B4409 | [GESP202509 一级] 商店折扣 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4409/) |
+| 2025年9月 | luogu-B4410 | [GESP202509 一级] 金字塔 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4410/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第一题小杨的爱心快递 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-202512-1/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第二题手机电量显示 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-202512-2/) |
+| 2026年3月 | luogu-B4495 | [GESP202603 一级] 交朋友 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4495/) |
+| 2026年3月 | luogu-B4496 | [GESP202603 一级] 数字替换 | 数位分离 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4496/) |
+| 2026年6月 | luogu-B4551 | [GESP202606 一级] 去旅行 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4551/) |
+| 2026年6月 | luogu-B4552 | [GESP202606 一级] 交税 | 基础语句 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4552/) |
+| 2026年9月 | luogu-B4573 | [GESP202609 一级] 新龟兔赛跑 | 分支结构 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4573-turtle-rabbit/) |
+| 2026年9月 | luogu-B4574 | [GESP202609 一级] 棋盘上的奖赏 | 循环结构 | [查看题解](https://www.coderli.com/gesp-1-luogu-b4574-chessboard-wheat/) |
 
 ### 二级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026-06 | 【CSP】CSP-X 2018真题 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习） | CSP | [luogu-B4073-【CSP】CSP-X 2018真题 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4073/) |
-| 2026-06 | 【CSP】CSP-X 2018真题 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习） | CSP | [luogu-B4074-【CSP】CSP-X 2018真题 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4074/) |
-| 2026-05 | 【CSP】CSP-J 2022真题 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习） | CSP | [luogu-P8813-【CSP】CSP-J 2022真题 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8813-power/) |
-| 2023年3月 | 百鸡问题 | 多重循环 | [luogu-B3836-百鸡问题](https://www.coderli.com/gesp-2-luogu-b3836/) |
-| 2023年3月 | 画三角形 | 多重循环 | [luogu-B3837-画三角形](https://www.coderli.com/gesp-2-luogu-b3837/) |
-| 2023年6月 | 找素数 | 多重循环 | [luogu-B3840-找素数](https://www.coderli.com/gesp-2-luogu-b3840/) |
-| 2023年6月 | 自幂数判断 | 多重循环 | [luogu-B3841-自幂数判断](https://www.coderli.com/gesp-2-luogu-b3841/) |
-| 2023年9月 | 小杨的 X 字矩阵 | 多重循环 | [luogu-B3865-小杨的 X 字矩阵](https://www.coderli.com/gesp-2-luogu-b3865/) |
-| 2023年9月 | 数字黑洞 | 多重循环 | [luogu-B3866-数字黑洞](https://www.coderli.com/gesp-2-luogu-b3866/) |
-| 2023年12月 | 小杨做题 | 多重循环 | [luogu-B3923-小杨做题](https://www.coderli.com/gesp-2-luogu-b3923/) |
-| 2023年12月 | 小杨的H字矩阵 | 多重循环 | [luogu-B3924-小杨的H字矩阵](https://www.coderli.com/gesp-2-luogu-b3924/) |
-| 2024年3月 | 乘法问题 | 多重循环 | [luogu-B3954-乘法问题](https://www.coderli.com/gesp-2-luogu-b3954/) |
-| 2024年3月 | 小杨的日字矩阵 | 多重循环 | [luogu-B3955-小杨的日字矩阵](https://www.coderli.com/gesp-2-luogu-b3955/) |
-| 2024年6月 | 平方之和 | 多重循环 | [luogu-B4002-平方之和](https://www.coderli.com/gesp-2-luogu-b4002/) |
-| 2024年6月 | 计数 | 多重循环 | [luogu-B4007-计数](https://www.coderli.com/gesp-2-luogu-b4007/) |
-| 2024年9月 | 数位之和 | 多重循环 | [luogu-B4036-数位之和](https://www.coderli.com/gesp-2-luogu-b4036/) |
-| 2024年9月 | 小杨的 N 字矩阵 | 多重循环 | [luogu-B4037-小杨的 N 字矩阵](https://www.coderli.com/gesp-2-luogu-b4037/) |
-| 2024年12月 | 寻找数字 | 多重循环 | [luogu-B4064-寻找数字](https://www.coderli.com/gesp-2-luogu-b4064/) |
-| 2024年12月 | 数位和 | 多重循环 | [luogu-B4065-数位和](https://www.coderli.com/gesp-2-luogu-b4065/) |
-| 2025年3月 | 等差矩阵 | 多重循环 | [luogu-B4259-等差矩阵](https://www.coderli.com/gesp-2-luogu-b4259/) |
-| 2025年3月 | 时间跨越 | 基础语句 | [luogu-B4260-时间跨越](https://www.coderli.com/gesp-2-luogu-b4260/) |
-| 2025年6月 | 数三角形 | 多重循环 | [luogu-B4356-数三角形](https://www.coderli.com/gesp-2-luogu-b4356/) |
-| 2025年6月 | 幂和数 | 多重循环 | [luogu-B4357-幂和数](https://www.coderli.com/gesp-2-luogu-b4357/) |
-| 2025年9月 | 优美的数字 | 多重循环 | [luogu-B4411-优美的数字](https://www.coderli.com/gesp-2-luogu-b4411/) |
-| 2025年9月 | 菱形 | 多重循环 | [luogu-B4412-菱形](https://www.coderli.com/gesp-2-luogu-b4412/) |
-| 2025年12月 | 第一题环保能量球 | 基础语句 | [第一题环保能量球](https://www.coderli.com/gesp-2-202512-1/) |
-| 2025年12月 | 第二题黄金格 | 多重循环 | [第二题黄金格](https://www.coderli.com/gesp-2-202512-2/) |
-| 2026年3月 | 数数 | 数位分离 | [luogu-B4497-数数](https://www.coderli.com/gesp-2-luogu-b4497/) |
-| 2026年3月 | 画画 | 双重循环 | [luogu-B4498-画画](https://www.coderli.com/gesp-2-luogu-b4498/) |
-| 2026年6月 | 完全平方数计数 | 循环 | [luogu-B4553-完全平方数计数](https://www.coderli.com/gesp-2-luogu-b4553/) |
-| 2026年6月 | 菱形 | 循环 | [luogu-B4554-菱形](https://www.coderli.com/gesp-2-luogu-b4554/) |
-| 2026年9月 | 直角三角形 | 勾股定理 | [luogu-B4575-直角三角形](https://www.coderli.com/gesp-2-luogu-b4575-right-triangle/) |
-| 2026年9月 | 字符变换 | 二维数组 | [luogu-B4576-字符变换](https://www.coderli.com/gesp-2-luogu-b4576-char-transform/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-06 | luogu-B4073 | [CSP-X 2018真题] 快递费用 | CSP | [查看题解](https://www.coderli.com/csp-x-2018-b4073/) |
+| 2026-06 | luogu-B4074 | [CSP-X 2018真题] 统计成绩 | CSP | [查看题解](https://www.coderli.com/csp-x-2018-b4074/) |
+| 2026-05 | luogu-P8813 | [CSP-J 2022真题] 乘方 | CSP | [查看题解](https://www.coderli.com/csp-j-2022-p8813-power/) |
+| 2023年3月 | luogu-B3836 | [GESP202303 二级] 百鸡问题 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3836/) |
+| 2023年3月 | luogu-B3837 | [GESP202303 二级] 画三角形 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3837/) |
+| 2023年6月 | luogu-B3840 | [GESP202306 二级] 找素数 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3840/) |
+| 2023年6月 | luogu-B3841 | [GESP202306 二级] 自幂数判断 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3841/) |
+| 2023年9月 | luogu-B3865 | [GESP202309 二级] 小杨的 X 字矩阵 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3865/) |
+| 2023年9月 | luogu-B3866 | [GESP202309 二级] 数字黑洞 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3866/) |
+| 2023年12月 | luogu-B3923 | [GESP202312 二级] 小杨做题 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3923/) |
+| 2023年12月 | luogu-B3924 | [GESP202312 二级] 小杨的H字矩阵 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3924/) |
+| 2024年3月 | luogu-B3954 | [GESP202403 二级] 乘法问题 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3954/) |
+| 2024年3月 | luogu-B3955 | [GESP202403 二级] 小杨的日字矩阵 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b3955/) |
+| 2024年6月 | luogu-B4002 | [GESP202406 二级] 平方之和 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4002/) |
+| 2024年6月 | luogu-B4007 | [GESP202406 二级] 计数 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4007/) |
+| 2024年9月 | luogu-B4036 | [GESP202409 二级] 数位之和 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4036/) |
+| 2024年9月 | luogu-B4037 | [GESP202409 二级] 小杨的 N 字矩阵 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4037/) |
+| 2024年12月 | luogu-B4064 | [GESP202412 二级] 寻找数字 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4064/) |
+| 2024年12月 | luogu-B4065 | [GESP202412 二级] 数位和 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4065/) |
+| 2025年3月 | luogu-B4259 | [GESP202503 二级] 等差矩阵 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4259/) |
+| 2025年3月 | luogu-B4260 | [GESP202503 二级] 时间跨越 | 基础语句 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4260/) |
+| 2025年6月 | luogu-B4356 | [GESP202506 二级] 数三角形 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4356/) |
+| 2025年6月 | luogu-B4357 | [GESP202506 二级] 幂和数 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4357/) |
+| 2025年9月 | luogu-B4411 | [GESP202509 二级] 优美的数字 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4411/) |
+| 2025年9月 | luogu-B4412 | [GESP202509 二级] 菱形 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4412/) |
+| 2025年12月 | - | [2025年12月]第一题环保能量球 | 基础语句 | [查看题解](https://www.coderli.com/gesp-2-202512-1/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第二题黄金格 | 多重循环 | [查看题解](https://www.coderli.com/gesp-2-202512-2/) |
+| 2026年3月 | luogu-B4497 | [GESP202603 二级] 数数 | 数位分离 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4497/) |
+| 2026年3月 | luogu-B4498 | [GESP202603 二级] 画画 | 双重循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4498/) |
+| 2026年6月 | luogu-B4553 | [GESP202606 二级] 完全平方数计数 | 循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4553/) |
+| 2026年6月 | luogu-B4554 | [GESP202606 二级] 菱形 | 循环 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4554/) |
+| 2026年9月 | luogu-B4575 | [GESP202609 二级] 直角三角形 | 勾股定理 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4575-right-triangle/) |
+| 2026年9月 | luogu-B4576 | [GESP202609 二级] 字符变换 | 二维数组 | [查看题解](https://www.coderli.com/gesp-2-luogu-b4576-char-transform/) |
 
 ### 三级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2025-11 | 【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级） | CSP | [【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级）](https://www.coderli.com/csp-xl-2025ln-1-count/) |
-| 2026-06 | 【CSP】CSP-X 2018真题 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习） | CSP | [luogu-B4075-【CSP】CSP-X 2018真题 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4075/) |
-| 2026-02 | 【CSP】CSP-J 2024真题 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平） | CSP | [luogu-P11227-【CSP】CSP-J 2024真题 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平）](https://www.coderli.com/csp-j-2024-p11227/) |
-| 2026-04 | 【CSP】CSP-J 2020真题 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习） | CSP | [luogu-P7071-【CSP】CSP-J 2020真题 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7071/) |
-| 2026-04 | 【CSP】CSP-J 2021真题 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习） | CSP | [luogu-P7909-【CSP】CSP-J 2021真题 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7909/) |
-| 2023年6月 | 春游 | 一维数组 | [luogu-B3842-春游](https://www.coderli.com/gesp-3-luogu-b3842/) |
-| 2023年6月 | 密码合规 | 字符串 | [luogu-B3843-密码合规](https://www.coderli.com/gesp-3-luogu-b3843/) |
-| 2023年9月 | 小杨的储蓄 | 一维数组 | [luogu-B3867-小杨的储蓄](https://www.coderli.com/gesp-3-luogu-b3867/) |
-| 2023年9月 | 进制判断 | 一维数组 | [luogu-B3868-进制判断](https://www.coderli.com/gesp-3-luogu-b3868/) |
-| 2023年12月 | 小猫分鱼 | 多重循环 | [luogu-B3925-小猫分鱼](https://www.coderli.com/gesp-3-luogu-b3925/) |
-| 2023年12月 | 单位转换 | 字符串 | [luogu-B3926-单位转换](https://www.coderli.com/gesp-3-luogu-b3926/) |
-| 2024年3月 | 字母求和 | 字符串 | [luogu-B3956-字母求和](https://www.coderli.com/gesp-3-luogu-b3956/) |
-| 2024年3月 | 完全平方数 | 字符串 | [luogu-B3957-完全平方数](https://www.coderli.com/gesp-3-luogu-b3957/) |
-| 2024年6月 | 移位 | 字符串 | [luogu-B4003-移位](https://www.coderli.com/gesp-3-luogu-b4003/) |
-| 2024年6月 | 寻找倍数 | 一维数组 | [luogu-B4004-寻找倍数](https://www.coderli.com/gesp-3-luogu-b4004/) |
-| 2024年9月 | 平衡序列 | 一维数组 | [luogu-B4038-平衡序列](https://www.coderli.com/gesp-3-luogu-b4038/) |
-| 2024年9月 | 回文拼接 | 字符串 | [luogu-B4039-回文拼接](https://www.coderli.com/gesp-3-luogu-b4039/) |
-| 2024年12月 | 数字替换 | 一维数组 | [luogu-B4066-数字替换](https://www.coderli.com/gesp-3-luogu-b4066/) |
-| 2024年12月 | 打印数字 | 字符串 | [luogu-B4067-打印数字](https://www.coderli.com/gesp-3-luogu-b4067/) |
-| 2025年3月 | 2025 | 位运算 | [luogu-B4261-2025](https://www.coderli.com/gesp-3-luogu-b4261/) |
-| 2025年3月 | 词频统计 | 字符串 | [luogu-B4262-词频统计](https://www.coderli.com/gesp-3-luogu-b4262/) |
-| 2025年6月 | 奇偶校验 | 进制转换 | [luogu-B4358-奇偶校验](https://www.coderli.com/gesp-3-luogu-b4358/) |
-| 2025年6月 | 分糖果 | 模拟算法 | [luogu-B4359-分糖果](https://www.coderli.com/gesp-3-luogu-b4359/) |
-| 2025年9月 | 数组清零 | 多重循环 | [luogu-B4413-数组清零](https://www.coderli.com/gesp-3-luogu-b4413/) |
-| 2025年9月 | 日历制作 | 多重循环 | [luogu-B4414-日历制作](https://www.coderli.com/gesp-3-luogu-b4414/) |
-| 2025年12月 | 第一题密码强度 | 字符串 | [第一题密码强度](https://www.coderli.com/gesp-3-202512-1/) |
-| 2025年12月 | 第二题小杨的智慧购物 | 一维数组 | [第二题小杨的智慧购物](https://www.coderli.com/gesp-3-202512-2/) |
-| 2026年3月 | 二进制回文串 | 进制转换 | [luogu-B4499-二进制回文串](https://www.coderli.com/gesp-3-luogu-b4499/) |
-| 2026年3月 | 凯撒密码 | 字符串处理 | [luogu-B4500-凯撒密码](https://www.coderli.com/gesp-3-luogu-b4500/) |
-| 2026年6月 | 加密 | 数组 | [luogu-B4555-加密](https://www.coderli.com/gesp-3-luogu-b4555/) |
-| 2026年6月 | 字符转换 | 字符处理 | [luogu-B4556-字符转换](https://www.coderli.com/gesp-3-luogu-b4556/) |
-| 2026年9月 | 公共二进制位 | 位运算 | [luogu-B4577-公共二进制位](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
-| 2026年9月 | 分割字符串 | 字符串 | [luogu-B4578-分割字符串](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-06 | luogu-B4075 | [CSP-X 2018真题] 11的倍数 | CSP | [查看题解](https://www.coderli.com/csp-x-2018-b4075/) |
+| 2025-11 | luogu-COUNT | [CSP-XL 2025] 字符串数数 | CSP | [查看题解](https://www.coderli.com/csp-xl-2025ln-1-count/) |
+| 2026-02 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | CSP | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
+| 2026-04 | luogu-P7071 | [CSP-J 2020真题] 优秀的拆分 | CSP | [查看题解](https://www.coderli.com/csp-j-2020-p7071/) |
+| 2026-04 | luogu-P7909 | [CSP-J 2021真题] 分糖果 | CSP | [查看题解](https://www.coderli.com/csp-j-2021-p7909/) |
+| 2023年6月 | luogu-B3842 | [GESP202306 三级] 春游 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3842/) |
+| 2023年6月 | luogu-B3843 | [GESP202306 三级] 密码合规 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3843/) |
+| 2023年9月 | luogu-B3867 | [GESP202309 三级] 小杨的储蓄 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3867/) |
+| 2023年9月 | luogu-B3868 | [GESP202309 三级] 进制判断 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3868/) |
+| 2023年12月 | luogu-B3925 | [GESP202312 三级] 小猫分鱼 | 多重循环 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3925/) |
+| 2023年12月 | luogu-B3926 | [GESP202312 三级] 单位转换 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3926/) |
+| 2024年3月 | luogu-B3956 | [GESP202403 三级] 字母求和 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3956/) |
+| 2024年3月 | luogu-B3957 | [GESP202403 三级] 完全平方数 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b3957/) |
+| 2024年6月 | luogu-B4003 | [GESP202406 三级] 移位 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4003/) |
+| 2024年6月 | luogu-B4004 | [GESP202406 三级] 寻找倍数 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4004/) |
+| 2024年9月 | luogu-B4038 | [GESP202409 三级] 平衡序列 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4038/) |
+| 2024年9月 | luogu-B4039 | [GESP202409 三级] 回文拼接 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4039/) |
+| 2024年12月 | luogu-B4066 | [GESP202412 三级] 数字替换 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4066/) |
+| 2024年12月 | luogu-B4067 | [GESP202412 三级] 打印数字 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4067/) |
+| 2025年3月 | - | C++ 2025年3月三级考试-客观题真题解析 | 真题解析 | [查看题解](https://www.coderli.com/gesp-3-analysis-of-real-questions-202503/) |
+| 2025年3月 | luogu-B4261 | [GESP202503 三级] 2025 | 位运算 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4261/) |
+| 2025年3月 | luogu-B4262 | [GESP202503 三级] 词频统计 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4262/) |
+| 2025年6月 | luogu-B4358 | [GESP202506 三级] 奇偶校验 | 进制转换 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4358/) |
+| 2025年6月 | luogu-B4359 | [GESP202506 三级] 分糖果 | 模拟算法 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4359/) |
+| 2025年9月 | luogu-B4413 | [GESP202509 三级] 数组清零 | 多重循环 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4413/) |
+| 2025年9月 | luogu-B4414 | [GESP202509 三级] 日历制作 | 多重循环 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4414/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第一题密码强度 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-202512-1/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第二题小杨的智慧购物 | 一维数组 | [查看题解](https://www.coderli.com/gesp-3-202512-2/) |
+| 2026年3月 | luogu-B4499 | [GESP202603 三级] 二进制回文串 | 进制转换 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4499/) |
+| 2026年3月 | luogu-B4500 | [GESP202603 三级] 凯撒密码 | 字符串处理 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4500/) |
+| 2026年6月 | luogu-B4555 | [GESP202606 三级] 加密 | 数组 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4555/) |
+| 2026年6月 | luogu-B4556 | [GESP202606 三级] 字符转换 | 字符处理 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4556/) |
+| 2026年9月 | luogu-B4577 | [GESP202609 三级] 公共二进制位 | 位运算 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
+| 2026年9月 | luogu-B4578 | [GESP202609 三级] 分割字符串 | 字符串 | [查看题解](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
 
 ### 四级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026-02 | 【NOIP】2011真题解析 luogu-P1003 铺地毯 | GESP三、四级以上可练习 | 枚举 | [luogu-P1003-【NOIP】2011真题解析 luogu-P1003 铺地毯 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
-| 2026-02 | 【NOIP】1998真题解析 luogu-P1008 三连击 | GESP三、四级以上可练习 | 枚举 | [luogu-P1008-【NOIP】1998真题解析 luogu-P1008 三连击 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
-| 2026-03 | 【NOIP】1999真题解析 luogu-P1014 Cantor 表 | GESP三、四级以上可练习 | 模拟 | [luogu-P1014-【NOIP】1999真题解析 luogu-P1014 Cantor 表 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
-| 2026-02 | 【CSP】CSP-J 2024真题 | 地图探险 luogu-P11228 （相当于GESP四级左右水平） | CSP | [luogu-P11228-【CSP】CSP-J 2024真题 | 地图探险 luogu-P11228 （相当于GESP四级左右水平）](https://www.coderli.com/csp-j-2024-p11228/) |
-| 2026-01 | 【CSP】CSP-J 2025真题 | 拼数 luogu-P14357 （适合GESP三、四级考生练习） | CSP | [luogu-P14357-【CSP】CSP-J 2025真题 | 拼数 luogu-P14357 （适合GESP三、四级考生练习）](https://www.coderli.com/csp-j-2025-p14357/) |
-| 2026-02 | 【CSP】CSP-J 2025真题 | 座位 luogu-P14358 （相当于GESP三、四级水平） | CSP | [luogu-P14358-【CSP】CSP-J 2025真题 | 座位 luogu-P14358 （相当于GESP三、四级水平）](https://www.coderli.com/csp-j-2025-p14358/) |
-| 2026-09 | 【NOIP】1997真题解析 luogu-P2241 统计方形（数据加强版） | GESP三、四级以上可练习 | 枚举 | [luogu-P2241-【NOIP】1997真题解析 luogu-P2241 统计方形（数据加强版） | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
-| 2026-04 | 【CSP】CSP-J 2019真题 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习） | CSP | [luogu-P5661-【CSP】CSP-J 2019真题 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5661/) |
-| 2026-04 | 【CSP】CSP-J 2020真题 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习） | CSP | [luogu-P7072-【CSP】CSP-J 2020真题 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7072/) |
-| 2026-05 | 【CSP】CSP-J 2022真题 | 解密 luogu-P8814 （适合GESP四级及以上考生练习） | CSP | [luogu-P8814-【CSP】CSP-J 2022真题 | 解密 luogu-P8814 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8814-decode/) |
-| 2026-06 | 【CSP】CSP-J 2023真题 | 公路 luogu-P9749 （适合GESP四级及以上考生练习） | CSP | [luogu-P9749-【CSP】CSP-J 2023真题 | 公路 luogu-P9749 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2023-p9749-road/) |
-| 2023年6月 | 幸运数 | 函数 | [luogu-B3850-幸运数](https://www.coderli.com/gesp-4-luogu-b3850/) |
-| 2023年6月 | 图像压缩 | 函数 | [luogu-B3851-图像压缩](https://www.coderli.com/gesp-4-luogu-b3851/) |
-| 2023年9月 | 进制转换 | 函数 | [luogu-B3869-进制转换](https://www.coderli.com/gesp-4-luogu-b3869/) |
-| 2023年9月 | 变长编码 | 函数 | [luogu-B3870-变长编码](https://www.coderli.com/gesp-4-luogu-b3870/) |
-| 2023年12月 | 小杨的字典 | 一维数组 | [luogu-B3927-小杨的字典](https://www.coderli.com/gesp-4-luogu-b3927/) |
-| 2023年12月 | 田忌赛马 | 一维数组 | [luogu-B3928-田忌赛马](https://www.coderli.com/gesp-4-luogu-b3928/) |
-| 2024年3月 | 相似字符串 | 函数 | [luogu-B3958-相似字符串](https://www.coderli.com/gesp-4-luogu-b3958/) |
-| 2024年3月 | 做题 | 排序 | [luogu-B3959-做题](https://www.coderli.com/gesp-4-luogu-b3959/) |
-| 2024年6月 | 黑白方块 | 多维数组 | [luogu-B4005-黑白方块](https://www.coderli.com/gesp-4-luogu-b4005/) |
-| 2024年6月 | 宝箱 | 排序 | [luogu-B4006-宝箱](https://www.coderli.com/gesp-4-luogu-b4006/) |
-| 2024年9月 | 黑白方块 | 多维数组 | [luogu-B4040-黑白方块](https://www.coderli.com/gesp-4-luogu-b4040/) |
-| 2024年9月 | 区间排序 | 排序 | [luogu-B4041-区间排序](https://www.coderli.com/gesp-4-luogu-b4041/) |
-| 2024年12月 | Recamán | 排序 | [luogu-B4068-Recamán](https://www.coderli.com/gesp-4-luogu-b4068/) |
-| 2024年12月 | 字符排序 | 排序 | [luogu-B4069-字符排序](https://www.coderli.com/gesp-4-luogu-b4069/) |
-| 2025年3月 | 荒地开垦 | 多维数组 | [luogu-B4263-荒地开垦](https://www.coderli.com/gesp-4-luogu-b4263/) |
-| 2025年3月 | 二阶矩阵 | 多维数组 | [luogu-B4264-二阶矩阵](https://www.coderli.com/gesp-4-luogu-b4264/) |
-| 2025年6月 | 画布裁剪 | 多维数组 | [luogu-B4360-画布裁剪](https://www.coderli.com/gesp-4-luogu-b4360/) |
-| 2025年6月 | 排序 | 排序 | [luogu-B4361-排序](https://www.coderli.com/gesp-4-luogu-b4361/) |
-| 2025年9月 | 排兵布阵 | 多维数组 | [luogu-B4415-排兵布阵](https://www.coderli.com/gesp-4-luogu-b4415/) |
-| 2025年9月 | 最长连续段 | 排序 | [luogu-B4416-最长连续段](https://www.coderli.com/gesp-4-luogu-b4416/) |
-| 2025年12月 | 第二题优先购买 | 结构体 | [第二题优先购买](https://www.coderli.com/gesp-4-202512-2/) |
-| 2025年12月 | 第一题建造 luogu-b4451 | 模拟算法 | [luogu-B4451-第一题建造 luogu-b4451](https://www.coderli.com/gesp-4-202512-1-luogu-b4451/) |
-| 2026年3月 | 山之谷 | 二维数组 | [luogu-B4501-山之谷](https://www.coderli.com/gesp-4-luogu-b4501/) |
-| 2026年3月 | 礼盒排序 | 结构体排序 | [luogu-B4502-礼盒排序](https://www.coderli.com/gesp-4-luogu-b4502/) |
-| 2026年6月 | 扫雷 | 二维数组 | [luogu-B4557-扫雷](https://www.coderli.com/gesp-4-luogu-b4557/) |
-| 2026年6月 | 身高体重指数 | 排序 | [luogu-B4558-身高体重指数](https://www.coderli.com/gesp-4-luogu-b4558/) |
-| 2026年9月 | 新汉诺塔 | 递归 | [luogu-B4579-新汉诺塔](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
-| 2026年9月 | 有序网格 | 二维数组 | [luogu-B4580-有序网格](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-02 | luogu-P1003 | [NOIP2011] 铺地毯 | 枚举 | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
+| 2026-02 | luogu-P1008 | [NOIP1998] 三连击 | 枚举 | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
+| 2026-03 | luogu-P1014 | [NOIP1999] Cantor 表 | 模拟 | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
+| 2026-02 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | CSP | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
+| 2026-01 | luogu-P14357 | [CSP-J 2025真题] 拼数 | CSP | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
+| 2026-02 | luogu-P14358 | [CSP-J 2025真题] 座位 | CSP | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
+| 2026-09 | luogu-P2241 | [NOIP1997] 统计方形 | 枚举 | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
+| 2026-04 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | CSP | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
+| 2026-04 | luogu-P7072 | [CSP-J 2020真题] 直播获奖 | CSP | [查看题解](https://www.coderli.com/csp-j-2020-p7072/) |
+| 2026-05 | luogu-P8814 | [CSP-J 2022真题] 解密 | CSP | [查看题解](https://www.coderli.com/csp-j-2022-p8814-decode/) |
+| 2026-06 | luogu-P9749 | [CSP-J 2023真题] 公路 | CSP | [查看题解](https://www.coderli.com/csp-j-2023-p9749-road/) |
+| 2023年6月 | luogu-B3850 | [GESP202306 四级] 幸运数 | 函数 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3850/) |
+| 2023年6月 | luogu-B3851 | [GESP202306 四级] 图像压缩 | 函数 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3851/) |
+| 2023年9月 | luogu-B3869 | [GESP202309 四级] 进制转换 | 函数 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3869/) |
+| 2023年9月 | luogu-B3870 | [GESP202309 四级] 变长编码 | 函数 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3870/) |
+| 2023年12月 | luogu-B3927 | [GESP202312 四级] 小杨的字典 | 一维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3927/) |
+| 2023年12月 | luogu-B3928 | [GESP202312 四级] 田忌赛马 | 一维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3928/) |
+| 2024年3月 | luogu-B3958 | [GESP202403 四级] 相似字符串 | 函数 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3958/) |
+| 2024年3月 | luogu-B3959 | [GESP202403 四级] 做题 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b3959/) |
+| 2024年6月 | luogu-B4005 | [GESP202406 四级] 黑白方块 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4005/) |
+| 2024年6月 | luogu-B4006 | [GESP202406 四级] 宝箱 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4006/) |
+| 2024年9月 | luogu-B4040 | [GESP202409 四级] 黑白方块 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4040/) |
+| 2024年9月 | luogu-B4041 | [GESP202409 四级] 区间排序 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4041/) |
+| 2024年12月 | luogu-B4068 | [GESP202412 四级] Recamán | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4068/) |
+| 2024年12月 | luogu-B4069 | [GESP202412 四级] 字符排序 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4069/) |
+| 2025年3月 | luogu-B4263 | [GESP202503 四级] 荒地开垦 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4263/) |
+| 2025年3月 | luogu-B4264 | [GESP202503 四级] 二阶矩阵 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4264/) |
+| 2025年6月 | luogu-B4360 | [GESP202506 四级] 画布裁剪 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4360/) |
+| 2025年6月 | luogu-B4361 | [GESP202506 四级] 排序 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4361/) |
+| 2025年9月 | luogu-B4415 | [GESP202509 四级] 排兵布阵 | 多维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4415/) |
+| 2025年9月 | luogu-B4416 | [GESP202509 四级] 最长连续段 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4416/) |
+| 2025年12月 | - | [2025年12月，第十二次认证]第二题优先购买 | 结构体 | [查看题解](https://www.coderli.com/gesp-4-202512-2/) |
+| 2025年12月 | luogu-B4451 | [2025年12月，第十二次认证]第一题建造 luogu-b4451 | 模拟算法 | [查看题解](https://www.coderli.com/gesp-4-202512-1-luogu-b4451/) |
+| 2026年3月 | luogu-B4501 | [GESP202603 四级] 山之谷 | 二维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4501/) |
+| 2026年3月 | luogu-B4502 | [GESP202603 四级] 礼盒排序 | 结构体排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4502/) |
+| 2026年6月 | luogu-B4557 | [GESP202606 四级] 扫雷 | 二维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4557/) |
+| 2026年6月 | luogu-B4558 | [GESP202606 四级] 身高体重指数 | 排序 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4558/) |
+| 2026年9月 | luogu-B4579 | [GESP202609 四级] 新汉诺塔 | 递归 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
+| 2026年9月 | luogu-B4580 | [GESP202609 四级] 有序网格 | 二维数组 | [查看题解](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
 
 ### 五级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026-02 | 【NOIP】1998真题解析 luogu-P1009 阶乘之和 | GESP四、五级以上可练习 | 高精度 | [luogu-P1009-【NOIP】1998真题解析 luogu-P1009 阶乘之和 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
-| 2026-02 | 【NOIP】1998真题解析 luogu-P1010 幂次方 | GESP四、五级以上可练习 | 递归 | [luogu-P1010-【NOIP】1998真题解析 luogu-P1010 幂次方 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
-| 2026-02 | 【NOIP】1998真题解析 luogu-P1011 车站 | GESP四、五级以上可练习 | 递推 | [luogu-P1011-【NOIP】1998真题解析 luogu-P1011 车站 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
-| 2026-03 | 【NOIP】1999真题解析 luogu-P1015 回文数 | GESP四、五级以上可练习 | 高精度 | [luogu-P1015-【NOIP】1999真题解析 luogu-P1015 回文数 | GESP四、五级以上可练习](https://www.coderli.com/noip-1999-luogu-p1015/) |
-| 2026-06 | 【NOIP】2000真题解析 luogu-P1022 计算器的改良（适合GESP四、五级以上练习） | 字符串 | [luogu-P1022-【NOIP】2000真题解析 luogu-P1022 计算器的改良（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1022/) |
-| 2026-06 | 【NOIP】2000真题解析 luogu-P1023 税收与补贴问题（适合GESP四、五级以上练习） | 模拟 | [luogu-P1023-【NOIP】2000真题解析 luogu-P1023 税收与补贴问题（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1023/) |
-| 2026-04 | 【CSP】CSP-J 2019 江西真题 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习） | CSP | [luogu-P5682-【CSP】CSP-J 2019 江西真题 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5682/) |
-| 2026-05 | 【CSP】CSP-J 2021真题 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习） | CSP | [luogu-P7911-【CSP】CSP-J 2021真题 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7911/) |
-| 2023年9月 | 因数分解 | 数论 | [luogu-B3871-因数分解](https://www.coderli.com/gesp-5-luogu-b3871/) |
-| 2023年9月 | 巧夺大奖 | 贪心 | [luogu-B3872-巧夺大奖](https://www.coderli.com/gesp-5-luogu-b3872/) |
-| 2023年12月 | 小杨的幸运数 | 数论 | [luogu-B3929-小杨的幸运数](https://www.coderli.com/gesp-5-luogu-b3929/) |
-| 2023年12月 | 烹饪问题 | 贪心 | [luogu-B3930-烹饪问题](https://www.coderli.com/gesp-5-luogu-b3930/) |
-| 2024年3月 | 成绩排序 | 排序 | [luogu-B3968-成绩排序](https://www.coderli.com/gesp-5-luogu-b3968/) |
-| 2024年3月 | B-smooth 数 | 数论 | [luogu-B3969-B-smooth 数](https://www.coderli.com/gesp-5-luogu-b3969/) |
-| 2024年6月 | 黑白格 | 前缀和 | [luogu-P10719-黑白格](https://www.coderli.com/gesp-5-luogu-p10719/) |
-| 2024年6月 | 小杨的幸运数字 | 数论 | [luogu-P10720-小杨的幸运数字](https://www.coderli.com/gesp-5-luogu-p10720/) |
-| 2024年9月 | 挑战怪物 | 数论 | [luogu-B4050-挑战怪物](https://www.coderli.com/gesp-5-luogu-b4050/) |
-| 2024年9月 | 小杨的武器 | 贪心 | [luogu-B4051-小杨的武器](https://www.coderli.com/gesp-5-luogu-b4051/) |
-| 2024年12月 | 奇妙数字 | 数论 | [luogu-B4070-奇妙数字](https://www.coderli.com/gesp-5-luogu-b4070/) |
-| 2024年12月 | 武器强化 | 贪心 | [luogu-B4071-武器强化](https://www.coderli.com/gesp-5-luogu-b4071/) |
-| 2025年3月 | 平均分配 | 贪心 | [luogu-P11960-平均分配](https://www.coderli.com/gesp-5-luogu-p11960/) |
-| 2025年3月 | 原根判断 | 数论 | [luogu-P11961-原根判断](https://www.coderli.com/gesp-5-luogu-p11961/) |
-| 2025年6月 | 奖品兑换 | 二分答案 | [luogu-P13013-奖品兑换](https://www.coderli.com/gesp-5-luogu-p13013/) |
-| 2025年6月 | 最大公因数 | 数论 | [luogu-P13014-最大公因数](https://www.coderli.com/gesp-5-luogu-p13014/) |
-| 2025年9月 | 数字选取 | 数论 | [luogu-P14073-数字选取](https://www.coderli.com/gesp-5-luogu-p14073/) |
-| 2025年9月 | 有趣的数字和 | 前缀和 | [luogu-P14074-有趣的数字和](https://www.coderli.com/gesp-5-luogu-p14074/) |
-| 2025年12月 | 第一题-数字移动 luogu-p14917 | 模拟算法 | [luogu-P14917-第一题-数字移动 luogu-p14917](https://www.coderli.com/gesp-5-202512-1-luogu-p14917/) |
-| 2025年12月 | 第二题-相等序列 luogu-p14918 | 数论 | [luogu-P14918-第二题-相等序列 luogu-p14918](https://www.coderli.com/gesp-5-202512-2-luogu-p14918/) |
-| 2026年3月 | 有限不循环小数 | 数论 | [luogu-P15798-有限不循环小数](https://www.coderli.com/gesp-5-luogu-p15798/) |
-| 2026年3月 | 找数 | 二分查找 | [luogu-P15799-找数](https://www.coderli.com/gesp-5-luogu-p15799/) |
-| 2026年6月 | 排排坐 | 排序 | [luogu-P17010-排排坐](https://www.coderli.com/gesp-5-luogu-p17010/) |
-| 2026年6月 | 晚宴 | 枚举 | [luogu-P17011-晚宴](https://www.coderli.com/gesp-5-luogu-p17011/) |
-| 2026年9月 | 哥德巴赫猜想 | 数论 | [luogu-P17455-哥德巴赫猜想](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
-| 2026年9月 | 饮品调制 | 贪心 | [luogu-P17456-饮品调制](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-01 | - | GESP五级通关秘籍：从真题逻辑看透算法进阶的5个“深水区” | 武器库 | [查看题解](https://www.coderli.com/gesp-secrets-5-level-5/) |
+| 2026-02 | luogu-P1009 | [NOIP1998] 阶乘之和 | 高精度 | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
+| 2026-02 | luogu-P1010 | [NOIP1998] 幂次方 | 递归 | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
+| 2026-02 | luogu-P1011 | [NOIP1998] 车站 | 递推 | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
+| 2026-03 | luogu-P1015 | [NOIP1999] 回文数 | 高精度 | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
+| 2026-06 | luogu-P1022 | [NOIP2000] 计算器的改良 | 字符串 | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
+| 2026-06 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | 模拟 | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
+| 2026-04 | luogu-P5682 | CSP-J 2019 江西真题 - 次大值 | CSP | [查看题解](https://www.coderli.com/csp-j-2019-p5682/) |
+| 2026-05 | luogu-P7911 | [CSP-J 2021真题] 网络连接 | CSP | [查看题解](https://www.coderli.com/csp-j-2021-p7911/) |
+| 2023年9月 | luogu-B3871 | [GESP202309 五级] 因数分解 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3871/) |
+| 2023年9月 | luogu-B3872 | [GESP202309 五级] 巧夺大奖 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3872/) |
+| 2023年12月 | luogu-B3929 | [GESP202312 五级] 小杨的幸运数 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3929/) |
+| 2023年12月 | luogu-B3930 | [GESP202312 五级] 烹饪问题 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3930/) |
+| 2024年3月 | luogu-B3968 | [GESP202403 五级] 成绩排序 | 排序 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3968/) |
+| 2024年3月 | luogu-B3969 | [GESP202403 五级] B-smooth 数 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-b3969/) |
+| 2024年6月 | luogu-P10719 | [GESP202406 五级] 黑白格 | 前缀和 | [查看题解](https://www.coderli.com/gesp-5-luogu-p10719/) |
+| 2024年6月 | luogu-P10720 | [GESP202406 五级] 小杨的幸运数字 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p10720/) |
+| 2024年9月 | luogu-B4050 | [GESP202409 五级] 挑战怪物 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-b4050/) |
+| 2024年9月 | luogu-B4051 | [GESP202409 五级] 小杨的武器 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-b4051/) |
+| 2024年12月 | luogu-B4070 | [GESP202412 五级] 奇妙数字 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-b4070/) |
+| 2024年12月 | luogu-B4071 | [GESP202412 五级] 武器强化 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-b4071/) |
+| 2025年3月 | luogu-P11960 | [GESP202503 五级] 平均分配 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-p11960/) |
+| 2025年3月 | luogu-P11961 | [GESP202503 五级] 原根判断 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p11961/) |
+| 2025年6月 | luogu-P13013 | [GESP202506 五级] 奖品兑换 | 二分答案 | [查看题解](https://www.coderli.com/gesp-5-luogu-p13013/) |
+| 2025年6月 | luogu-P13014 | [GESP202506 五级] 最大公因数 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p13014/) |
+| 2025年9月 | luogu-P14073 | [GESP202509 五级] 数字选取 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p14073/) |
+| 2025年9月 | luogu-P14074 | [GESP202509 五级] 有趣的数字和 | 前缀和 | [查看题解](https://www.coderli.com/gesp-5-luogu-p14074/) |
+| 2025年12月 | luogu-P14917 | [2025年12月，第十二次认证]第一题-数字移动 luogu-p14917 | 模拟算法 | [查看题解](https://www.coderli.com/gesp-5-202512-1-luogu-p14917/) |
+| 2025年12月 | luogu-P14918 | [2025年12月，第十二次认证]第二题-相等序列 luogu-p14918 | 数论 | [查看题解](https://www.coderli.com/gesp-5-202512-2-luogu-p14918/) |
+| 2026年3月 | luogu-P15798 | [GESP202603 五级] 有限不循环小数 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p15798/) |
+| 2026年3月 | luogu-P15799 | [GESP202603 五级] 找数 | 二分查找 | [查看题解](https://www.coderli.com/gesp-5-luogu-p15799/) |
+| 2026年6月 | luogu-P17010 | [GESP202606 五级] 排排坐 | 排序 | [查看题解](https://www.coderli.com/gesp-5-luogu-p17010/) |
+| 2026年6月 | luogu-P17011 | [GESP202606 五级] 晚宴 | 枚举 | [查看题解](https://www.coderli.com/gesp-5-luogu-p17011/) |
+| 2026年9月 | luogu-P17455 | [GESP202609 五级] 哥德巴赫猜想 | 数论 | [查看题解](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
+| 2026年9月 | luogu-P17456 | [GESP202609 五级] 饮品调制 | 贪心 | [查看题解](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
 
 ### 六级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026-03 | 【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习 | 贪心 | [luogu-P1016-【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
-| 2026-07 | 【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习） | 动态规划 | [luogu-P1048-【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习）](https://www.coderli.com/noip-2005-luogu-p1048/) |
-| 2026-02 | 【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平） | CSP | [luogu-P14359-【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14359/) |
-| 2026-02 | 【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平） | CSP | [luogu-P14360-【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14360/) |
-| 2026-07 | 【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习） | 二分答案 | [luogu-P2678-【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习）](https://www.coderli.com/noip-2015-luogu-p2678/) |
-| 2026-05 | 【CSP】CSP-J 2019真题 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习） | CSP | [luogu-P5662-【CSP】CSP-J 2019真题 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5662/) |
-| 2026-04 | 【CSP】CSP-J 2021真题 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习） | CSP | [luogu-P7910-【CSP】CSP-J 2021真题 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7910/) |
-| 2026年3月 | 选数 | 算法 | [luogu-P15800-选数](https://www.coderli.com/gesp-6-luogu-p15800/) |
-| 2026年3月 | 完全二叉树 | 算法 | [luogu-P15801-完全二叉树](https://www.coderli.com/gesp-6-luogu-p15801/) |
-| 2026年6月 | 条形蛋糕 | 算法 | [luogu-P17012-条形蛋糕](https://www.coderli.com/gesp-6-luogu-p17012/) |
-| 2026年6月 | 满二叉树 | 二叉树 | [luogu-P17013-满二叉树](https://www.coderli.com/gesp-6-luogu-p17013/) |
-| 2026年9月 | 数组划分 | 动态规划 | [luogu-P17457-数组划分](https://www.coderli.com/gesp-6-luogu-p17457-array-partition/) |
-| 2026年9月 | 分树规划 | 树形结构 | [luogu-P17458-分树规划](https://www.coderli.com/gesp-6-luogu-p17458-tree-partition/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026-03 | luogu-P1016 | [NOIP1999] 旅行家的预算 | 贪心 | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
+| 2026-07 | luogu-P1048 | [NOIP2005] 采药 | 动态规划 | [查看题解](https://www.coderli.com/noip-2005-luogu-p1048/) |
+| 2026-02 | luogu-P14359 | [CSP-J 2025真题] 异或和 | CSP | [查看题解](https://www.coderli.com/csp-j-2025-p14359/) |
+| 2026-02 | luogu-P14360 | [CSP-J 2025真题] 多边形 | CSP | [查看题解](https://www.coderli.com/csp-j-2025-p14360/) |
+| 2026-07 | luogu-P2678 | [NOIP2015] 跳石头 | 二分答案 | [查看题解](https://www.coderli.com/noip-2015-luogu-p2678/) |
+| 2026-05 | luogu-P5662 | [CSP-J 2019真题] 纪念品 | CSP | [查看题解](https://www.coderli.com/csp-j-2019-p5662/) |
+| 2026-04 | luogu-P7910 | [CSP-J 2021真题] 插入排序 | CSP | [查看题解](https://www.coderli.com/csp-j-2021-p7910/) |
+| 2026年3月 | luogu-P15800 | [GESP202603 六级] 选数 | 算法 | [查看题解](https://www.coderli.com/gesp-6-luogu-p15800/) |
+| 2026年3月 | luogu-P15801 | [GESP202603 六级] 完全二叉树 | 算法 | [查看题解](https://www.coderli.com/gesp-6-luogu-p15801/) |
+| 2026年6月 | luogu-P17012 | [GESP202606 六级] 条形蛋糕 | 算法 | [查看题解](https://www.coderli.com/gesp-6-luogu-p17012/) |
+| 2026年6月 | luogu-P17013 | [GESP202606 六级] 满二叉树 | 二叉树 | [查看题解](https://www.coderli.com/gesp-6-luogu-p17013/) |
+| 2026年9月 | luogu-P17457 | [GESP202609 六级] 数组划分 | 动态规划 | [查看题解](https://www.coderli.com/gesp-6-luogu-p17457-array-partition/) |
+| 2026年9月 | luogu-P17458 | [GESP202609 六级] 分树规划 | 树形结构 | [查看题解](https://www.coderli.com/gesp-6-luogu-p17458-tree-partition/) |
 
 ### 七级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026年9月 | 必经之路 | 图论 | [luogu-P17459-必经之路](https://www.coderli.com/gesp-7-luogu-p17459-must-pass-node/) |
-| 2026年9月 | 括号序列 | 动态规划 | [luogu-P17460-括号序列](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026年9月 | luogu-P17459 | [GESP202609 七级] 必经之路 | 图论 | [查看题解](https://www.coderli.com/gesp-7-luogu-p17459-must-pass-node/) |
+| 2026年9月 | luogu-P17460 | [GESP202609 七级] 括号序列 | 动态规划 | [查看题解](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
 
 ### 八级(编程题)
 
-| 考试时间 | 题目名称 | 题目类型 | 题目讲解 |
-|------|----------|------|----------|
-| 2026年9月 | 生成树计数 | 高级图论 | [luogu-P17461-生成树计数](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
-| 2026年9月 | 末班车 | 高级图论 | [luogu-P17462-末班车](https://www.coderli.com/gesp-8-luogu-p17462-last-subway/) |
+| 考试时间 | 题号 | 题目名称 | 题目类型 | 题解链接 |
+|:---:|:---:|:---|:---|:---|
+| 2026年9月 | luogu-P17461 | [GESP202609 八级] 生成树计数 | 高级图论 | [查看题解](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
+| 2026年9月 | luogu-P17462 | [GESP202609 八级] 末班车 | 高级图论 | [查看题解](https://www.coderli.com/gesp-8-luogu-p17462-last-subway/) |
 
 ---
 
 ## CSP 认证与复赛真题解析
 
-### CSP-J 普及组历年真题与复赛
+### CSP-J 普及组历年复赛真题
 
-| 年份/阶段 | 题号 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
+| 年份 | 题号 | 题目名称 | 对应源码路径 | 题解链接 |
 |:---:|:---:|:---|:---|:---|
-| 2026年 | luogu-B4072 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习） | `csp/j/2026/B4072.cpp` | [【CSP】CSP-X 2018真题 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4072/) |
-| 2026年 | luogu-B4073 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习） | `csp/j/2026/B4073.cpp` | [【CSP】CSP-X 2018真题 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4073/) |
-| 2026年 | luogu-B4074 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习） | `csp/j/2026/B4074.cpp` | [【CSP】CSP-X 2018真题 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4074/) |
-| 2026年 | luogu-B4075 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习） | `csp/j/2026/B4075.cpp` | [【CSP】CSP-X 2018真题 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4075/) |
-| 2026年 | luogu-B4577 | luogu-B4577 [GESP202609 三级] 公共二进制位 | `csp/j/2026/B4577.cpp` | [【GESP真题】GESP三级 / CSP-J 题解：luogu-B4577 [GESP202609 三级] 公共二进制位](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
-| 2026年 | luogu-B4578 | luogu-B4578 [GESP202609 三级] 分割字符串 | `csp/j/2026/B4578.cpp` | [【GESP真题】GESP三级 / CSP-J 题解：luogu-B4578 [GESP202609 三级] 分割字符串](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
-| 2026年 | luogu-B4579 | luogu-B4579 [GESP202609 四级] 新汉诺塔 | `csp/j/2026/B4579.cpp` | [【GESP真题】GESP四级 / CSP-J 题解：luogu-B4579 [GESP202609 四级] 新汉诺塔](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
-| 2026年 | luogu-B4580 | luogu-B4580 [GESP202609 四级] 有序网格 | `csp/j/2026/B4580.cpp` | [【GESP真题】GESP四级 / CSP-J 题解：luogu-B4580 [GESP202609 四级] 有序网格](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
-| 2026年 | luogu-P1002 | luogu-P1002 [NOIP2002 普及组] 过河卒 | `csp/j/2026/P1002.cpp` | [【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1002 [NOIP2002 普及组] 过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| 2026年 | luogu-P1028 | luogu-P1028 [NOIP2001 普及组] 数的计算 | `csp/j/2026/P1028.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1028 [NOIP2001 普及组] 数的计算](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| 2026年 | luogu-P1093 | luogu-P1093 [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1093 [NOIP2007 普及组] 奖学金](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
-| 2026年 | luogu-P11227 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平） | `csp/j/2026/P11227.cpp` | [【CSP】CSP-J 2024真题 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平）](https://www.coderli.com/csp-j-2024-p11227/) |
-| 2026年 | luogu-P11228 | 地图探险 luogu-P11228 （相当于GESP四级左右水平） | `csp/j/2026/P11228.cpp` | [【CSP】CSP-J 2024真题 | 地图探险 luogu-P11228 （相当于GESP四级左右水平）](https://www.coderli.com/csp-j-2024-p11228/) |
-| 2026年 | luogu-P1271 | luogu-P1271 【深基9.例1】选举学生会 | `csp/j/2026/P1271.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1271 【深基9.例1】选举学生会](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
-| 2026年 | luogu-P14357 | 拼数 luogu-P14357 （适合GESP三、四级考生练习） | `csp/j/2026/P14357.cpp` | [【CSP】CSP-J 2025真题 | 拼数 luogu-P14357 （适合GESP三、四级考生练习）](https://www.coderli.com/csp-j-2025-p14357/) |
-| 2026年 | luogu-P14358 | 座位 luogu-P14358 （相当于GESP三、四级水平） | `csp/j/2026/P14358.cpp` | [【CSP】CSP-J 2025真题 | 座位 luogu-P14358 （相当于GESP三、四级水平）](https://www.coderli.com/csp-j-2025-p14358/) |
-| 2026年 | luogu-P14359 | 异或和 luogu-P14359 （相当于GESP六级水平） | `csp/j/2026/P14359.cpp` | [【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14359/) |
-| 2026年 | luogu-P14360 | 多边形 luogu-P14360 （相当于GESP六级水平） | `csp/j/2026/P14360.cpp` | [【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14360/) |
-| 2026年 | luogu-P17455 | luogu-P17455 [GESP202609 五级] 哥德巴赫猜想 | `csp/j/2026/P17455.cpp` | [【GESP真题】GESP五级 / CSP-J 题解：luogu-P17455 [GESP202609 五级] 哥德巴赫猜想](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
-| 2026年 | luogu-P17456 | luogu-P17456 [GESP202609 五级] 饮品调制 | `csp/j/2026/P17456.cpp` | [【GESP真题】GESP五级 / CSP-J 题解：luogu-P17456 [GESP202609 五级] 饮品调制](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
-| 2026年 | luogu-P17457 | luogu-P17457 [GESP202609 六级] 数组划分 | `csp/j/2026/P17457.cpp` | [【GESP真题】GESP六级 / CSP-J 题解：luogu-P17457 [GESP202609 六级] 数组划分](https://www.coderli.com/gesp-6-luogu-p17457-array-partition/) |
-| 2026年 | luogu-P17458 | luogu-P17458 [GESP202609 六级] 分树规划 | `csp/j/2026/P17458.cpp` | [【GESP真题】GESP六级 / CSP-J 题解：luogu-P17458 [GESP202609 六级] 分树规划](https://www.coderli.com/gesp-6-luogu-p17458-tree-partition/) |
-| 2026年 | luogu-P5661 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习） | `csp/j/2026/P5661.cpp` | [【CSP】CSP-J 2019真题 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5661/) |
-| 2026年 | luogu-P5662 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习） | `csp/j/2026/P5662.cpp` | [【CSP】CSP-J 2019真题 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5662/) |
-| 2026年 | luogu-P5681 | 面积 luogu-P5681 （适合GESP一级、二级考生练习） | `csp/j/2026/P5681.cpp` | [【CSP】CSP-J 2019 江西真题 | 面积 luogu-P5681 （适合GESP一级、二级考生练习）](https://www.coderli.com/csp-j-2019-p5681/) |
-| 2026年 | luogu-P5682 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习） | `csp/j/2026/P5682.cpp` | [【CSP】CSP-J 2019 江西真题 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5682/) |
-| 2026年 | luogu-P7071 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习） | `csp/j/2026/P7071.cpp` | [【CSP】CSP-J 2020真题 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7071/) |
-| 2026年 | luogu-P7072 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习） | `csp/j/2026/P7072.cpp` | [【CSP】CSP-J 2020真题 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7072/) |
-| 2026年 | luogu-P7909 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习） | `csp/j/2026/P7909.cpp` | [【CSP】CSP-J 2021真题 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7909/) |
-| 2026年 | luogu-P7910 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习） | `csp/j/2026/P7910.cpp` | [【CSP】CSP-J 2021真题 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7910/) |
-| 2026年 | luogu-P7911 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习） | `csp/j/2026/P7911.cpp` | [【CSP】CSP-J 2021真题 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7911/) |
-| 2026年 | luogu-P8813 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习） | `csp/j/2026/P8813.cpp` | [【CSP】CSP-J 2022真题 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8813-power/) |
-| 2026年 | luogu-P8814 | 解密 luogu-P8814 （适合GESP四级及以上考生练习） | `csp/j/2026/P8814.cpp` | [【CSP】CSP-J 2022真题 | 解密 luogu-P8814 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8814-decode/) |
-| 2026年 | luogu-P9749 | 公路 luogu-P9749 （适合GESP四级及以上考生练习） | `csp/j/2026/P9749.cpp` | [【CSP】CSP-J 2023真题 | 公路 luogu-P9749 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2023-p9749-road/) |
+| 2026年 | luogu-B4072 | [CSP-X 2018真题] 小明的照片 | `csp/j/2026/B4072.cpp` | [查看题解](https://www.coderli.com/csp-x-2018-b4072/) |
+| 2026年 | luogu-B4073 | [CSP-X 2018真题] 快递费用 | `csp/j/2026/B4073.cpp` | [查看题解](https://www.coderli.com/csp-x-2018-b4073/) |
+| 2026年 | luogu-B4074 | [CSP-X 2018真题] 统计成绩 | `csp/j/2026/B4074.cpp` | [查看题解](https://www.coderli.com/csp-x-2018-b4074/) |
+| 2026年 | luogu-B4075 | [CSP-X 2018真题] 11的倍数 | `csp/j/2026/B4075.cpp` | [查看题解](https://www.coderli.com/csp-x-2018-b4075/) |
+| 2026年 | luogu-B4577 | [GESP202609 三级] 公共二进制位 | `csp/j/2026/B4577.cpp` | [查看题解](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
+| 2026年 | luogu-B4578 | [GESP202609 三级] 分割字符串 | `csp/j/2026/B4578.cpp` | [查看题解](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
+| 2026年 | luogu-B4579 | [GESP202609 四级] 新汉诺塔 | `csp/j/2026/B4579.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
+| 2026年 | luogu-B4580 | [GESP202609 四级] 有序网格 | `csp/j/2026/B4580.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
+| 2026年 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | `csp/j/2026/P1002.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
+| 2026年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `csp/j/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
+| 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
+| 2026年 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | `csp/j/2026/P11227.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
+| 2026年 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | `csp/j/2026/P11228.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
+| 2026年 | luogu-P1271 | GESP四级 / CSP-J 题解：【深基9.例1】选举学生会 | `csp/j/2026/P1271.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
+| 2026年 | luogu-P14357 | [CSP-J 2025真题] 拼数 | `csp/j/2026/P14357.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
+| 2026年 | luogu-P14358 | [CSP-J 2025真题] 座位 | `csp/j/2026/P14358.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
+| 2026年 | luogu-P14359 | [CSP-J 2025真题] 异或和 | `csp/j/2026/P14359.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14359/) |
+| 2026年 | luogu-P14360 | [CSP-J 2025真题] 多边形 | `csp/j/2026/P14360.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14360/) |
+| 2026年 | luogu-P17455 | [GESP202609 五级] 哥德巴赫猜想 | `csp/j/2026/P17455.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
+| 2026年 | luogu-P17456 | [GESP202609 五级] 饮品调制 | `csp/j/2026/P17456.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
+| 2026年 | luogu-P17457 | [GESP202609 六级] 数组划分 | `csp/j/2026/P17457.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p17457-array-partition/) |
+| 2026年 | luogu-P17458 | [GESP202609 六级] 分树规划 | `csp/j/2026/P17458.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p17458-tree-partition/) |
+| 2026年 | luogu-P17459 | [GESP202609 七级] 必经之路 | `csp/j/2026/P17459.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p17459-must-pass-node/) |
+| 2026年 | luogu-P17460 | [GESP202609 七级] 括号序列 | `csp/j/2026/P17460.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
+| 2026年 | luogu-P17461 | [GESP202609 八级] 生成树计数 | `csp/j/2026/P17461.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
+| 2026年 | luogu-P17462 | [GESP202609 八级] 末班车 | `csp/j/2026/P17462.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17462-last-subway/) |
+| 2026年 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | `csp/j/2026/P5661.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
+| 2026年 | luogu-P5662 | [CSP-J 2019真题] 纪念品 | `csp/j/2026/P5662.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5662/) |
+| 2026年 | luogu-P5681 | CSP-J 2019 江西真题 - 面积 | `csp/j/2026/P5681.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |
+| 2026年 | luogu-P5682 | CSP-J 2019 江西真题 - 次大值 | `csp/j/2026/P5682.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5682/) |
+| 2026年 | luogu-P7071 | [CSP-J 2020真题] 优秀的拆分 | `csp/j/2026/P7071.cpp` | [查看题解](https://www.coderli.com/csp-j-2020-p7071/) |
+| 2026年 | luogu-P7072 | [CSP-J 2020真题] 直播获奖 | `csp/j/2026/P7072.cpp` | [查看题解](https://www.coderli.com/csp-j-2020-p7072/) |
+| 2026年 | luogu-P7909 | [CSP-J 2021真题] 分糖果 | `csp/j/2026/P7909.cpp` | [查看题解](https://www.coderli.com/csp-j-2021-p7909/) |
+| 2026年 | luogu-P7910 | [CSP-J 2021真题] 插入排序 | `csp/j/2026/P7910.cpp` | [查看题解](https://www.coderli.com/csp-j-2021-p7910/) |
+| 2026年 | luogu-P7911 | [CSP-J 2021真题] 网络连接 | `csp/j/2026/P7911.cpp` | [查看题解](https://www.coderli.com/csp-j-2021-p7911/) |
+| 2026年 | luogu-P8813 | [CSP-J 2022真题] 乘方 | `csp/j/2026/P8813.cpp` | [查看题解](https://www.coderli.com/csp-j-2022-p8813-power/) |
+| 2026年 | luogu-P8814 | [CSP-J 2022真题] 解密 | `csp/j/2026/P8814.cpp` | [查看题解](https://www.coderli.com/csp-j-2022-p8814-decode/) |
+| 2026年 | luogu-P9749 | [CSP-J 2023真题] 公路 | `csp/j/2026/P9749.cpp` | [查看题解](https://www.coderli.com/csp-j-2023-p9749-road/) |
 
 ### CSP-XL 辽宁省复赛真题
 
-| 年份/阶段 | 题号/标识 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
+| 年份 | 题目标识 | 题目名称 | 对应源码路径 | 题解链接 |
 |:---:|:---:|:---|:---|:---|
-| 2025年复赛 | buy | 【CSP】CSP-XL 2025辽宁复赛真题-第四题, 购物（buy） | `csp/xl/2025/2025-11-10-csp-xl-2025ln-4-buy.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第四题, 购物（buy）](https://www.coderli.com/csp-xl-2025ln-4-buy/) |
-| 2025年复赛 | count | 【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级） | `csp/xl/2025/2025-11-05-csp-xl-2025ln-1-count.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级）](https://www.coderli.com/csp-xl-2025ln-1-count/) |
-| 2025年复赛 | match | 【CSP】CSP-XL 2025辽宁复赛真题-第三题, 小L打比赛（match） | `csp/xl/2025/2025-11-08-csp-xl-2025ln-3-match.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第三题, 小L打比赛（match）](https://www.coderli.com/csp-xl-2025ln-3-match/) |
-| 2025年复赛 | points | 【CSP】CSP-XL 2025辽宁复赛真题-第二题, 积分（points） | `csp/xl/2025/2025-11-07-csp-xl-2025ln-2-points.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第二题, 积分（points）](https://www.coderli.com/csp-xl-2025ln-2-points/) |
-
+| 2025年复赛 | BUY | [CSP-XL 2025] 购物 | `csp/xl/2025/2025-11-10-csp-xl-2025ln-4-buy.cpp` | [查看题解](https://www.coderli.com/csp-xl-2025ln-4-buy/) |
+| 2025年复赛 | COUNT | [CSP-XL 2025] 字符串数数 | `csp/xl/2025/2025-11-05-csp-xl-2025ln-1-count.cpp` | [查看题解](https://www.coderli.com/csp-xl-2025ln-1-count/) |
+| 2025年复赛 | MATCH | [CSP-XL 2025] 小L打比赛 | `csp/xl/2025/2025-11-08-csp-xl-2025ln-3-match.cpp` | [查看题解](https://www.coderli.com/csp-xl-2025ln-3-match/) |
+| 2025年复赛 | POINTS | [CSP-XL 2025] 积分 | `csp/xl/2025/2025-11-07-csp-xl-2025ln-2-points.cpp` | [查看题解](https://www.coderli.com/csp-xl-2025ln-2-points/) |
 
 ---
 
 ## NOIP 普及组历年经典真题解析
 
-| 年份 | 题号 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
+| 年份 | 题号 | 题目名称 | 对应源码路径 | 题解链接 |
 |:---:|:---:|:---|:---|:---|
-| 1997年 | luogu-P2241 | 统计方形 | `noi/p/1997/P2241.cpp` | [【NOIP】1997真题解析 luogu-P2241 统计方形（数据加强版） | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
-| 1998年 | luogu-P1008 | 三连击 | `noi/p/1998/P1008.cpp` | [【NOIP】1998真题解析 luogu-P1008 三连击 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
-| 1998年 | luogu-P1009 | 阶乘之和 | `noi/p/1998/P1009.cpp` | [【NOIP】1998真题解析 luogu-P1009 阶乘之和 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
-| 1998年 | luogu-P1010 | 幂次方 | `noi/p/1998/P1010.cpp` | [【NOIP】1998真题解析 luogu-P1010 幂次方 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
-| 1998年 | luogu-P1011 | 车站 | `noi/p/1998/P1011.cpp` | [【NOIP】1998真题解析 luogu-P1011 车站 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
-| 1999年 | luogu-P1014 | Cantor 表 | `noi/p/1999/P1014.cpp` | [【NOIP】1999真题解析 luogu-P1014 Cantor 表 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
-| 1999年 | luogu-P1015 | 回文数 | `noi/p/1999/P1015.cpp` | [【NOIP】1999真题解析 luogu-P1015 回文数 | GESP四、五级以上可练习](https://www.coderli.com/noip-1999-luogu-p1015/) |
-| 1999年 | luogu-P1016 | 旅行家的预算 | `noi/p/1999/P1016.cpp` | [【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
-| 2000年 | luogu-P1017 | 进制转换 | `noi/p/2000/P1017.cpp` | [【NOIP】2000真题解析 luogu-P1017 进制转换](https://www.coderli.com/noip-2000-luogu-p1017/) |
-| 2000年 | luogu-P1022 | 计算器的改良 | `noi/p/2000/P1022.cpp` | [【NOIP】2000真题解析 luogu-P1022 计算器的改良（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1022/) |
-| 2000年 | luogu-P1023 | 税收与补贴问题 | `noi/p/2000/P1023.cpp` | [【NOIP】2000真题解析 luogu-P1023 税收与补贴问题（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1023/) |
-| 2001年 | luogu-P1024 | 一元三次方程求解 | `noi/p/2001/P1024.cpp` | [【NOIP】2001真题解析 luogu-P1024 一元三次方程求解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
-| 2001年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `noi/p/2001/P1028.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1028 [NOIP2001 普及组] 数的计算](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| 2001年 | luogu-P1029 | 最大公约数和最小公倍数问题 | `noi/p/2001/P1029.cpp` | [【NOIP】2001真题解析 luogu-P1029 最大公约数和最小公倍数问题](https://www.coderli.com/noip-2001-luogu-p1029/) |
-| 2002年 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | `noi/p/2002/P1002.cpp` | [【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1002 [NOIP2002 普及组] 过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| 2002年 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | `noi/p/2002/P1031.cpp` | [【GESP】C++五级练习题 luogu-P1031 [NOIP 2002 提高组] 均分纸牌](https://www.coderli.com/gesp-5-luogu-p1031/) |
-| 2002年 | luogu-P1035 | 【GESP】C++一级练习 luogu-P1035, [NOIP2002 普及组] 级数求和 | `noi/p/2002/P1035.cpp` | [【GESP】C++一级练习 luogu-P1035, [NOIP2002 普及组] 级数求和](https://www.coderli.com/gesp-1-luogu-p1035/) |
-| 2005年 | luogu-P1046 | 【GESP】C++一级练习 luogu-P1046, [NOIP2005 普及组] 陶陶摘苹果 | `noi/p/2005/P1046.cpp` | [【GESP】C++一级练习 luogu-P1046, [NOIP2005 普及组] 陶陶摘苹果](https://www.coderli.com/gesp-1-luogu-p1046/) |
-| 2005年 | luogu-P1047 | [NOIP 2005 普及组] 校门外的树 | `noi/p/2005/P1047.cpp` | [【GESP】C++三级练习 luogu-P1047 [NOIP 2005 普及组] 校门外的树](https://www.coderli.com/gesp-3-luogu-p1047/) |
-| 2005年 | luogu-P1048 | 采药 | `noi/p/2005/P1048.cpp` | [【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习）](https://www.coderli.com/noip-2005-luogu-p1048/) |
-| 2007年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2007/P1093.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1093 [NOIP2007 普及组] 奖学金](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
-| 2008年 | luogu-P1125 | 笨小猴 | `noi/p/2008/P1125.cpp` | [【NOIP】2008真题解析 luogu-P1125 笨小猴](https://www.coderli.com/noip-2008-luogu-p1125/) |
-| 2010年 | luogu-P1179 | 【GESP】C++二级模拟 luogu-p1179, [NOIP 2010 普及组] 数字统计 | `noi/p/2010/P1179.cpp` | [【GESP】C++二级模拟 luogu-p1179, [NOIP 2010 普及组] 数字统计](https://www.coderli.com/gesp-2-luogu-p1179/) |
-| 2011年 | luogu-P1003 | 铺地毯 | `noi/p/2011/P1003.cpp` | [【NOIP】2011真题解析 luogu-P1003 铺地毯 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
-| 2011年 | luogu-P1307 | 【GESP】C++三级练习 luogu-P1307, [NOIP2011 普及组] 数字反转 | `noi/p/2011/P1307.cpp` | [【GESP】C++三级练习 luogu-P1307, [NOIP2011 普及组] 数字反转](https://www.coderli.com/gesp-3-luogu-p1307/) |
-| 2014年 | luogu-P2141 | [NOIP 2014 普及组] 珠心算测验 | `noi/p/2014/P2141.cpp` | [【GESP】C++三级练习 luogu-P2141 [NOIP 2014 普及组] 珠心算测验](https://www.coderli.com/gesp-3-luogu-p2141/) |
-| 2015年 | luogu-P2615 | [NOIP 2015 提高组] 神奇的幻方 | `noi/p/2015/P2615.cpp` | [【GESP】C++四级练习 luogu-P2615 [NOIP 2015 提高组] 神奇的幻方](https://www.coderli.com/gesp-4-luogu-p2615/) |
-| 2015年 | luogu-P2669 | 【GESP】C++二级练习 luogu-p2669, [NOIP2015 普及组] 金币 | `noi/p/2015/P2669.cpp` | [【GESP】C++二级练习 luogu-p2669, [NOIP2015 普及组] 金币](https://www.coderli.com/gesp-2-luogu-p2669/) |
-| 2015年 | luogu-P2678 | 跳石头 | `noi/p/2015/P2678.cpp` | [【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习）](https://www.coderli.com/noip-2015-luogu-p2678/) |
-
-
----
-
-## CSP 认证与复赛真题解析
-
-### CSP-J 普及组历年真题与复赛
-
-| 年份/阶段 | 题号 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
-|:---:|:---:|:---|:---|:---|
-| 2026年 | luogu-B4072 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习） | `csp/j/2026/B4072.cpp` | [【CSP】CSP-X 2018真题 | 小明的照片 luogu-B4072 （适合GESP一级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4072/) |
-| 2026年 | luogu-B4073 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习） | `csp/j/2026/B4073.cpp` | [【CSP】CSP-X 2018真题 | 快递费用 luogu-B4073 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4073/) |
-| 2026年 | luogu-B4074 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习） | `csp/j/2026/B4074.cpp` | [【CSP】CSP-X 2018真题 | 统计成绩 luogu-B4074 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4074/) |
-| 2026年 | luogu-B4075 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习） | `csp/j/2026/B4075.cpp` | [【CSP】CSP-X 2018真题 | 11的倍数 luogu-B4075 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-x-2018-b4075/) |
-| 2026年 | luogu-B4577 | luogu-B4577 [GESP202609 三级] 公共二进制位 | `csp/j/2026/B4577.cpp` | [【GESP真题】GESP三级 / CSP-J 题解：luogu-B4577 [GESP202609 三级] 公共二进制位](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
-| 2026年 | luogu-B4578 | luogu-B4578 [GESP202609 三级] 分割字符串 | `csp/j/2026/B4578.cpp` | [【GESP真题】GESP三级 / CSP-J 题解：luogu-B4578 [GESP202609 三级] 分割字符串](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
-| 2026年 | luogu-B4579 | luogu-B4579 [GESP202609 四级] 新汉诺塔 | `csp/j/2026/B4579.cpp` | [【GESP真题】GESP四级 / CSP-J 题解：luogu-B4579 [GESP202609 四级] 新汉诺塔](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
-| 2026年 | luogu-B4580 | luogu-B4580 [GESP202609 四级] 有序网格 | `csp/j/2026/B4580.cpp` | [【GESP真题】GESP四级 / CSP-J 题解：luogu-B4580 [GESP202609 四级] 有序网格](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
-| 2026年 | luogu-P1002 | luogu-P1002 [NOIP2002 普及组] 过河卒 | `csp/j/2026/P1002.cpp` | [【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1002 [NOIP2002 普及组] 过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| 2026年 | luogu-P1028 | luogu-P1028 [NOIP2001 普及组] 数的计算 | `csp/j/2026/P1028.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1028 [NOIP2001 普及组] 数的计算](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| 2026年 | luogu-P1093 | luogu-P1093 [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1093 [NOIP2007 普及组] 奖学金](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
-| 2026年 | luogu-P11227 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平） | `csp/j/2026/P11227.cpp` | [【CSP】CSP-J 2024真题 | 扑克牌 luogu-P11227 （相当于GESP三级左右水平）](https://www.coderli.com/csp-j-2024-p11227/) |
-| 2026年 | luogu-P11228 | 地图探险 luogu-P11228 （相当于GESP四级左右水平） | `csp/j/2026/P11228.cpp` | [【CSP】CSP-J 2024真题 | 地图探险 luogu-P11228 （相当于GESP四级左右水平）](https://www.coderli.com/csp-j-2024-p11228/) |
-| 2026年 | luogu-P1271 | luogu-P1271 【深基9.例1】选举学生会 | `csp/j/2026/P1271.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1271 【深基9.例1】选举学生会](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
-| 2026年 | luogu-P14357 | 拼数 luogu-P14357 （适合GESP三、四级考生练习） | `csp/j/2026/P14357.cpp` | [【CSP】CSP-J 2025真题 | 拼数 luogu-P14357 （适合GESP三、四级考生练习）](https://www.coderli.com/csp-j-2025-p14357/) |
-| 2026年 | luogu-P14358 | 座位 luogu-P14358 （相当于GESP三、四级水平） | `csp/j/2026/P14358.cpp` | [【CSP】CSP-J 2025真题 | 座位 luogu-P14358 （相当于GESP三、四级水平）](https://www.coderli.com/csp-j-2025-p14358/) |
-| 2026年 | luogu-P14359 | 异或和 luogu-P14359 （相当于GESP六级水平） | `csp/j/2026/P14359.cpp` | [【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14359/) |
-| 2026年 | luogu-P14360 | 多边形 luogu-P14360 （相当于GESP六级水平） | `csp/j/2026/P14360.cpp` | [【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14360/) |
-| 2026年 | luogu-P17455 | luogu-P17455 [GESP202609 五级] 哥德巴赫猜想 | `csp/j/2026/P17455.cpp` | [【GESP真题】GESP五级 / CSP-J 题解：luogu-P17455 [GESP202609 五级] 哥德巴赫猜想](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
-| 2026年 | luogu-P17456 | luogu-P17456 [GESP202609 五级] 饮品调制 | `csp/j/2026/P17456.cpp` | [【GESP真题】GESP五级 / CSP-J 题解：luogu-P17456 [GESP202609 五级] 饮品调制](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
-| 2026年 | luogu-P17457 | luogu-P17457 [GESP202609 六级] 数组划分 | `csp/j/2026/P17457.cpp` | [【GESP真题】GESP六级 / CSP-J 题解：luogu-P17457 [GESP202609 六级] 数组划分](https://www.coderli.com/gesp-6-luogu-p17457-array-partition/) |
-| 2026年 | luogu-P17458 | luogu-P17458 [GESP202609 六级] 分树规划 | `csp/j/2026/P17458.cpp` | [【GESP真题】GESP六级 / CSP-J 题解：luogu-P17458 [GESP202609 六级] 分树规划](https://www.coderli.com/gesp-6-luogu-p17458-tree-partition/) |
-| 2026年 | luogu-P5661 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习） | `csp/j/2026/P5661.cpp` | [【CSP】CSP-J 2019真题 | 公交换乘 luogu-P5661 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5661/) |
-| 2026年 | luogu-P5662 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习） | `csp/j/2026/P5662.cpp` | [【CSP】CSP-J 2019真题 | 纪念品 luogu-P5662 （适合GESP六级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5662/) |
-| 2026年 | luogu-P5681 | 面积 luogu-P5681 （适合GESP一级、二级考生练习） | `csp/j/2026/P5681.cpp` | [【CSP】CSP-J 2019 江西真题 | 面积 luogu-P5681 （适合GESP一级、二级考生练习）](https://www.coderli.com/csp-j-2019-p5681/) |
-| 2026年 | luogu-P5682 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习） | `csp/j/2026/P5682.cpp` | [【CSP】CSP-J 2019 江西真题 | 次大值 luogu-P5682 （适合GESP四、五级及以上考生练习）](https://www.coderli.com/csp-j-2019-p5682/) |
-| 2026年 | luogu-P7071 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习） | `csp/j/2026/P7071.cpp` | [【CSP】CSP-J 2020真题 | 优秀的拆分 luogu-P7071 （适合GESP二、三级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7071/) |
-| 2026年 | luogu-P7072 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习） | `csp/j/2026/P7072.cpp` | [【CSP】CSP-J 2020真题 | 直播获奖 luogu-P7072 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2020-p7072/) |
-| 2026年 | luogu-P7909 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习） | `csp/j/2026/P7909.cpp` | [【CSP】CSP-J 2021真题 | 分糖果 luogu-P7909 （适合GESP三级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7909/) |
-| 2026年 | luogu-P7910 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习） | `csp/j/2026/P7910.cpp` | [【CSP】CSP-J 2021真题 | 插入排序 luogu-P7910 （适合GESP四-六级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7910/) |
-| 2026年 | luogu-P7911 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习） | `csp/j/2026/P7911.cpp` | [【CSP】CSP-J 2021真题 | 网络连接 luogu-P7911 （适合GESP四-五级及以上考生练习）](https://www.coderli.com/csp-j-2021-p7911/) |
-| 2026年 | luogu-P8813 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习） | `csp/j/2026/P8813.cpp` | [【CSP】CSP-J 2022真题 | 乘方 luogu-P8813 （适合GESP二级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8813-power/) |
-| 2026年 | luogu-P8814 | 解密 luogu-P8814 （适合GESP四级及以上考生练习） | `csp/j/2026/P8814.cpp` | [【CSP】CSP-J 2022真题 | 解密 luogu-P8814 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2022-p8814-decode/) |
-| 2026年 | luogu-P9749 | 公路 luogu-P9749 （适合GESP四级及以上考生练习） | `csp/j/2026/P9749.cpp` | [【CSP】CSP-J 2023真题 | 公路 luogu-P9749 （适合GESP四级及以上考生练习）](https://www.coderli.com/csp-j-2023-p9749-road/) |
-
-### CSP-XL 辽宁省复赛真题
-
-| 年份/阶段 | 题号/标识 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
-|:---:|:---:|:---|:---|:---|
-| 2025年复赛 | buy | 【CSP】CSP-XL 2025辽宁复赛真题-第四题, 购物（buy） | `csp/xl/2025/2025-11-10-csp-xl-2025ln-4-buy.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第四题, 购物（buy）](https://www.coderli.com/csp-xl-2025ln-4-buy/) |
-| 2025年复赛 | count | 【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级） | `csp/xl/2025/2025-11-05-csp-xl-2025ln-1-count.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第一题, 字符串数数（count）（字符串考点，相当于GESP三级）](https://www.coderli.com/csp-xl-2025ln-1-count/) |
-| 2025年复赛 | match | 【CSP】CSP-XL 2025辽宁复赛真题-第三题, 小L打比赛（match） | `csp/xl/2025/2025-11-08-csp-xl-2025ln-3-match.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第三题, 小L打比赛（match）](https://www.coderli.com/csp-xl-2025ln-3-match/) |
-| 2025年复赛 | points | 【CSP】CSP-XL 2025辽宁复赛真题-第二题, 积分（points） | `csp/xl/2025/2025-11-07-csp-xl-2025ln-2-points.cpp` | [【CSP】CSP-XL 2025辽宁复赛真题-第二题, 积分（points）](https://www.coderli.com/csp-xl-2025ln-2-points/) |
-
-
----
-
-## NOIP 普及组历年经典真题解析
-
-| 年份 | 题号 | 题目名称 | 对应源码路径 | 原文深度解析链接 |
-|:---:|:---:|:---|:---|:---|
-| 1997年 | luogu-P2241 | 统计方形 | `noi/p/1997/P2241.cpp` | [【NOIP】1997真题解析 luogu-P2241 统计方形（数据加强版） | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
-| 1998年 | luogu-P1008 | 三连击 | `noi/p/1998/P1008.cpp` | [【NOIP】1998真题解析 luogu-P1008 三连击 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
-| 1998年 | luogu-P1009 | 阶乘之和 | `noi/p/1998/P1009.cpp` | [【NOIP】1998真题解析 luogu-P1009 阶乘之和 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
-| 1998年 | luogu-P1010 | 幂次方 | `noi/p/1998/P1010.cpp` | [【NOIP】1998真题解析 luogu-P1010 幂次方 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
-| 1998年 | luogu-P1011 | 车站 | `noi/p/1998/P1011.cpp` | [【NOIP】1998真题解析 luogu-P1011 车站 | GESP四、五级以上可练习](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
-| 1999年 | luogu-P1014 | Cantor 表 | `noi/p/1999/P1014.cpp` | [【NOIP】1999真题解析 luogu-P1014 Cantor 表 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
-| 1999年 | luogu-P1015 | 回文数 | `noi/p/1999/P1015.cpp` | [【NOIP】1999真题解析 luogu-P1015 回文数 | GESP四、五级以上可练习](https://www.coderli.com/noip-1999-luogu-p1015/) |
-| 1999年 | luogu-P1016 | 旅行家的预算 | `noi/p/1999/P1016.cpp` | [【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
-| 2000年 | luogu-P1017 | 进制转换 | `noi/p/2000/P1017.cpp` | [【NOIP】2000真题解析 luogu-P1017 进制转换](https://www.coderli.com/noip-2000-luogu-p1017/) |
-| 2000年 | luogu-P1022 | 计算器的改良 | `noi/p/2000/P1022.cpp` | [【NOIP】2000真题解析 luogu-P1022 计算器的改良（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1022/) |
-| 2000年 | luogu-P1023 | 税收与补贴问题 | `noi/p/2000/P1023.cpp` | [【NOIP】2000真题解析 luogu-P1023 税收与补贴问题（适合GESP四、五级以上练习）](https://www.coderli.com/noip-2000-luogu-p1023/) |
-| 2001年 | luogu-P1024 | 一元三次方程求解 | `noi/p/2001/P1024.cpp` | [【NOIP】2001真题解析 luogu-P1024 一元三次方程求解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
-| 2001年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `noi/p/2001/P1028.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1028 [NOIP2001 普及组] 数的计算](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| 2001年 | luogu-P1029 | 最大公约数和最小公倍数问题 | `noi/p/2001/P1029.cpp` | [【NOIP】2001真题解析 luogu-P1029 最大公约数和最小公倍数问题](https://www.coderli.com/noip-2001-luogu-p1029/) |
-| 2002年 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | `noi/p/2002/P1002.cpp` | [【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1002 [NOIP2002 普及组] 过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| 2002年 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | `noi/p/2002/P1031.cpp` | [【GESP】C++五级练习题 luogu-P1031 [NOIP 2002 提高组] 均分纸牌](https://www.coderli.com/gesp-5-luogu-p1031/) |
-| 2002年 | luogu-P1035 | 【GESP】C++一级练习 luogu-P1035, [NOIP2002 普及组] 级数求和 | `noi/p/2002/P1035.cpp` | [【GESP】C++一级练习 luogu-P1035, [NOIP2002 普及组] 级数求和](https://www.coderli.com/gesp-1-luogu-p1035/) |
-| 2005年 | luogu-P1046 | 【GESP】C++一级练习 luogu-P1046, [NOIP2005 普及组] 陶陶摘苹果 | `noi/p/2005/P1046.cpp` | [【GESP】C++一级练习 luogu-P1046, [NOIP2005 普及组] 陶陶摘苹果](https://www.coderli.com/gesp-1-luogu-p1046/) |
-| 2005年 | luogu-P1047 | [NOIP 2005 普及组] 校门外的树 | `noi/p/2005/P1047.cpp` | [【GESP】C++三级练习 luogu-P1047 [NOIP 2005 普及组] 校门外的树](https://www.coderli.com/gesp-3-luogu-p1047/) |
-| 2005年 | luogu-P1048 | 采药 | `noi/p/2005/P1048.cpp` | [【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习）](https://www.coderli.com/noip-2005-luogu-p1048/) |
-| 2007年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2007/P1093.cpp` | [【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1093 [NOIP2007 普及组] 奖学金](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
-| 2008年 | luogu-P1125 | 笨小猴 | `noi/p/2008/P1125.cpp` | [【NOIP】2008真题解析 luogu-P1125 笨小猴](https://www.coderli.com/noip-2008-luogu-p1125/) |
-| 2010年 | luogu-P1179 | 【GESP】C++二级模拟 luogu-p1179, [NOIP 2010 普及组] 数字统计 | `noi/p/2010/P1179.cpp` | [【GESP】C++二级模拟 luogu-p1179, [NOIP 2010 普及组] 数字统计](https://www.coderli.com/gesp-2-luogu-p1179/) |
-| 2011年 | luogu-P1003 | 铺地毯 | `noi/p/2011/P1003.cpp` | [【NOIP】2011真题解析 luogu-P1003 铺地毯 | GESP三、四级以上可练习](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
-| 2011年 | luogu-P1307 | 【GESP】C++三级练习 luogu-P1307, [NOIP2011 普及组] 数字反转 | `noi/p/2011/P1307.cpp` | [【GESP】C++三级练习 luogu-P1307, [NOIP2011 普及组] 数字反转](https://www.coderli.com/gesp-3-luogu-p1307/) |
-| 2014年 | luogu-P2141 | [NOIP 2014 普及组] 珠心算测验 | `noi/p/2014/P2141.cpp` | [【GESP】C++三级练习 luogu-P2141 [NOIP 2014 普及组] 珠心算测验](https://www.coderli.com/gesp-3-luogu-p2141/) |
-| 2015年 | luogu-P2615 | [NOIP 2015 提高组] 神奇的幻方 | `noi/p/2015/P2615.cpp` | [【GESP】C++四级练习 luogu-P2615 [NOIP 2015 提高组] 神奇的幻方](https://www.coderli.com/gesp-4-luogu-p2615/) |
-| 2015年 | luogu-P2669 | 【GESP】C++二级练习 luogu-p2669, [NOIP2015 普及组] 金币 | `noi/p/2015/P2669.cpp` | [【GESP】C++二级练习 luogu-p2669, [NOIP2015 普及组] 金币](https://www.coderli.com/gesp-2-luogu-p2669/) |
-| 2015年 | luogu-P2678 | 跳石头 | `noi/p/2015/P2678.cpp` | [【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习）](https://www.coderli.com/noip-2015-luogu-p2678/) |
-
+| 2024年 | luogu-P1035 | [NOIP2002 普及组] 级数求和 | `noi/p/2024/P1035.cpp` | [查看题解](https://www.coderli.com/gesp-1-luogu-p1035/) |
+| 2024年 | luogu-P1046 | [NOIP2005 普及组] 陶陶摘苹果 | `noi/p/2024/P1046.cpp` | [查看题解](https://www.coderli.com/gesp-1-luogu-p1046/) |
+| 2024年 | luogu-P1307 | [NOIP2011 普及组] 数字反转 | `noi/p/2024/P1307.cpp` | [查看题解](https://www.coderli.com/gesp-3-luogu-p1307/) |
+| 2025年 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | `noi/p/2025/P1031.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1031/) |
+| 2025年 | luogu-P1047 | [NOIP 2005 普及组] 校门外的树 | `noi/p/2025/P1047.cpp` | [查看题解](https://www.coderli.com/gesp-3-luogu-p1047/) |
+| 2025年 | luogu-P1179 | [NOIP 2010 普及组] 数字统计 | `noi/p/2025/P1179.cpp` | [查看题解](https://www.coderli.com/gesp-2-luogu-p1179/) |
+| 2025年 | luogu-P2141 | [NOIP 2014 普及组] 珠心算测验 | `noi/p/2025/P2141.cpp` | [查看题解](https://www.coderli.com/gesp-3-luogu-p2141/) |
+| 2025年 | luogu-P2615 | [NOIP 2015 提高组] 神奇的幻方 | `noi/p/2025/P2615.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p2615/) |
+| 2025年 | luogu-P2669 | [NOIP2015 普及组] 金币 | `noi/p/2025/P2669.cpp` | [查看题解](https://www.coderli.com/gesp-2-luogu-p2669/) |
+| 2026年 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | `noi/p/2026/P1002.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
+| 2026年 | luogu-P1003 | [NOIP2011] 铺地毯 | `noi/p/2026/P1003.cpp` | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
+| 2026年 | luogu-P1008 | [NOIP1998] 三连击 | `noi/p/2026/P1008.cpp` | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
+| 2026年 | luogu-P1009 | [NOIP1998] 阶乘之和 | `noi/p/2026/P1009.cpp` | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
+| 2026年 | luogu-P1010 | [NOIP1998] 幂次方 | `noi/p/2026/P1010.cpp` | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
+| 2026年 | luogu-P1011 | [NOIP1998] 车站 | `noi/p/2026/P1011.cpp` | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
+| 2026年 | luogu-P1014 | [NOIP1999] Cantor 表 | `noi/p/2026/P1014.cpp` | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
+| 2026年 | luogu-P1015 | [NOIP1999] 回文数 | `noi/p/2026/P1015.cpp` | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
+| 2026年 | luogu-P1016 | [NOIP1999] 旅行家的预算 | `noi/p/2026/P1016.cpp` | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
+| 2026年 | luogu-P1017 | [NOIP2000] 进制转换 | `noi/p/2026/P1017.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1017/) |
+| 2026年 | luogu-P1022 | [NOIP2000] 计算器的改良 | `noi/p/2026/P1022.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
+| 2026年 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | `noi/p/2026/P1023.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
+| 2026年 | luogu-P1024 | [NOIP2001] 一元三次方程求解 | `noi/p/2026/P1024.cpp` | [查看题解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
+| 2026年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `noi/p/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
+| 2026年 | luogu-P1029 | [NOIP2001] 最大公约数和最小公倍数问题 | `noi/p/2026/P1029.cpp` | [查看题解](https://www.coderli.com/noip-2001-luogu-p1029/) |
+| 2026年 | luogu-P1048 | [NOIP2005] 采药 | `noi/p/2026/P1048.cpp` | [查看题解](https://www.coderli.com/noip-2005-luogu-p1048/) |
+| 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
+| 2026年 | luogu-P1125 | [NOIP2008] 笨小猴 | `noi/p/2026/P1125.cpp` | [查看题解](https://www.coderli.com/noip-2008-luogu-p1125/) |
+| 2026年 | luogu-P2241 | [NOIP1997] 统计方形 | `noi/p/2026/P2241.cpp` | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
+| 2026年 | luogu-P2678 | [NOIP2015] 跳石头 | `noi/p/2026/P2678.cpp` | [查看题解](https://www.coderli.com/noip-2015-luogu-p2678/) |
 
 ---
 
