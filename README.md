@@ -9,105 +9,105 @@
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）了解计算机的基本构成（CPU，内存，I/O 设备等） ，了解 Windows、Linux等操作系统基本概念和常见操作，了解计算机的历史及在现代社会中的常见应用。 | [【GESP】C++一级考试大纲知识点梳理（1）计算机基础和操作系统](https://www.coderli.com/gesp-1-exam-syllabus-computer-basics/) | [一级](https://www.coderli.com/tags/GESP一级/) |
-| （2）熟悉集成开发环境使用（例如 Dev C++）：创建文件、编辑文件、保存文件、编译、解释、调试。 | [【GESP】C++一级考试大纲知识点梳理(考点2,4,10,13), (2) 开发环境与程序基础](https://www.coderli.com/gesp-1-exam-syllabus-2-env-basics/) | [一级](https://www.coderli.com/tags/GESP一级/) |
-| （3）掌握基础的 cin 语句、scanf 语句、cout 语句、printf 语句，赋值语句等。 | [【GESP】C++一级考试大纲知识点梳理(考点3,5,6,9), (3) 变量、数据类型与输入输出](https://www.coderli.com/gesp-1-exam-syllabus-3-data-io/) | [一级](https://www.coderli.com/tags/GESP一级/) |
-| （7）掌握逻辑运算与（&&）、或（--）、非（！）。 | [【GESP】C++一级考试大纲知识点梳理(考点7,8,11), (4) 逻辑运算与分支结构](https://www.coderli.com/gesp-1-exam-syllabus-4-branching/) | [一级](https://www.coderli.com/tags/GESP一级/) |
-| （12）掌握循环结构程序的编写，掌握 for、while、do-while 循环语句的使用以及 continue 语句和 break 语句在循环中的应用。 | [【GESP】C++一级考试大纲知识点梳理(考点12), (5) 循环结构](https://www.coderli.com/gesp-1-exam-syllabus-5-loops/) | [一级](https://www.coderli.com/tags/GESP一级/) |
+| （1）了解计算机的基本构成（CPU，内存，I/O 设备等） ，了解 Windows、Linux等操作系统基本概念和常见操作，了解计算机的历史及在现代社会中的常见应用。 | [【GESP】C++一级考试大纲知识点梳理（1）计算机基础和操作系统](https://www.coderli.com/gesp-1-exam-syllabus-computer-basics/) | [一级](https://www.coderli.com/categories/GESP/一级/) |
+| （2）熟悉集成开发环境使用（例如 Dev C++）：创建文件、编辑文件、保存文件、编译、解释、调试。 | [【GESP】C++一级考试大纲知识点梳理(考点2,4,10,13), (2) 开发环境与程序基础](https://www.coderli.com/gesp-1-exam-syllabus-2-env-basics/) | [一级](https://www.coderli.com/categories/GESP/一级/) |
+| （3）掌握基础的 cin 语句、scanf 语句、cout 语句、printf 语句，赋值语句等。 | [【GESP】C++一级考试大纲知识点梳理(考点3,5,6,9), (3) 变量、数据类型与输入输出](https://www.coderli.com/gesp-1-exam-syllabus-3-data-io/) | [一级](https://www.coderli.com/categories/GESP/一级/) |
+| （7）掌握逻辑运算与（&&）、或（--）、非（！）。 | [【GESP】C++一级考试大纲知识点梳理(考点7,8,11), (4) 逻辑运算与分支结构](https://www.coderli.com/gesp-1-exam-syllabus-4-branching/) | [一级](https://www.coderli.com/categories/GESP/一级/) |
+| （12）掌握循环结构程序的编写，掌握 for、while、do-while 循环语句的使用以及 continue 语句和 break 语句在循环中的应用。 | [【GESP】C++一级考试大纲知识点梳理(考点12), (5) 循环结构](https://www.coderli.com/gesp-1-exam-syllabus-5-loops/) | [一级](https://www.coderli.com/categories/GESP/一级/) |
 
 ### 二级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）了解计算机存储的基本概念及分类，了解随机存储器（RAM）、只读存储器（ROM）和高速缓冲存储器（Cache）的功能及区别。 | [【GESP】C++二级考试大纲知识点梳理, （1）计算机存储的基本概念及分类](https://www.coderli.com/gesp-2-exam-syllabus-computer-storage/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （2）了解计算机网络的概念，了解计算机网络的分类（广域网（WAN）、城域网（MAN）、局域网（LAN）），了解计算机网络的层级结构及作用（TCP/IP 四层模型与 OSI七层模型），了解不同层级的重要协议，了解 IP 地址及子网划分。 | [【GESP】C++二级考试大纲知识点梳理, （2）计算机网络的基本概念及分类](https://www.coderli.com/gesp-2-exam-syllabus-network/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （3）了解程序设计语言的几大分类及特点（机器语言、汇编语言、高级语言），了解常见的高级语言（C++、Python 等）。 | [【GESP】C++二级考试大纲知识点梳理, （3）计算机程序设计语言相关知识](https://www.coderli.com/gesp-2-exam-syllabus-coding-language/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （4）了解流程图的概念及基本表示符号，掌握绘制流程图的方法，能正确使用流程图描述程序设计的三种基本结构。 | [【GESP】C++二级考试大纲知识点梳理, （4）流程图](https://www.coderli.com/gesp-2-exam-syllabus-flow-chart/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （5）了解编码的基本概念，了解 ASCII 编码原理，能识别常用字符的 ASCII 码（空格：32、“0”：48、“A”：65、“a”：97），并掌握 ASCII 码和字符之间相互转换的方法。 | [【GESP】C++二级考试大纲知识点梳理, （5）编码与 ASCII](https://www.coderli.com/gesp-2-exam-syllabus-5-coding-ascii/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （6）掌握数据类型的转换：强制类型转换和隐式类型转换。 | [【GESP】C++二级考试大纲知识点梳理, （6）数据类型转换](https://www.coderli.com/gesp-2-exam-syllabus-6-type-conversion/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （7）掌握多层分支结构，掌握 if 语句、if...else 语句、switch 语句，及相互嵌套的方法。 | [【GESP】C++二级考试大纲知识点梳理, （7）多层分支结构](https://www.coderli.com/gesp-2-exam-syllabus-7-multibranch/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （8）掌握多层循环结构，掌握 for 语句、while 语句、do...while 语句，及相互嵌套的方法。 | [【GESP】C++二级考试大纲知识点梳理, （8）多层循环结构](https://www.coderli.com/gesp-2-exam-syllabus-8-multiloop/) | [二级](https://www.coderli.com/tags/GESP二级/) |
-| （9）掌握常用的数学函数：绝对值函数、平方根函数、最大值函数、最小值函数、随机数函数理解相应的算法原理。 | [【GESP】C++二级考试大纲知识点梳理, （9）常用数学函数](https://www.coderli.com/gesp-2-exam-syllabus-9-math-functions/) | [二级](https://www.coderli.com/tags/GESP二级/) |
+| （1）了解计算机存储的基本概念及分类，了解随机存储器（RAM）、只读存储器（ROM）和高速缓冲存储器（Cache）的功能及区别。 | [【GESP】C++二级考试大纲知识点梳理, （1）计算机存储的基本概念及分类](https://www.coderli.com/gesp-2-exam-syllabus-computer-storage/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （2）了解计算机网络的概念，了解计算机网络的分类（广域网（WAN）、城域网（MAN）、局域网（LAN）），了解计算机网络的层级结构及作用（TCP/IP 四层模型与 OSI七层模型），了解不同层级的重要协议，了解 IP 地址及子网划分。 | [【GESP】C++二级考试大纲知识点梳理, （2）计算机网络的基本概念及分类](https://www.coderli.com/gesp-2-exam-syllabus-network/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （3）了解程序设计语言的几大分类及特点（机器语言、汇编语言、高级语言），了解常见的高级语言（C++、Python 等）。 | [【GESP】C++二级考试大纲知识点梳理, （3）计算机程序设计语言相关知识](https://www.coderli.com/gesp-2-exam-syllabus-coding-language/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （4）了解流程图的概念及基本表示符号，掌握绘制流程图的方法，能正确使用流程图描述程序设计的三种基本结构。 | [【GESP】C++二级考试大纲知识点梳理, （4）流程图](https://www.coderli.com/gesp-2-exam-syllabus-flow-chart/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （5）了解编码的基本概念，了解 ASCII 编码原理，能识别常用字符的 ASCII 码（空格：32、“0”：48、“A”：65、“a”：97），并掌握 ASCII 码和字符之间相互转换的方法。 | [【GESP】C++二级考试大纲知识点梳理, （5）编码与 ASCII](https://www.coderli.com/gesp-2-exam-syllabus-5-coding-ascii/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （6）掌握数据类型的转换：强制类型转换和隐式类型转换。 | [【GESP】C++二级考试大纲知识点梳理, （6）数据类型转换](https://www.coderli.com/gesp-2-exam-syllabus-6-type-conversion/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （7）掌握多层分支结构，掌握 if 语句、if...else 语句、switch 语句，及相互嵌套的方法。 | [【GESP】C++二级考试大纲知识点梳理, （7）多层分支结构](https://www.coderli.com/gesp-2-exam-syllabus-7-multibranch/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （8）掌握多层循环结构，掌握 for 语句、while 语句、do...while 语句，及相互嵌套的方法。 | [【GESP】C++二级考试大纲知识点梳理, （8）多层循环结构](https://www.coderli.com/gesp-2-exam-syllabus-8-multiloop/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
+| （9）掌握常用的数学函数：绝对值函数、平方根函数、最大值函数、最小值函数、随机数函数理解相应的算法原理。 | [【GESP】C++二级考试大纲知识点梳理, （9）常用数学函数](https://www.coderli.com/gesp-2-exam-syllabus-9-math-functions/) | [二级](https://www.coderli.com/categories/GESP/二级/) |
 
 ### 三级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）了解二进制数据编码:原码、反码、补码。 | [【GESP】C++三级考试大纲知识点梳理, （1）二进制数据编码](https://www.coderli.com/gesp-3-exam-syllabus-data-encoding/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| （2）掌握数据的进制转换：二进制、八进制、十进制、十六进制。 | [【GESP】C++三级考试大纲知识点梳理, （2）数据的进制转换](https://www.coderli.com/gesp-3-exam-syllabus-data-conversion/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| （3）掌握位运算：与(&)、或(\-)、非(~)、异或(^)、左移(<<)、右移(>>)的基本使用方法及原理。 | [【GESP】C++三级考试大纲知识点梳理, （3）位运算](https://www.coderli.com/gesp-3-exam-syllabus-bit-operation/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| （4）了解算法的概念与描述，熟练运用自然语言、流程图、伪代码方式来描述算法。 | [【GESP】C++三级考试大纲知识点梳理, （4）算法](https://www.coderli.com/gesp-3-exam-syllabus-algo/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| (7) (8) 理解枚举算法、模拟算法的原理及特点，可以解决实际问题。 | [【GESP】C++三级考试大纲知识点梳理, (7) (8) 枚举算法、模拟算法](https://www.coderli.com/gesp-3-exam-syllabus-algo-enumeration-simulation/) | [三级](https://www.coderli.com/tags/GESP三级/) |
-| （6）掌握字符串及其函数的使用包括但不限于大小写转换、字符串搜索、分割、替换。 | [【GESP】C++三级考试大纲知识点梳理, (6) 字符串](https://www.coderli.com/gesp-3-exam-syllabus-string/) | [三级](https://www.coderli.com/tags/GESP三级/) |
+| （1）了解二进制数据编码:原码、反码、补码。 | [【GESP】C++三级考试大纲知识点梳理, （1）二进制数据编码](https://www.coderli.com/gesp-3-exam-syllabus-data-encoding/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
+| （2）掌握数据的进制转换：二进制、八进制、十进制、十六进制。 | [【GESP】C++三级考试大纲知识点梳理, （2）数据的进制转换](https://www.coderli.com/gesp-3-exam-syllabus-data-conversion/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
+| （3）掌握位运算：与(&)、或(\-)、非(~)、异或(^)、左移(<<)、右移(>>)的基本使用方法及原理。 | [【GESP】C++三级考试大纲知识点梳理, （3）位运算](https://www.coderli.com/gesp-3-exam-syllabus-bit-operation/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
+| （4）了解算法的概念与描述，熟练运用自然语言、流程图、伪代码方式来描述算法。 | [【GESP】C++三级考试大纲知识点梳理, （4）算法](https://www.coderli.com/gesp-3-exam-syllabus-algo/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
+| (7) (8) 理解枚举算法、模拟算法的原理及特点，可以解决实际问题。 | [【GESP】C++三级考试大纲知识点梳理, (7) (8) 枚举算法、模拟算法](https://www.coderli.com/gesp-3-exam-syllabus-algo-enumeration-simulation/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
+| （6）掌握字符串及其函数的使用包括但不限于大小写转换、字符串搜索、分割、替换。 | [【GESP】C++三级考试大纲知识点梳理, (6) 字符串](https://www.coderli.com/gesp-3-exam-syllabus-string/) | [三级](https://www.coderli.com/categories/GESP/三级/) |
 
 ### 四级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）理解 C++指针类型的概念，掌握指针类型变量的定义、赋值、解引用。 | [【GESP】C++四级考试大纲知识点梳理, (1) 指针](https://www.coderli.com/gesp-4-exam-syllabus-pointer/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （2）掌握 C++结构体、二维及多维数组的基本概念及使用 | [【GESP】C++四级考试大纲知识点梳理, (2) 结构体和二维数组](https://www.coderli.com/gesp-4-exam-syllabus-struct-two-dimensional-array/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （3）理解模块化编程思想，掌握函数的声明、定义及调用，掌握形参与实参的概念及区别。 | [【GESP】C++四级考试大纲知识点梳理, (3) 模块化和函数](https://www.coderli.com/gesp-4-exam-syllabus-module-function/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （4）掌握变量作用域的概念，理解全局变量与局部变量的区别。 | [【GESP】C++四级考试大纲知识点梳理, (4) 变量和作用域](https://www.coderli.com/gesp-4-exam-syllabus-variable-scope/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （5）掌握函数参数的传递方式：C++值传递、引用传递、指针传递；Python 值传递、引用传递。 | [【GESP】C++四级考试大纲知识点梳理, (5) 值传递](https://www.coderli.com/gesp-4-exam-syllabus-pass-by-value-reference-pointer/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （6）掌握递推算法基本思想、递推关系式的推导以及递推问题求解。 | [【GESP】C++四级考试大纲知识点梳理, (6) 递推算法](https://www.coderli.com/gesp-4-exam-syllabus-iteration-algo/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （7）掌握排序算法的概念，了解内排序和外排序的概念及差别，理解排序算法的时间复杂度、空间复杂度、使用场景以及稳定性。 | [【GESP】C++四级考试大纲知识点梳理, (7) 排序算法基本概念](https://www.coderli.com/gesp-4-exam-syllabus-sorting-algo-conception/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （8）掌握排序算法中的冒泡排序、插入排序、选择排序的算法思想、排序步骤及代码实现。 | [【GESP】C++四级考试大纲知识点梳理, (8) 冒泡、插入、选择排序](https://www.coderli.com/gesp-4-exam-syllabus-three-sorting-methods/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （9）简单算法复杂度的估算，含多项式、指数复杂度。 | [【GESP】C++四级考试大纲知识点梳理, (9) 简单算法复杂度的估算](https://www.coderli.com/gesp-4-exam-syllabus-estimation-of-algorithm-time-complexity/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （10）掌握文件操作中的重定向，实现文件读写操作，了解文本文件的分类，掌握写操作、读操作、读写操作。 | [【GESP】C++四级考试大纲知识点梳理, (10) 文件读写和重定向](https://www.coderli.com/gesp-4-exam-syllabus-file-read-write/) | [四级](https://www.coderli.com/tags/GESP四级/) |
-| （11）了解异常处理机制，掌握异常处理的常用方法。 | [【GESP】C++四级考试大纲知识点梳理, (11) 异常处理机制](https://www.coderli.com/gesp-4-exam-syllabus-exception/) | [四级](https://www.coderli.com/tags/GESP四级/) |
+| （1）理解 C++指针类型的概念，掌握指针类型变量的定义、赋值、解引用。 | [【GESP】C++四级考试大纲知识点梳理, (1) 指针](https://www.coderli.com/gesp-4-exam-syllabus-pointer/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （2）掌握 C++结构体、二维及多维数组的基本概念及使用 | [【GESP】C++四级考试大纲知识点梳理, (2) 结构体和二维数组](https://www.coderli.com/gesp-4-exam-syllabus-struct-two-dimensional-array/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （3）理解模块化编程思想，掌握函数的声明、定义及调用，掌握形参与实参的概念及区别。 | [【GESP】C++四级考试大纲知识点梳理, (3) 模块化和函数](https://www.coderli.com/gesp-4-exam-syllabus-module-function/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （4）掌握变量作用域的概念，理解全局变量与局部变量的区别。 | [【GESP】C++四级考试大纲知识点梳理, (4) 变量和作用域](https://www.coderli.com/gesp-4-exam-syllabus-variable-scope/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （5）掌握函数参数的传递方式：C++值传递、引用传递、指针传递；Python 值传递、引用传递。 | [【GESP】C++四级考试大纲知识点梳理, (5) 值传递](https://www.coderli.com/gesp-4-exam-syllabus-pass-by-value-reference-pointer/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （6）掌握递推算法基本思想、递推关系式的推导以及递推问题求解。 | [【GESP】C++四级考试大纲知识点梳理, (6) 递推算法](https://www.coderli.com/gesp-4-exam-syllabus-iteration-algo/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （7）掌握排序算法的概念，了解内排序和外排序的概念及差别，理解排序算法的时间复杂度、空间复杂度、使用场景以及稳定性。 | [【GESP】C++四级考试大纲知识点梳理, (7) 排序算法基本概念](https://www.coderli.com/gesp-4-exam-syllabus-sorting-algo-conception/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （8）掌握排序算法中的冒泡排序、插入排序、选择排序的算法思想、排序步骤及代码实现。 | [【GESP】C++四级考试大纲知识点梳理, (8) 冒泡、插入、选择排序](https://www.coderli.com/gesp-4-exam-syllabus-three-sorting-methods/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （9）简单算法复杂度的估算，含多项式、指数复杂度。 | [【GESP】C++四级考试大纲知识点梳理, (9) 简单算法复杂度的估算](https://www.coderli.com/gesp-4-exam-syllabus-estimation-of-algorithm-time-complexity/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （10）掌握文件操作中的重定向，实现文件读写操作，了解文本文件的分类，掌握写操作、读操作、读写操作。 | [【GESP】C++四级考试大纲知识点梳理, (10) 文件读写和重定向](https://www.coderli.com/gesp-4-exam-syllabus-file-read-write/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
+| （11）了解异常处理机制，掌握异常处理的常用方法。 | [【GESP】C++四级考试大纲知识点梳理, (11) 异常处理机制](https://www.coderli.com/gesp-4-exam-syllabus-exception/) | [四级](https://www.coderli.com/categories/GESP/四级/) |
 
 ### 五级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）掌握初等数论相关知识的概念和应用，包括素数与合数、最大公约数与最小公倍数、同余与模运算、约数与倍数、质因数分解、奇偶性等。 | [【GESP】C++五级考试大纲知识点梳理, (1) 初等数论](https://www.coderli.com/gesp-5-exam-syllabus-elementary-number-theory/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （2）掌握 C++数组模拟高精度加法、减法、乘法和除法的相关知识。 | [【GESP】C++五级考试大纲知识点梳理, (2) 模拟高精度计算](https://www.coderli.com/gesp-5-exam-syllabus-simulate-high-precision-arithmetic/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-1) 链表-单链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-1-singly/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-2) 链表-双向链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-2-double/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-3) 链表-单向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-3-singly-circle/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-4) 链表-双向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-4-double-circle/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （4）掌握辗转相除法（也称欧几里得算法）、素数表的埃氏筛法和线性筛法、唯一分解定理的原理和应用。 | [【GESP】C++五级考试大纲知识点梳理, (4) 辗转相除法、素数表和唯一性定理](https://www.coderli.com/gesp-5-exam-syllabus-4-three-theorem-and-algorithm/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （5）掌握算法复杂度估算方法（含多项式、对数）。 | [【GESP】C++五级考试大纲知识点梳理, (5) 算法复杂度估算（多项式、对数）](https://www.coderli.com/gesp-5-exam-syllabus-5-estimation-of-algorithm-polynomial-logarithmic/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （6）掌握二分查找和二分答案算法（也称二分枚举法）的基本原理，能够在有序数组中快速定位目标值。 | [【GESP】C++五级考试大纲知识点梳理, (6) 二分查找和二分答案](https://www.coderli.com/gesp-5-exam-syllabus-6-binary-search/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 - 1 基本原理](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-1/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 -2 复杂度分析](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-2/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 -3 优化策略](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-3/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （8）掌握贪心算法的基本原理，理解最优子结构，能够使用贪心算法解决相关问题。 | [【GESP】C++五级考试大纲知识点梳理, (8) 贪心算法](https://www.coderli.com/gesp-5-exam-syllabus-8-greedy-algorithm/) | [五级](https://www.coderli.com/tags/GESP五级/) |
-| （9）掌握分治算法的基本原理，能够使用归并排序和快速排序对数组进行排序。 | [【GESP】C++五级考试大纲知识点梳理, (9) 分治算法](https://www.coderli.com/gesp-5-exam-syllabus-9-divide-and-conquer/) | [五级](https://www.coderli.com/tags/GESP五级/) |
+| （1）掌握初等数论相关知识的概念和应用，包括素数与合数、最大公约数与最小公倍数、同余与模运算、约数与倍数、质因数分解、奇偶性等。 | [【GESP】C++五级考试大纲知识点梳理, (1) 初等数论](https://www.coderli.com/gesp-5-exam-syllabus-elementary-number-theory/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （2）掌握 C++数组模拟高精度加法、减法、乘法和除法的相关知识。 | [【GESP】C++五级考试大纲知识点梳理, (2) 模拟高精度计算](https://www.coderli.com/gesp-5-exam-syllabus-simulate-high-precision-arithmetic/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-1) 链表-单链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-1-singly/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-2) 链表-双向链表](https://www.coderli.com/gesp-5-exam-syllabus-linked-list-2-double/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-3) 链表-单向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-3-singly-circle/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （3）掌握链表的创建、插入、删除、遍历和反转操作，理解单链表、双链表、循环链表的区别。 | [【GESP】C++五级考试大纲知识点梳理, (3-4) 链表-双向循环链表](https://www.coderli.com/gesp-5-exam-syllabus-3-linked-list-4-double-circle/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （4）掌握辗转相除法（也称欧几里得算法）、素数表的埃氏筛法和线性筛法、唯一分解定理的原理和应用。 | [【GESP】C++五级考试大纲知识点梳理, (4) 辗转相除法、素数表和唯一性定理](https://www.coderli.com/gesp-5-exam-syllabus-4-three-theorem-and-algorithm/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （5）掌握算法复杂度估算方法（含多项式、对数）。 | [【GESP】C++五级考试大纲知识点梳理, (5) 算法复杂度估算（多项式、对数）](https://www.coderli.com/gesp-5-exam-syllabus-5-estimation-of-algorithm-polynomial-logarithmic/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （6）掌握二分查找和二分答案算法（也称二分枚举法）的基本原理，能够在有序数组中快速定位目标值。 | [【GESP】C++五级考试大纲知识点梳理, (6) 二分查找和二分答案](https://www.coderli.com/gesp-5-exam-syllabus-6-binary-search/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 - 1 基本原理](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-1/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 -2 复杂度分析](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-2/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （7）掌握递归算法的基本原理，能够应用递归解决问题，能够分析递归算法的时间复杂度和空间复杂度，了解递归的优化策略。 | [【GESP】C++五级考试大纲知识点梳理, (7) 递归算法 -3 优化策略](https://www.coderli.com/gesp-5-exam-syllabus-7-recursion-3/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （8）掌握贪心算法的基本原理，理解最优子结构，能够使用贪心算法解决相关问题。 | [【GESP】C++五级考试大纲知识点梳理, (8) 贪心算法](https://www.coderli.com/gesp-5-exam-syllabus-8-greedy-algorithm/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
+| （9）掌握分治算法的基本原理，能够使用归并排序和快速排序对数组进行排序。 | [【GESP】C++五级考试大纲知识点梳理, (9) 分治算法](https://www.coderli.com/gesp-5-exam-syllabus-9-divide-and-conquer/) | [五级](https://www.coderli.com/categories/GESP/五级/) |
 
 ### 六级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）掌握树的基本概念，掌握其构造与遍历的相关算法。 | [【GESP】C++六级考试大纲知识点梳理, (1) 树的概念与遍历](https://www.coderli.com/gesp-6-exam-syllabus-1-tree/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （2）掌握哈夫曼树、完全二叉树、二叉排序树的相关概念和应用。 | [【GESP】C++六级考试大纲知识点梳理, (2) 哈夫曼树、完全二叉树与二叉排序树](https://www.coderli.com/gesp-6-exam-syllabus-2-huffman-bst/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （3）理解哈夫曼编码、格雷编码相关原理并能进行简单应用。 | [【GESP】C++六级考试大纲知识点梳理, (3) 哈夫曼编码与格雷码](https://www.coderli.com/gesp-6-exam-syllabus-3-huffman-gray/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （4）掌握深度优先搜索算法（DFS）、宽度优先搜索算法（也称广度优先搜索算法，BFS）、二叉树的搜索算法的概念及应用，能够根据现实问题，选择合适的搜索算法。 | [【GESP】C++六级考试大纲知识点梳理, (4) 搜索算法](https://www.coderli.com/gesp-6-exam-syllabus-4-search/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （5）掌握简单动态规划的算法思想，能够使用代码解决相应的一维动态规划问题和简单背包问题。 | [【GESP】C++六级考试大纲知识点梳理, (5) 动态规划与背包问题](https://www.coderli.com/gesp-6-exam-syllabus-5-dp-knapsack/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （6）掌握面向对象的思想，了解封装、继承、多态的基本概念，并掌握类的创建和基本的使用方法。 | [【GESP】C++六级考试大纲知识点梳理, (6) 面向对象编程(OOP)基础](https://www.coderli.com/gesp-6-exam-syllabus-6-oop/) | [六级](https://www.coderli.com/tags/GESP六级/) |
-| （7）掌握栈、队列、循环队列的基本定义，应用场景和常见操作。 | [【GESP】C++六级考试大纲知识点梳理, (7) 栈与队列](https://www.coderli.com/gesp-6-exam-syllabus-7-stack-queue/) | [六级](https://www.coderli.com/tags/GESP六级/) |
+| （1）掌握树的基本概念，掌握其构造与遍历的相关算法。 | [【GESP】C++六级考试大纲知识点梳理, (1) 树的概念与遍历](https://www.coderli.com/gesp-6-exam-syllabus-1-tree/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （2）掌握哈夫曼树、完全二叉树、二叉排序树的相关概念和应用。 | [【GESP】C++六级考试大纲知识点梳理, (2) 哈夫曼树、完全二叉树与二叉排序树](https://www.coderli.com/gesp-6-exam-syllabus-2-huffman-bst/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （3）理解哈夫曼编码、格雷编码相关原理并能进行简单应用。 | [【GESP】C++六级考试大纲知识点梳理, (3) 哈夫曼编码与格雷码](https://www.coderli.com/gesp-6-exam-syllabus-3-huffman-gray/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （4）掌握深度优先搜索算法（DFS）、宽度优先搜索算法（也称广度优先搜索算法，BFS）、二叉树的搜索算法的概念及应用，能够根据现实问题，选择合适的搜索算法。 | [【GESP】C++六级考试大纲知识点梳理, (4) 搜索算法](https://www.coderli.com/gesp-6-exam-syllabus-4-search/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （5）掌握简单动态规划的算法思想，能够使用代码解决相应的一维动态规划问题和简单背包问题。 | [【GESP】C++六级考试大纲知识点梳理, (5) 动态规划与背包问题](https://www.coderli.com/gesp-6-exam-syllabus-5-dp-knapsack/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （6）掌握面向对象的思想，了解封装、继承、多态的基本概念，并掌握类的创建和基本的使用方法。 | [【GESP】C++六级考试大纲知识点梳理, (6) 面向对象编程(OOP)基础](https://www.coderli.com/gesp-6-exam-syllabus-6-oop/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
+| （7）掌握栈、队列、循环队列的基本定义，应用场景和常见操作。 | [【GESP】C++六级考试大纲知识点梳理, (7) 栈与队列](https://www.coderli.com/gesp-6-exam-syllabus-7-stack-queue/) | [六级](https://www.coderli.com/categories/GESP/六级/) |
 
 ### 七级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）掌握数学库常用函数（三角、对数、指数），三角函数包括 sin(x)，cos(x)等； | [【GESP】C++七级考试大纲知识点梳理, (1) 数学库常用函数](https://www.coderli.com/gesp-7-exam-syllabus-math-library/) | [七级](https://www.coderli.com/tags/GESP七级/) |
-| （2）掌握复杂动态规划（二维动态规划、动态规划最值优化）。包括区间动态规划、最长上升子序列（LIS）、最长公共子序列（LCS）等内容，理解基于滚动数组等降低动态规划空间复杂度的方法。 | [【GESP】C++七级考试大纲知识点梳理, (2) 复杂动态规划](https://www.coderli.com/gesp-7-exam-syllabus-complex-dp/) | [七级](https://www.coderli.com/tags/GESP七级/) |
-| （3）图的定义及及基本图论算法。包括图的定义、图的种类（有向图、无向图），图节点的度的概念。掌握编程时图的数据结构表示，以及基于深度优先搜索（DFS）和广度优先搜索（BFS）的图搜索与遍历方法，图的泛洪（flood fill）算法。 | [【GESP】C++七级考试大纲知识点梳理 (3) 图论基础与遍历算法](https://www.coderli.com/gesp-7-exam-syllabus-graph-theory/) | [七级](https://www.coderli.com/tags/GESP七级/) |
-| （4）掌握哈希表的概念与知识及其应用。 | [【GESP】C++七级考试大纲知识点梳理 (4) 哈希表：概念、实现与应用](https://www.coderli.com/gesp-7-exam-syllabus-hash-table/) | [七级](https://www.coderli.com/tags/GESP七级/) |
+| （1）掌握数学库常用函数（三角、对数、指数），三角函数包括 sin(x)，cos(x)等； | [【GESP】C++七级考试大纲知识点梳理, (1) 数学库常用函数](https://www.coderli.com/gesp-7-exam-syllabus-math-library/) | [七级](https://www.coderli.com/categories/GESP/七级/) |
+| （2）掌握复杂动态规划（二维动态规划、动态规划最值优化）。包括区间动态规划、最长上升子序列（LIS）、最长公共子序列（LCS）等内容，理解基于滚动数组等降低动态规划空间复杂度的方法。 | [【GESP】C++七级考试大纲知识点梳理, (2) 复杂动态规划](https://www.coderli.com/gesp-7-exam-syllabus-complex-dp/) | [七级](https://www.coderli.com/categories/GESP/七级/) |
+| （3）图的定义及及基本图论算法。包括图的定义、图的种类（有向图、无向图），图节点的度的概念。掌握编程时图的数据结构表示，以及基于深度优先搜索（DFS）和广度优先搜索（BFS）的图搜索与遍历方法，图的泛洪（flood fill）算法。 | [【GESP】C++七级考试大纲知识点梳理 (3) 图论基础与遍历算法](https://www.coderli.com/gesp-7-exam-syllabus-graph-theory/) | [七级](https://www.coderli.com/categories/GESP/七级/) |
+| （4）掌握哈希表的概念与知识及其应用。 | [【GESP】C++七级考试大纲知识点梳理 (4) 哈希表：概念、实现与应用](https://www.coderli.com/gesp-7-exam-syllabus-hash-table/) | [七级](https://www.coderli.com/categories/GESP/七级/) |
 
 ### 八级（考纲解析）
 
 | 考点要求 | 官方考纲深度梳理与知识讲解 | 考试级别 |
 |:---|:---|:---:|
-| （1）掌握计数原理。包括加法原理和乘法原理。 | [【GESP】C++八级考试大纲知识点梳理 (1) 计数原理：加法与乘法](https://www.coderli.com/gesp-8-exam-syllabus-counting-principles/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| （2）掌握排列与组合基础知识。包括排列、组合的基本概念，及能实现基础排列和组合编程问题的一般方法。 | [【GESP】C++八级考试大纲知识点梳理 (2) 排列与组合](https://www.coderli.com/gesp-8-exam-syllabus-permutations-combinations/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| （3）掌握杨辉三角形（又称帕斯卡三角形）的概念。 | [【GESP】C++八级考试大纲知识点梳理 (3) 杨辉三角与组合数](https://www.coderli.com/gesp-8-exam-syllabus-yanghui-triangle/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| （4）掌握倍增法概念。了解倍增法的时间复杂度。 | [【GESP】C++八级考试大纲知识点梳理 (4) 倍增法](https://www.coderli.com/gesp-8-exam-syllabus-binary-lifting/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| (5)掌握代数与平面几何基础知识（初中数学部分）。包括方程的概念及一元一次方程、二元一次方程的基本求解技巧，求基础平面几何概念、求基本图形（如长方形、三角形、圆形等）的面积等 | [【GESP】C++八级考试大纲知识点梳理 (5) 代数与平面几何](https://www.coderli.com/gesp-8-exam-syllabus-algebra-geometry/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| (6) 掌握图论算法及综合应用技巧。包括最小生成树的概念、Kruskal 算法、Prim 算法，掌握最短路径的概念、单源最短路径的 Dijkstra 算法、Floyd 算法等。理解实现同一功能的不同算法的比较，并可以灵活解决相关问题。 | [【GESP】C++八级考试大纲知识点梳理 (6) 图论算法：最小生成树与最短路](https://www.coderli.com/gesp-8-exam-syllabus-graph-theory/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| (7) 算法的时间和空间效率分析。能够掌握 **较为复杂算法** 的时间和空间复杂度分析方法，能够分析各类算法（包括排序算法、查找算法、**树和图的遍历算法**、**搜索算法**、分治及 **动态规划算法** 等）的时间和空间复杂度。 | [【GESP】C++八级考试大纲知识点梳理 (7) 算法的时间和空间效率分析](https://www.coderli.com/gesp-8-exam-syllabus-complexity-analysis/) | [八级](https://www.coderli.com/tags/GESP八级/) |
-| (8) 算法优化。理解不同方法求解一个问题在时间复杂度和空间复杂度上的差异，理解使用数学知识辅助求解问题的技巧（如可以用循环求出等差数列的和，也可以用数学公式求出等差数列的和），掌握一般的算法优化技巧。 | [【GESP】C++八级考试大纲知识点梳理 (8) 算法优化技巧](https://www.coderli.com/gesp-8-exam-syllabus-algorithm-optimization/) | [八级](https://www.coderli.com/tags/GESP八级/) |
+| （1）掌握计数原理。包括加法原理和乘法原理。 | [【GESP】C++八级考试大纲知识点梳理 (1) 计数原理：加法与乘法](https://www.coderli.com/gesp-8-exam-syllabus-counting-principles/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| （2）掌握排列与组合基础知识。包括排列、组合的基本概念，及能实现基础排列和组合编程问题的一般方法。 | [【GESP】C++八级考试大纲知识点梳理 (2) 排列与组合](https://www.coderli.com/gesp-8-exam-syllabus-permutations-combinations/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| （3）掌握杨辉三角形（又称帕斯卡三角形）的概念。 | [【GESP】C++八级考试大纲知识点梳理 (3) 杨辉三角与组合数](https://www.coderli.com/gesp-8-exam-syllabus-yanghui-triangle/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| （4）掌握倍增法概念。了解倍增法的时间复杂度。 | [【GESP】C++八级考试大纲知识点梳理 (4) 倍增法](https://www.coderli.com/gesp-8-exam-syllabus-binary-lifting/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| (5)掌握代数与平面几何基础知识（初中数学部分）。包括方程的概念及一元一次方程、二元一次方程的基本求解技巧，求基础平面几何概念、求基本图形（如长方形、三角形、圆形等）的面积等 | [【GESP】C++八级考试大纲知识点梳理 (5) 代数与平面几何](https://www.coderli.com/gesp-8-exam-syllabus-algebra-geometry/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| (6) 掌握图论算法及综合应用技巧。包括最小生成树的概念、Kruskal 算法、Prim 算法，掌握最短路径的概念、单源最短路径的 Dijkstra 算法、Floyd 算法等。理解实现同一功能的不同算法的比较，并可以灵活解决相关问题。 | [【GESP】C++八级考试大纲知识点梳理 (6) 图论算法：最小生成树与最短路](https://www.coderli.com/gesp-8-exam-syllabus-graph-theory/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| (7) 算法的时间和空间效率分析。能够掌握 **较为复杂算法** 的时间和空间复杂度分析方法，能够分析各类算法（包括排序算法、查找算法、**树和图的遍历算法**、**搜索算法**、分治及 **动态规划算法** 等）的时间和空间复杂度。 | [【GESP】C++八级考试大纲知识点梳理 (7) 算法的时间和空间效率分析](https://www.coderli.com/gesp-8-exam-syllabus-complexity-analysis/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
+| (8) 算法优化。理解不同方法求解一个问题在时间复杂度和空间复杂度上的差异，理解使用数学知识辅助求解问题的技巧（如可以用循环求出等差数列的和，也可以用数学公式求出等差数列的和），掌握一般的算法优化技巧。 | [【GESP】C++八级考试大纲知识点梳理 (8) 算法优化技巧](https://www.coderli.com/gesp-8-exam-syllabus-algorithm-optimization/) | [八级](https://www.coderli.com/categories/GESP/八级/) |
 
 ---
 
