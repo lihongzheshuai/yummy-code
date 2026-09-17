@@ -1,0 +1,15 @@
+/**
+ * 题目: BCQM3001
+ * 题号: BCQM3001
+ * 归属: GESP1级
+ * 博客: https://www.coderli.com/gesp-1-bcqm3001-3004/
+ * 标准: C++11 (CCF GESP / CSP 官方规范)
+ */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world";
+    return 0;
+}
