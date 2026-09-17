@@ -1,24 +1,9 @@
 # GESP一级练习题与真题清单
 
-## 历年编程真题
+## 历年编程真题 (CCF GESP 官方季度真题)
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
-| 2026-01 | - | GESP一级C++考纲考点揭秘：深度分析12套真题，揭秘4大核心考点与通关秘籍 | 武器库 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-1-level-1/) |
-| 2026-06 | luogu-B4072 | [CSP-X 2018真题] 小明的照片 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4072/) |
-| 2026-04 | luogu-P5681 | CSP-J 2019 江西真题 - 面积 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |
-| 2023年3月 | luogu-B3834 | C++一级真题练习，长方形面积 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3834/) |
-| 2023年3月 | luogu-B3835 | C++一级真题练习，每月天数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3835/) |
-| 2023年6月 | luogu-B3838 | C++一级真题练习，时间规划 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3838/) |
-| 2023年6月 | luogu-B3839 | C++一级真题练习，累计相加 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3839/) |
-| 2023年9月 | luogu-B3863 | C++一级真题练习，买文具 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3863/) |
-| 2023年9月 | luogu-B3864 | C++一级真题练习，小明的幸运数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3864/) |
-| 2023年12月 | luogu-B3921 | C++一级真题练习，小杨的考试 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3921/) |
-| 2023年12月 | luogu-B3922 | C++一级真题练习，小杨报数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3922/) |
-| 2024年3月 | luogu-B3952 | C++一级真题，小杨买书 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3952/) |
-| 2024年3月 | luogu-B3953 | C++一级真题，找因数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3953/) |
-| 2024年6月 | luogu-B4000 | C++一级真题，休息时间 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4000/) |
-| 2024年6月 | luogu-B4001 | C++一级真题，立方数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4001/) |
 | 2024年9月 | luogu-B4034 | [GESP202409 一级] 小杨购物 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4034/) |
 | 2024年9月 | luogu-B4035 | [GESP202409 一级] 美丽数字 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4035/) |
 | 2024年12月 | luogu-B4062 | [GESP202412 一级] 温度转换 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4062/) |
@@ -30,8 +15,6 @@
 | 2025年6月 | luogu-B4355 | [GESP202506 一级] 值日 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4355/) |
 | 2025年9月 | luogu-B4409 | [GESP202509 一级] 商店折扣 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4409/) |
 | 2025年9月 | luogu-B4410 | [GESP202509 一级] 金字塔 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4410/) |
-| 2025年12月 | - | [2025年12月，第十二次认证]第一题小杨的爱心快递 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-202512-1/) |
-| 2025年12月 | - | [2025年12月，第十二次认证]第二题手机电量显示 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-202512-2/) |
 | 2026年3月 | luogu-B4495 | [GESP202603 一级] 交朋友 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4495/) |
 | 2026年3月 | luogu-B4496 | [GESP202603 一级] 数字替换 | 数位分离 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4496/) |
 | 2026年6月 | luogu-B4551 | [GESP202606 一级] 去旅行 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4551/) |
@@ -39,7 +22,7 @@
 | 2026年9月 | luogu-B4573 | [GESP202609 一级] 新龟兔赛跑 | 分支结构 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4573-turtle-rabbit/) |
 | 2026年9月 | luogu-B4574 | [GESP202609 一级] 棋盘上的奖赏 | 循环结构 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4574-chessboard-wheat/) |
 
-## 考纲核心练习题
+## 考纲核心练习题 (含历年 NOIP/CSP/洛谷 精选题)
 
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
@@ -128,11 +111,24 @@
 | luogu-B3648 | [语言月赛202208] 你几岁了 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3648/) |
 | luogu-B3650 | C++一级练习 求和 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3650/) |
 | luogu-B3659 | [语言月赛202209] 课程QQ群 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3659/) |
+| luogu-B3834 | C++一级真题练习，长方形面积 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3834/) |
+| luogu-B3835 | C++一级真题练习，每月天数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3835/) |
+| luogu-B3838 | C++一级真题练习，时间规划 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3838/) |
+| luogu-B3839 | C++一级真题练习，累计相加 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3839/) |
 | luogu-B3846 | C++一级练习，闰年求和 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3846/) |
 | luogu-B3847 | C++一级模拟练习，当天的第几秒 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3847/) |
+| luogu-B3863 | C++一级真题练习，买文具 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3863/) |
+| luogu-B3864 | C++一级真题练习，小明的幸运数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3864/) |
+| luogu-B3921 | C++一级真题练习，小杨的考试 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3921/) |
+| luogu-B3922 | C++一级真题练习，小杨报数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3922/) |
 | luogu-B3931 | [语言月赛 202402] 射箭 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3931/) |
+| luogu-B3952 | C++一级真题，小杨买书 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3952/) |
+| luogu-B3953 | C++一级真题，找因数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3953/) |
 | luogu-B3993 | C++一级模拟，明日复明日 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b3993/) |
+| luogu-B4000 | C++一级真题，休息时间 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4000/) |
+| luogu-B4001 | C++一级真题，立方数 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4001/) |
 | luogu-B4008 | [语言月赛 202407] true | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-b4008/) |
+| luogu-B4072 | [CSP-X 2018真题] 小明的照片 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4072/) |
 | - | C++一级知识点研究，cout和printf性能差异分析 | GESP知识拓展 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-knowledge-cout-printf/) |
 | - | C++一级知识点研究，scanf/printf浮点数格式化到底是%lf还是%f | GESP知识拓展 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-knowledge-scanf-printf-floatnumber/) |
 | - | C++一级知识点研究，布尔型变量 | GESP知识拓展 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-knowledge-bool/) |
@@ -140,6 +136,7 @@
 | - | C++一级练习 bcqm-3153, 订餐时间 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-bcqm-3153/) |
 | - | C++一级练习 bcqm-3154, 偶数求和 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-bcqm-3154/) |
 | - | C++一级练习 bcqm-3173, 上课点名 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-bcqm-3173/) |
+| - | GESP一级C++考纲考点揭秘：深度分析12套真题，揭秘4大核心考点与通关秘籍 | 武器库 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-1-level-1/) |
 | luogu-P1035 | [NOIP2002 普及组] 级数求和 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1035/) |
 | luogu-P1046 | [NOIP2005 普及组] 陶陶摘苹果 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1046/) |
 | luogu-P1421 | C++一级练习 小玉买文具 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1421/) |
@@ -149,4 +146,7 @@
 | luogu-P1425 | C++一级练习 小鱼的游泳时间 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1425/) |
 | luogu-P1534 | C++一级练习 不高兴的津津 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1534/) |
 | luogu-P1634 | C++一级练习 禽兽的传染病 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-luogu-p1634/) |
+| luogu-P5681 | CSP-J 2019 江西真题 - 面积 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |
 | - | Windows系统配置官方要求Dev-C++和g++13.2.0编译环境 | 基础与综合应用 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-config-g++/) |
+| - | [2025年12月，第十二次认证]第一题小杨的爱心快递 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-202512-1/) |
+| - | [2025年12月，第十二次认证]第二题手机电量显示 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-1-202512-2/) |

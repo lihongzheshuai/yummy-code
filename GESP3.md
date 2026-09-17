@@ -1,14 +1,9 @@
 # GESP三级练习题与真题清单
 
-## 历年编程真题
+## 历年编程真题 (CCF GESP 官方季度真题)
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
-| 2026-06 | luogu-B4075 | [CSP-X 2018真题] 11的倍数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4075/) |
-| 2025-11 | luogu-COUNT | [CSP-XL 2025] 字符串数数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-xl-2025ln-1-count/) |
-| 2026-02 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
-| 2026-04 | luogu-P7071 | [CSP-J 2020真题] 优秀的拆分 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2020-p7071/) |
-| 2026-04 | luogu-P7909 | [CSP-J 2021真题] 分糖果 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7909/) |
 | 2023年6月 | luogu-B3842 | [GESP202306 三级] 春游 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3842/) |
 | 2023年6月 | luogu-B3843 | [GESP202306 三级] 密码合规 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3843/) |
 | 2023年9月 | luogu-B3867 | [GESP202309 三级] 小杨的储蓄 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3867/) |
@@ -30,8 +25,6 @@
 | 2025年6月 | luogu-B4359 | [GESP202506 三级] 分糖果 | 模拟算法 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4359/) |
 | 2025年9月 | luogu-B4413 | [GESP202509 三级] 数组清零 | 多重循环 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4413/) |
 | 2025年9月 | luogu-B4414 | [GESP202509 三级] 日历制作 | 多重循环 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4414/) |
-| 2025年12月 | - | [2025年12月，第十二次认证]第一题密码强度 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-202512-1/) |
-| 2025年12月 | - | [2025年12月，第十二次认证]第二题小杨的智慧购物 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-202512-2/) |
 | 2026年3月 | luogu-B4499 | [GESP202603 三级] 二进制回文串 | 进制转换 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4499/) |
 | 2026年3月 | luogu-B4500 | [GESP202603 三级] 凯撒密码 | 字符串处理 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4500/) |
 | 2026年6月 | luogu-B4555 | [GESP202606 三级] 加密 | 数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4555/) |
@@ -39,7 +32,7 @@
 | 2026年9月 | luogu-B4577 | [GESP202609 三级] 公共二进制位 | 位运算 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4577-common-binary-bits/) |
 | 2026年9月 | luogu-B4578 | [GESP202609 三级] 分割字符串 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b4578-split-string/) |
 
-## 考纲核心练习题
+## 考纲核心练习题 (含历年 NOIP/CSP/洛谷 精选题)
 
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
@@ -80,10 +73,13 @@
 | luogu-B3769 | [语言月赛202305] 制糊串 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3769/) |
 | luogu-B3848 | [GESP样题 三级] 逛商场 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3848/) |
 | luogu-B3849 | [GESP样题 三级] 进制转换 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3849/) |
+| luogu-B4075 | [CSP-X 2018真题] 11的倍数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4075/) |
 | - | C++三级知识点研究，cout输出进制转换 | 考试大纲 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-knowledge-base-output-for-cout/) |
 | - | C++三级知识点研究，一维数组声明合法性 | 考试大纲 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-knowledge-one-dimensional-array-declaration/) |
+| luogu-COUNT | [CSP-XL 2025] 字符串数数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-xl-2025ln-1-count/) |
 | - | GESP三级C++考纲考点揭秘：揭秘你必须知道的4大核心考点 | 武器库 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-3-level-3/) |
 | luogu-P1047 | [NOIP 2005 普及组] 校门外的树 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p1047/) |
+| luogu-P11227 | [CSP-J 2024真题] 扑克牌 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
 | luogu-P1161 | C++三级练习 开灯 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p1161/) |
 | luogu-P1307 | [NOIP2011 普及组] 数字反转 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p1307/) |
 | luogu-P1319 | C++三级练习 压缩技术 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p1319/) |
@@ -99,4 +95,8 @@
 | luogu-P2911 | [USACO08OCT] Bovine Bones G | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p2911/) |
 | luogu-P5727 | C++三级练习 【深基5.例3】冰雹猜想 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p5727/) |
 | luogu-P5728 | C++三级练习 【深基5.例5】旗鼓相当的对手 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-p5728/) |
+| luogu-P7071 | [CSP-J 2020真题] 优秀的拆分 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2020-p7071/) |
+| luogu-P7909 | [CSP-J 2021真题] 分糖果 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7909/) |
 | luogu-T250431 | C++三级练习 找元素 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-t250431/) |
+| - | [2025年12月，第十二次认证]第一题密码强度 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-202512-1/) |
+| - | [2025年12月，第十二次认证]第二题小杨的智慧购物 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-202512-2/) |

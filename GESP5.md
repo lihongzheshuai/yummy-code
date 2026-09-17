@@ -1,18 +1,9 @@
 # GESP五级练习题与真题清单
 
-## 历年编程真题
+## 历年编程真题 (CCF GESP 官方季度真题)
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
-| 2026-01 | - | GESP五级通关秘籍：从真题逻辑看透算法进阶的5个“深水区” | 武器库 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-5-level-5/) |
-| 2026-02 | luogu-P1009 | [NOIP1998] 阶乘之和 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
-| 2026-02 | luogu-P1010 | [NOIP1998] 幂次方 | 递归 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
-| 2026-02 | luogu-P1011 | [NOIP1998] 车站 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
-| 2026-03 | luogu-P1015 | [NOIP1999] 回文数 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
-| 2026-06 | luogu-P1022 | [NOIP2000] 计算器的改良 | 字符串 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
-| 2026-06 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
-| 2026-04 | luogu-P5682 | CSP-J 2019 江西真题 - 次大值 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5682/) |
-| 2026-05 | luogu-P7911 | [CSP-J 2021真题] 网络连接 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7911/) |
 | 2023年9月 | luogu-B3871 | [GESP202309 五级] 因数分解 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3871/) |
 | 2023年9月 | luogu-B3872 | [GESP202309 五级] 巧夺大奖 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3872/) |
 | 2023年12月 | luogu-B3929 | [GESP202312 五级] 小杨的幸运数 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3929/) |
@@ -31,8 +22,6 @@
 | 2025年6月 | luogu-P13014 | [GESP202506 五级] 最大公因数 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p13014/) |
 | 2025年9月 | luogu-P14073 | [GESP202509 五级] 数字选取 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p14073/) |
 | 2025年9月 | luogu-P14074 | [GESP202509 五级] 有趣的数字和 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p14074/) |
-| 2025年12月 | luogu-P14917 | [2025年12月，第十二次认证]第一题-数字移动 luogu-p14917 | 模拟算法 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-202512-1-luogu-p14917/) |
-| 2025年12月 | luogu-P14918 | [2025年12月，第十二次认证]第二题-相等序列 luogu-p14918 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-202512-2-luogu-p14918/) |
 | 2026年3月 | luogu-P15798 | [GESP202603 五级] 有限不循环小数 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p15798/) |
 | 2026年3月 | luogu-P15799 | [GESP202603 五级] 找数 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p15799/) |
 | 2026年6月 | luogu-P17010 | [GESP202606 五级] 排排坐 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p17010/) |
@@ -40,12 +29,19 @@
 | 2026年9月 | luogu-P17455 | [GESP202609 五级] 哥德巴赫猜想 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p17455-goldbach/) |
 | 2026年9月 | luogu-P17456 | [GESP202609 五级] 饮品调制 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p17456-beverage-mix/) |
 
-## 考纲核心练习题
+## 考纲核心练习题 (含历年 NOIP/CSP/洛谷 精选题)
 
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
 | luogu-B3628 | C++五级练习题 机器猫斗恶龙 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3628/) |
 | luogu-B3941 | [GESP样题 五级] 小杨的锻炼 | 函数 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3941/) |
+| - | GESP五级通关秘籍：从真题逻辑看透算法进阶的5个“深水区” | 武器库 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-5-level-5/) |
+| luogu-P1009 | [NOIP1998] 阶乘之和 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
+| luogu-P1010 | [NOIP1998] 幂次方 | 递归 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
+| luogu-P1011 | [NOIP1998] 车站 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
+| luogu-P1015 | [NOIP1999] 回文数 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
+| luogu-P1022 | [NOIP2000] 计算器的改良 | 字符串 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
+| luogu-P1023 | [NOIP2000] 税收与补贴问题 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1031/) |
 | luogu-P1102 | C++五级练习题 A-B 数对 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1102/) |
 | luogu-P1114 | C++五级练习题 “非常男女”计划 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1114/) |
@@ -58,6 +54,8 @@
 | luogu-P1303 | 高精度计算 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1303/) |
 | luogu-P1323 | C++六级/五级练习题 删数问题 | 队列 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1323/) |
 | luogu-P1387 | C++五级练习 最大正方形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1387/) |
+| luogu-P14917 | [2025年12月，第十二次认证]第一题-数字移动 luogu-p14917 | 模拟算法 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-202512-1-luogu-p14917/) |
+| luogu-P14918 | [2025年12月，第十二次认证]第二题-相等序列 luogu-p14918 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-202512-2-luogu-p14918/) |
 | luogu-P1678 | C++五级练习 烦恼的高考志愿 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1678/) |
 | luogu-P1719 | C++五级/六级练习题 最大加权矩形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1719/) |
 | luogu-P1843 | C++五级练习题 奶牛晒衣服 | 二分答案 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1843/) |
@@ -72,4 +70,6 @@
 | luogu-P2696 | C++五级练习题 慈善的约瑟夫 | 算法数学 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p2696/) |
 | luogu-P3353 | C++五级练习题 在你窗外闪耀的星星 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p3353/) |
 | luogu-P3743 | C++五级练习 小鸟的设备 | 二分答案 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p3743/) |
+| luogu-P5682 | CSP-J 2019 江西真题 - 次大值 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5682/) |
+| luogu-P7911 | [CSP-J 2021真题] 网络连接 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7911/) |
 | luogu-P9532 | [YsOI2023] 前缀和 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p9532/) |

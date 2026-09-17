@@ -1,12 +1,9 @@
 # GESP二级练习题与真题清单
 
-## 历年编程真题
+## 历年编程真题 (CCF GESP 官方季度真题)
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
-| 2026-06 | luogu-B4073 | [CSP-X 2018真题] 快递费用 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4073/) |
-| 2026-06 | luogu-B4074 | [CSP-X 2018真题] 统计成绩 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4074/) |
-| 2026-05 | luogu-P8813 | [CSP-J 2022真题] 乘方 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2022-p8813-power/) |
 | 2023年3月 | luogu-B3836 | [GESP202303 二级] 百鸡问题 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3836/) |
 | 2023年3月 | luogu-B3837 | [GESP202303 二级] 画三角形 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3837/) |
 | 2023年6月 | luogu-B3840 | [GESP202306 二级] 找素数 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3840/) |
@@ -29,8 +26,6 @@
 | 2025年6月 | luogu-B4357 | [GESP202506 二级] 幂和数 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4357/) |
 | 2025年9月 | luogu-B4411 | [GESP202509 二级] 优美的数字 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4411/) |
 | 2025年9月 | luogu-B4412 | [GESP202509 二级] 菱形 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4412/) |
-| 2025年12月 | - | [2025年12月]第一题环保能量球 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-202512-1/) |
-| 2025年12月 | - | [2025年12月，第十二次认证]第二题黄金格 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-202512-2/) |
 | 2026年3月 | luogu-B4497 | [GESP202603 二级] 数数 | 数位分离 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4497/) |
 | 2026年3月 | luogu-B4498 | [GESP202603 二级] 画画 | 双重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4498/) |
 | 2026年6月 | luogu-B4553 | [GESP202606 二级] 完全平方数计数 | 循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4553/) |
@@ -38,7 +33,7 @@
 | 2026年9月 | luogu-B4575 | [GESP202609 二级] 直角三角形 | 勾股定理 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4575-right-triangle/) |
 | 2026年9月 | luogu-B4576 | [GESP202609 二级] 字符变换 | 二维数组 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b4576-char-transform/) |
 
-## 考纲核心练习题
+## 考纲核心练习题 (含历年 NOIP/CSP/洛谷 精选题)
 
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
@@ -95,6 +90,8 @@
 | luogu-B3845 | [GESP样题 二级] 勾股数 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3845/) |
 | luogu-B3994 | [GESP 二级模拟] 周长与面积计算 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3994/) |
 | luogu-B3995 | [GESP 二级模拟] 小洛的田字矩阵 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-b3995/) |
+| luogu-B4073 | [CSP-X 2018真题] 快递费用 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4073/) |
+| luogu-B4074 | [CSP-X 2018真题] 统计成绩 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4074/) |
 | - | C++二级练习 bcqm-3150, 26个兄弟姐妹2 | ASCII | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-bcqm-3150/) |
 | - | C++二级练习 bcqm-3172, 短信计费 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-bcqm-3172/) |
 | - | C++二级练习 图形输出练习01-X图形 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-local-01-x-pic/) |
@@ -118,5 +115,8 @@
 | luogu-P5723 | C++二级练习 【深基4.例13】质数口袋 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-p5723/) |
 | luogu-P5725 | C++二级练习 【深基4.习8】求三角形 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-p5725/) |
 | luogu-P5726 | C++二级练习 【深基4.习9】打分 | 数学函数 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-p5726/) |
+| luogu-P8813 | [CSP-J 2022真题] 乘方 | CSP | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2022-p8813-power/) |
 | luogu-T259140 | C++二级练习 三角形 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-t259140/) |
 | luogu-T259142 | C++二级练习 数数字 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-luogu-t259142/) |
+| - | [2025年12月]第一题环保能量球 | 基础语句 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-202512-1/) |
+| - | [2025年12月，第十二次认证]第二题黄金格 | 多重循环 | ★☆☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-2-202512-2/) |
