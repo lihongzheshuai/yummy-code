@@ -46,6 +46,7 @@
 | luogu-B3628 | 贪心 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-B3628 机器猫斗恶龙](https://www.coderli.com/gesp-5-luogu-b3628/) |
 | luogu-B3941 | 函数 | ★★★☆☆ | ✅ | [小杨的锻炼](https://www.coderli.com/gesp-5-luogu-b3941/) |
 | luogu-P1031 | 贪心 | ★★★☆☆ | ✅ | [均分纸牌](https://www.coderli.com/gesp-5-luogu-p1031/) |
+| luogu-P1075 | 数论 | ★★★☆☆ | ✅ | [质因数分解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
 | luogu-P1102 | 二分查找 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1102 A-B 数对](https://www.coderli.com/gesp-5-luogu-p1102/) |
 | luogu-P1114 | 前缀和 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题（前缀和） luogu-P1114 “非常男女”计划](https://www.coderli.com/gesp-5-luogu-p1114/) |
 | luogu-P1115 | 贪心 | ★★★☆☆ | ✅ | [【GESP】C++五级练习（贪心思想考点） luogu-P1115 最大子段和](https://www.coderli.com/gesp-5-luogu-p1115/) |
