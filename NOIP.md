@@ -18,7 +18,7 @@
 | 2000年 | luogu-P1022 | [NOIP2000] 计算器的改良 | `noi/p/2000/P1022.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
 | 2000年 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | `noi/p/2000/P1023.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
 | 2001年 | luogu-P1024 | [NOIP2001] 一元三次方程求解 | `noi/p/2001/P1024.cpp` | [查看题解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
-| 2001年 | luogu-P1029 | [NOIP2001] 最大公约数和最小公倍数问题 | `noi/p/2001/P1029.cpp` | [查看题解](https://www.coderli.com/noip-2001-luogu-p1029/) |
+| 2001年 | luogu-P1029 | [NOIP2001] 最大公约数和最小公倍数问题 | `noi/p/2001/P1029.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029-gcd-lcm/) |
 | 2003年 | luogu-P1044 | [NOIP2003] 栈 | `noi/p/2003/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/) |
 | 2005年 | luogu-P1048 | [NOIP2005] 采药 | `noi/p/2005/P1048.cpp` | [查看题解](https://www.coderli.com/noip-2005-luogu-p1048/) |
 | 2008年 | luogu-P1125 | [NOIP2008] 笨小猴 | `noi/p/2008/P1125.cpp` | [查看题解](https://www.coderli.com/noip-2008-luogu-p1125/) |
