@@ -1,68 +1,77 @@
 /**
- * 题目: 【GESP】C++五级练习题 luogu-P2440 木材加工
+ * 题目: 【GESP/CSP练习】GESP五级 / CSP-J 题解：luogu-P2440 木材加工
  * 题号: P2440
- * 归属: GESP5级
- * 博客: https://www.coderli.com/gesp-5-luogu-p2440/
+ * 归属: GESP5级 / CSP-J
+ * 博客: https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 
-#include <algorithm>
 #include <iostream>
+#include <algorithm>
 
-typedef long long ll;
+using namespace std;
 
-// 全局数组存储每根原木的长度，大小需稍大于 10^5
-int a[100005];
+// 数据规模：n <= 10^5, 原木长度 L_i <= 10^8
+const int MAXN = 100005;
+int a[MAXN];
 
-// check 函数：验证是否能切出 k 段长度为 mid 的木头
-// mid: 当前尝试的小段木头长度
-// n: 原木根数
-// k: 目标段数
-bool check(int mid, int n, int k) {
-    ll cnt = 0;
-    for (int i = 0; i < n; i++) {
-        cnt += a[i] / mid;
-        if (cnt >= k) {
+// check 函数：检验是否能够切割出至少 k 段长度为 len 的小木头
+// 单调性核心：len 越小，切出的小段越多；len 越大，切出的小段越少
+bool check(int len, int n, long long k) {
+    long long count = 0;
+    for (int i = 0; i < n; ++i) {
+        // 每根原木长度为 a[i]，最多可切出 a[i] / len 段长度为 len 的小木头
+        count += a[i] / len;
+        // 剪枝：一旦累计段数达到或超过目标 k，说明该长度可行，直接返回 true
+        if (count >= k) {
             return true;
         }
     }
-    return false;
+    return count >= k;
 }
 
 int main() {
-    int n, k;
-    std::cin >> n >> k;
-    int r = 0;
-    ll sum = 0;
-    for (int i = 0; i < n; i++) {
-        std::cin >> a[i];
-        // 确定二分查找的上界：一小段的最长长度不可能超过最长的那根原木
-        r = std::max(r, a[i]);
-        sum += a[i];
+    int n;
+    long long k;
+    cin >> n >> k;
+
+    int max_len = 0;
+    long long total_len = 0;
+    for (int i = 0; i < n; ++i) {
+        cin >> a[i];
+        if (a[i] > max_len) {
+            max_len = a[i];
+        }
+        total_len += a[i];
     }
 
-    if (sum < k) {
-        std::cout << 0 << std::endl;
+    // 边界特判：若所有原木总长度累加仍小于目标段数 k，
+    // 则即便每段长度取最小正整数 1cm，也无法切出 k 段，直接输出 0
+    if (total_len < k) {
+        cout << 0 << endl;
         return 0;
     }
 
-    // 二分查找答案
-    // 答案区间 [l, r] 初始化为 [1, 最长原木长度]
-    int l = 1;
+    // 二分答案：小段长度 l 的取值范围为 [1, max_len]
+    int left = 1;
+    int right = max_len;
     int ans = 0;
-    while (l <= r) {
-        // 计算中间值，mid 即为当前尝试的长度
-        int mid = l + (r - l) / 2;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        // 判定当前长度 mid 是否满足要求
         if (check(mid, n, k)) {
-            // 如果 mid 长度可行，说明可能还有更优解（更长），向右半区间查找
+            // 如果长度为 mid 可行，记录该可行解，并尝试寻找更长的小段（向右半区间搜索）
             ans = mid;
-            l = mid + 1;
+            left = mid + 1;
         } else {
-            // 如果 mid 长度不可行（切不够 k 段），说明 mid 太长，向左半区间查找
-            r = mid - 1;
+            // 如果长度为 mid 无法切出 k 段，说明太长了，向左半区间压缩
+            right = mid - 1;
         }
     }
 
-    std::cout << ans << std::endl;
+    // 输出所能得到的小段木头的最大长度 l
+    cout << ans << endl;
+
     return 0;
 }

@@ -68,7 +68,7 @@
 | luogu-P2004 | 前缀和 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题（二维前缀和） luogu-P2004 领地选择](https://www.coderli.com/gesp-5-luogu-p2004/) |
 | luogu-P2242 | 贪心 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P2242 公路维修问题](https://www.coderli.com/gesp-5-luogu-p2242/) |
 | luogu-P2249 | 二分查找 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P2249 【深基13.例1】查找](https://www.coderli.com/gesp-5-luogu-p2249/) |
-| luogu-P2440 | 二分答案 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P2440 木材加工](https://www.coderli.com/gesp-5-luogu-p2440/) |
+| luogu-P2440 | 二分答案 | ★★★☆☆ | ✅ | [木材加工](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
 | luogu-P2629 | 前缀和 | ★★★☆☆ | ✅ | [【GESP】C++六级/五级练习题 luogu-P2629 好消息，坏消息](https://www.coderli.com/gesp-6-luogu-p2629/) |
 | luogu-P2696 | 算法数学 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P2696 慈善的约瑟夫](https://www.coderli.com/gesp-5-luogu-p2696/) |
 | luogu-P3353 | 贪心 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P3353 在你窗外闪耀的星星](https://www.coderli.com/gesp-5-luogu-p3353/) |
