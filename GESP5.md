@@ -55,6 +55,7 @@
 | luogu-P1160 | 链表 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1160 队列安排](https://www.coderli.com/gesp-5-luogu-p1160/) |
 | luogu-P1163 | 二分答案 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1163 银行贷款 | 二分答案和精密模拟](https://www.coderli.com/gesp-5-luogu-p1163/) |
 | luogu-P1182 | 二分答案 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1182 数列分段 Section II](https://www.coderli.com/gesp-5-luogu-p1182/) |
+| luogu-P1223 | 贪心/微扰法 | ★★★☆☆ | ✅ | [排队接水](https://www.coderli.com/gesp-5-luogu-p1223-queue-water/) |
 | luogu-P1226 | 快速幂 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1226 【模板】快速幂](https://www.coderli.com/gesp-5-luogu-p1226/) |
 | luogu-P12733 | 二分查找 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P12733 磨合](https://www.coderli.com/gesp-5-luogu-p12733/) |
 | luogu-P1303 | 高精度 | ★★★☆☆ | ✅ | [【GESP】C++五级练习题 luogu-P1303 A*B Problem | 高精度计算](https://www.coderli.com/gesp-5-luogu-p1303/) |

@@ -57,7 +57,7 @@
 | luogu-P1138 | 排序 | ★★★☆☆ | ✅ | [【GESP】C++四级练习 luogu-P1138 第 k 小整数](https://www.coderli.com/gesp-4-luogu-p1138/) |
 | luogu-P1147 | 双指针 | ★★★☆☆ | ✅ | [【GESP】C++五级/四级练习（双指针/数学） luogu-P1147 连续自然数和](https://www.coderli.com/gesp-5-luogu-p1147/) |
 | luogu-P1177 | 排序 | ★★★☆☆ | ✅ | [【GESP】C++四、五级练习题 luogu-P1177 【模板】排序](https://www.coderli.com/gesp-5-luogu-p1177/) |
-| luogu-P1223 | 排序 | ★★★☆☆ | ✅ | [【GESP】C++四级/五级练习题 luogu-P1223 排队接水](https://www.coderli.com/gesp-4-luogu-p1223/) |
+| luogu-P1223 | 排序/贪心 | ★★★☆☆ | ✅ | [【GESP/CSP练习】GESP五级 / CSP-J 题解：luogu-P1223 排队接水](https://www.coderli.com/gesp-5-luogu-p1223-queue-water/) |
 | luogu-P1271 | 排序 | ★★★☆☆ | ✅ | [luogu-P1271 【深基9.例1】选举学生会](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
 | luogu-P1296 | 排序 | ★★★☆☆ | ✅ | [【GESP】C++四级练习 luogu-P1296 奶牛的耳语](https://www.coderli.com/gesp-4-luogu-p1296/) |
 | luogu-P1413 | 排序 | ★★★☆☆ | ✅ | [【GESP】C++五级/四级练习题 luogu-P1413 坚果保龄球](https://www.coderli.com/gesp-5-luogu-p1413/) |
