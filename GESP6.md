@@ -26,3 +26,4 @@
 | luogu-B2174 | 动态规划 | ★★★★☆ | ✅ | [【GESP】C++六级练习 luogu-B2174, 完全背包](https://www.coderli.com/gesp-6-luogu-b2174/) |
 | luogu-P1002 | 动态规划 | ★★★★☆ | ✅ | [过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
 | luogu-P1443 | 广度优先搜索 / BFS | ★★★★☆ | ✅ | [马的遍历](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |
+| luogu-P1434 | 记忆化搜索 / 动态规划 | ★★★★☆ | ✅ | [[SHOI2002] 滑雪](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
