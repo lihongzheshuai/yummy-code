@@ -27,3 +27,4 @@
 | luogu-P1002 | 动态规划 | ★★★★☆ | ✅ | [过河卒](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
 | luogu-P1443 | 广度优先搜索 / BFS | ★★★★☆ | ✅ | [马的遍历](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |
 | luogu-P1434 | 记忆化搜索 / 动态规划 | ★★★★☆ | ✅ | [[SHOI2002] 滑雪](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
+| luogu-P1216 | 动态规划 / 坐标型DP | ★★★★☆ | ✅ | [[USACO1.5] 数字三角形](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
