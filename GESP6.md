@@ -5,7 +5,6 @@
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题目讲解 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
 | 2026-03 | luogu-P1016 | 【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习 | 贪心 | ★★★★☆ | ✅ | [【NOIP】1999真题解析 luogu-P1016 旅行家的预算 | GESP四、五、六级以上推荐练习](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
-| 2026-07 | luogu-P1048 | 【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习） | 动态规划 | ★★★★☆ | ✅ | [【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习）](https://www.coderli.com/noip-2005-luogu-p1048/) |
 | 2026-02 | luogu-P14359 | 【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平） | CSP | ★★★★☆ | ✅ | [【CSP】CSP-J 2025真题 | 异或和 luogu-P14359 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14359/) |
 | 2026-02 | luogu-P14360 | 【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平） | CSP | ★★★★☆ | ✅ | [【CSP】CSP-J 2025真题 | 多边形 luogu-P14360 （相当于GESP六级水平）](https://www.coderli.com/csp-j-2025-p14360/) |
 | 2026-07 | luogu-P2678 | 【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习） | 二分答案 | ★★★★☆ | ✅ | [【NOIP】2015真题解析 luogu-P2678 跳石头（适合GESP六级以上练习）](https://www.coderli.com/noip-2015-luogu-p2678/) |
@@ -28,3 +27,4 @@
 | luogu-P1443 | 广度优先搜索 / BFS | ★★★★☆ | ✅ | [马的遍历](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |
 | luogu-P1434 | 记忆化搜索 / 动态规划 | ★★★★☆ | ✅ | [[SHOI2002] 滑雪](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | luogu-P1216 | 动态规划 / 坐标型DP | ★★★★☆ | ✅ | [[USACO1.5] 数字三角形](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
+| luogu-P1048 | 动态规划 / 01背包 | ★★★★☆ | ✅ | [[NOIP2005 普及组] 采药](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |

@@ -1,9 +1,9 @@
 /**
- * 题目: 【NOIP】2005真题解析 luogu-P1048 采药（适合GESP六级以上练习）
+ * 题目: 【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1048 [NOIP2005 普及组] 采药
  * 题号: P1048
  * 归属: GESP6级
- * 解法: 解法 2 / 共 2 种解法
- * 博客: https://www.coderli.com/noip-2005-luogu-p1048/
+ * 解法: 解法 2 / 共 2 种解法 (一维滚动数组)
+ * 博客: https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

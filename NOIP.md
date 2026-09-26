@@ -20,7 +20,7 @@
 | 2001年 | luogu-P1024 | [NOIP2001] 一元三次方程求解 | `noi/p/2001/P1024.cpp` | [查看题解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
 | 2001年 | luogu-P1029 | [NOIP2001] 最大公约数和最小公倍数问题 | `noi/p/2001/P1029.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029-gcd-lcm/) |
 | 2003年 | luogu-P1044 | [NOIP2003] 栈 | `noi/p/2003/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/) |
-| 2005年 | luogu-P1048 | [NOIP2005] 采药 | `noi/p/2005/P1048.cpp` | [查看题解](https://www.coderli.com/noip-2005-luogu-p1048/) |
+| 2005年 | luogu-P1048 | [NOIP2005] 采药 | `noi/p/2005/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
 | 2008年 | luogu-P1125 | [NOIP2008] 笨小猴 | `noi/p/2008/P1125.cpp` | [查看题解](https://www.coderli.com/noip-2008-luogu-p1125/) |
 | 2011年 | luogu-P1003 | [NOIP2011] 铺地毯 | `noi/p/2011/P1003.cpp` | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
 | 2012年 | luogu-P1075 | [NOIP2012] 质因数分解 | `noi/p/2012/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
