@@ -28,3 +28,4 @@
 | luogu-P1434 | 记忆化搜索 / 动态规划 | ★★★★☆ | ✅ | [[SHOI2002] 滑雪](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | luogu-P1216 | 动态规划 / 坐标型DP | ★★★★☆ | ✅ | [[USACO1.5] 数字三角形](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | luogu-P1048 | 动态规划 / 01背包 | ★★★★☆ | ✅ | [[NOIP2005 普及组] 采药](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
+| luogu-P1616 | 动态规划 / 完全背包 | ★★★★☆ | ✅ | [疯狂的采药](https://www.coderli.com/gesp-6-luogu-p1616-crazy-knapsack/) |
