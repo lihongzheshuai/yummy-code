@@ -29,3 +29,4 @@
 | luogu-P1216 | 动态规划 / 坐标型DP | ★★★★☆ | ✅ | [[USACO1.5] 数字三角形](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | luogu-P1048 | 动态规划 / 01背包 | ★★★★☆ | ✅ | [[NOIP2005 普及组] 采药](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
 | luogu-P1616 | 动态规划 / 完全背包 | ★★★★☆ | ✅ | [疯狂的采药](https://www.coderli.com/gesp-6-luogu-p1616-crazy-knapsack/) |
+| luogu-P1049 | 动态规划 / 01背包 | ★★★★☆ | ✅ | [[NOIP2001 普及组] 装箱问题](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
