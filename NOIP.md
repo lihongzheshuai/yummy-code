@@ -36,6 +36,7 @@
 | 2026年 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | `noi/p/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
 | 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `noi/p/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
 | 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `noi/p/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
+| 2026年 | luogu-P1091 | [NOIP2004 提高组] 合唱队形 | `noi/p/2004/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
 | 2026年 | luogu-P1125 | [NOIP2008] 笨小猴 | `noi/p/2026/P1125.cpp` | [查看题解](https://www.coderli.com/noip-2008-luogu-p1125/) |
 | 2026年 | luogu-P2241 | [NOIP1997] 统计方形 | `noi/p/2026/P2241.cpp` | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |

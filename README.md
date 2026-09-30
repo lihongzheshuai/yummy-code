@@ -405,6 +405,7 @@
 | 2026年 | luogu-P1048 | [NOIP2005 普及组] 采药 | `csp/j/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
 | 2026年 | luogu-P1049 | [NOIP2001 普及组] 装箱问题 | `csp/j/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
 | 2026年 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | `csp/j/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| 2026年 | luogu-P1091 | [NOIP2004 提高组] 合唱队形 | `gesp/6/practice/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `csp/j/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
 | 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `csp/j/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
 | 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
@@ -485,6 +486,7 @@
 | 2026年 | luogu-P1048 | [NOIP2005 普及组] 采药 | `noi/p/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
 | 2026年 | luogu-P1049 | [NOIP2001 普及组] 装箱问题 | `noi/p/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
 | 2026年 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | `noi/p/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| 2026年 | luogu-P1091 | [NOIP2004 提高组] 合唱队形 | `noi/p/2004/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `noi/p/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
 | 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `noi/p/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
 | 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |

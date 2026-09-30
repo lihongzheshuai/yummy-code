@@ -27,6 +27,7 @@
 | luogu-P1048 | [NOIP2005 普及组] 采药 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
 | luogu-P1049 | [NOIP2001 普及组] 装箱问题 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| luogu-P1091 | [NOIP2004 提高组] 合唱队形 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | luogu-P1216 | [USACO1.5] 数字三角形 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | luogu-P1434 | [SHOI2002] 滑雪 | 记忆化搜索 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | luogu-P1443 | GESP六级 / CSP-J 题解：马的遍历 | BFS | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |
