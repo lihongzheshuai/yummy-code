@@ -409,6 +409,7 @@
 | 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `csp/j/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
 | 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `csp/j/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
 | 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
+| 2026年 | luogu-P1113 | [USACO02FEB] 杂务 | `gesp/7/practice/P1113.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1113/) |
 | 2026年 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | `csp/j/2026/P11227.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
 | 2026年 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | `csp/j/2026/P11228.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
 | 2026年 | luogu-P1216 | [USACO1.5] 数字三角形 | `csp/j/2026/P1216.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
