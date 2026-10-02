@@ -12,3 +12,4 @@
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
 | luogu-P1113 | [USACO02FEB] 杂务 | 图论·DAG拓扑DP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p1113/) |
+| luogu-P3371 | 【模板】单源最短路径（弱化版） | 图论·Dijkstra堆优化最短路 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
