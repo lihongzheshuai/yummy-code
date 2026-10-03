@@ -48,14 +48,9 @@ const int MAXN = 305;
 Student stu[MAXN];
 
 int main() {
-    // 基础输入输出流加速
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     int n;
-    if (!(cin >> n)) {
-        return 0;
-    }
+    cin >> n;
 
     // 读入每个学生的各科成绩并计算总分
     for (int i = 0; i < n; ++i) {

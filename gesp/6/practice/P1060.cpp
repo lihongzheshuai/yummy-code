@@ -19,15 +19,10 @@ const int MAXN = 30005;
 int dp[MAXN];
 
 int main() {
-    // 优化标准输入输出流性能，加速大规模数据读写
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     int n, m;
     // 读入总钱数 n 与希望购买的物品总数 m
-    if (!(cin >> n >> m)) {
-        return 0;
-    }
+    cin >> n >> m;
 
     // 0/1 背包动态规划过程
     // 逐一读入并处理每个物品，无需预先保存全部物品数组，节省内存空间

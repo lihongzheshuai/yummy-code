@@ -28,12 +28,9 @@ const long long INF = 2e18;
 long long max_depart[505][505];
 
 int main() {
-    // 优化输入输出流性能，应对 50 万次高频查询
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
 
     int n, m, q;
-    if (!(cin >> n >> m >> q)) return 0;
+    cin >> n >> m >> q;
 
     // rev_adj[v] 存储所有以站点 v 为原图终点的反向边
     vector<vector<RevEdge>> rev_adj(n + 1);
