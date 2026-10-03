@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1093 [NOIP2007 普及组] 奖学金
+ * 题目: 【NOIP真题】2007 奖学金 luogu-P1093 | 适用于 GESP4级 / CSP-J 练习
  * 题号: P1093
  * 归属: GESP4级
- * 博客: https://www.coderli.com/gesp-4-luogu-p1093-scholarship/
+ * 博客: https://www.coderli.com/gesp-4-luogu-p1093/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

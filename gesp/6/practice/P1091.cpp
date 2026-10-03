@@ -1,5 +1,5 @@
 /**
- * 题目: 【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1091 [NOIP2004 提高组] 合唱队形
+ * 题目: 【NOIP真题】2004 合唱队形 luogu-P1091 | 适用于 GESP6级 / CSP-J 练习
  * 题号: P1091
  * 归属: GESP六级 / CSP-J / NOIP2004 提高组
  * 博客: https://www.coderli.com/gesp-6-luogu-p1091/

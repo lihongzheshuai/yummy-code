@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP五级 / CSP-J 题解：luogu-P1029 [NOIP2001 普及组] 最大公约数和最小公倍数问题
+ * 题目: 【NOIP真题】2001 最大公约数和最小公倍数问题 luogu-P1029 | 适用于 GESP5级 / CSP-J 练习
  * 题号: P1029
  * 归属: GESP5级 / CSP-J
- * 博客: https://www.coderli.com/gesp-5-luogu-p1029-gcd-lcm/
+ * 博客: https://www.coderli.com/gesp-5-luogu-p1029/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

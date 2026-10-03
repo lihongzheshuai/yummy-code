@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1044 [NOIP2003 普及组] 栈
+ * 题目: 【NOIP真题】2003 栈 luogu-P1044 | 适用于 GESP4级 / CSP-J 练习
  * 题号: P1044
  * 归属: GESP4级 / CSP-J
- * 博客: https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/
+ * 博客: https://www.coderli.com/gesp-4-luogu-p1044/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP五级 / CSP-J 题解：luogu-P1075 [NOIP2012 普及组] 质因数分解
+ * 题目: 【NOIP真题】2012 质因数分解 luogu-P1075 | 适用于 GESP5级 / CSP-J 练习
  * 题号: P1075
  * 归属: GESP5级 / CSP-J
- * 博客: https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/
+ * 博客: https://www.coderli.com/gesp-5-luogu-p1075/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

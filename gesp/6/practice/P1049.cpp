@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1049 [NOIP2001 普及组] 装箱问题
+ * 题目: 【NOIP真题】2001 装箱问题 luogu-P1049 | 适用于 GESP6级 / CSP-J 练习
  * 题号: P1049
  * 归属: GESP六级 / CSP-J
- * 博客: https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/
+ * 博客: https://www.coderli.com/gesp-6-luogu-p1049/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

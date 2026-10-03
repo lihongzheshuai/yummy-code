@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP四级 / CSP-J 题解：luogu-P1028 [NOIP2001 普及组] 数的计算
+ * 题目: 【NOIP真题】2001 数的计算 luogu-P1028 | 适用于 GESP4级 / CSP-J 练习
  * 题号: P1028
  * 归属: GESP4级
- * 博客: https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/
+ * 博客: https://www.coderli.com/gesp-4-luogu-p1028/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 

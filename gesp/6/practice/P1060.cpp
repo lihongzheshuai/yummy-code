@@ -1,5 +1,5 @@
 /**
- * 题目: 【GESP/CSP练习】GESP六级 / CSP-J 题解：luogu-P1060 [NOIP2006 普及组] 开心的金明
+ * 题目: 【NOIP真题】2006 开心的金明 luogu-P1060 | 适用于 GESP6级 / CSP-J 练习
  * 题号: P1060
  * 归属: GESP六级 / CSP-J
  * 博客: https://www.coderli.com/gesp-6-luogu-p1060/

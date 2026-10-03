@@ -1,8 +1,8 @@
 /**
- * 题目: 【GESP/CSP练习】GESP五级 / CSP-J 题解：luogu-P1090 [NOIP2004 提高组] 合并果子
+ * 题目: 【NOIP真题】2004 合并果子 luogu-P1090 | 适用于 GESP5级 / CSP-J 练习
  * 题号: P1090
  * 归属: GESP5级 / CSP-J
- * 博客: https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/
+ * 博客: https://www.coderli.com/gesp-5-luogu-p1090/
  * 标准: C++11 (CCF GESP / CSP 官方规范)
  */
 
