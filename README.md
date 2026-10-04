@@ -430,6 +430,7 @@
 | 2026年 | luogu-P17460 | [GESP202609 七级] 括号序列 | `csp/j/2026/P17460.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
 | 2026年 | luogu-P17461 | [GESP202609 八级] 生成树计数 | `csp/j/2026/P17461.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
 | 2026年 | luogu-P17462 | [GESP202609 八级] 末班车 | `csp/j/2026/P17462.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17462/) |
+| 2026年 | luogu-P1880 | [NOI1995] 石子合并 | `gesp/7/practice/P1880.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `csp/j/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
 | 2026年 | luogu-P3366 | 【模板】最小生成树 | `gesp/7/practice/P3366.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
 | 2026年 | luogu-P3371 | 【模板】单源最短路径（弱化版） | `gesp/7/practice/P3371.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |

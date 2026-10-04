@@ -14,3 +14,4 @@
 | luogu-P1113 | [USACO02FEB] 杂务 | 图论·DAG拓扑DP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p1113/) |
 | luogu-P3371 | 【模板】单源最短路径（弱化版） | 图论·Dijkstra堆优化最短路 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
 | luogu-P3366 | 【模板】最小生成树 | 图论·Kruskal与并查集 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
+| luogu-P1880 | [NOI1995] 石子合并 | 进阶动态规划·区间DP环形破开 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
