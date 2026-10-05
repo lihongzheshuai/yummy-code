@@ -415,6 +415,7 @@
 | 2026年 | luogu-P1216 | [USACO1.5] 数字三角形 | `csp/j/2026/P1216.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | 2026年 | luogu-P1223 | GESP五级 / CSP-J 题解：排队接水 | `csp/j/2026/P1223.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1223-queue-water/) |
 | 2026年 | luogu-P1271 | GESP四级 / CSP-J 题解：【深基9.例1】选举学生会 | `csp/j/2026/P1271.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
+| 2026年 | luogu-P1352 | [NOIP2008 提高组] 没有上司的舞会 | `gesp/7/practice/P1352.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1352/) |
 | 2026年 | luogu-P1434 | [SHOI2002] 滑雪 | `csp/j/2026/P1434.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | 2026年 | luogu-P14357 | [CSP-J 2025真题] 拼数 | `csp/j/2026/P14357.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
 | 2026年 | luogu-P14358 | [CSP-J 2025真题] 座位 | `csp/j/2026/P14358.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
