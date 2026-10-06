@@ -435,6 +435,7 @@
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `csp/j/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
 | 2026年 | luogu-P3366 | 【模板】最小生成树 | `gesp/7/practice/P3366.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
 | 2026年 | luogu-P3371 | 【模板】单源最短路径（弱化版） | `gesp/7/practice/P3371.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
+| 2026年 | luogu-P3379 | 【模板】最近公共祖先（LCA） | `gesp/7/practice/P3379.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3379/) |
 | 2026年 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | `csp/j/2026/P5661.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
 | 2026年 | luogu-P5662 | [CSP-J 2019真题] 纪念品 | `csp/j/2026/P5662.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5662/) |
 | 2026年 | luogu-P5681 | CSP-J 2019 江西真题 - 面积 | `csp/j/2026/P5681.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |

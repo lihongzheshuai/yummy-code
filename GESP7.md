@@ -16,3 +16,4 @@
 | luogu-P3366 | 【模板】最小生成树 | 图论·Kruskal与并查集 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
 | luogu-P1880 | [NOI1995] 石子合并 | 进阶动态规划·区间DP环形破开 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | luogu-P1352 | [NOIP2008 提高组] 没有上司的舞会 | 树形动态规划·状态机递归递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p1352/) |
+| luogu-P3379 | 【模板】最近公共祖先（LCA） | 树论·树上倍增法与LCA | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-7-luogu-p3379/) |
