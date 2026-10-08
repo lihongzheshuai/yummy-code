@@ -434,6 +434,7 @@
 | 2026年 | luogu-P1880 | [NOI1995] 石子合并 | `gesp/7/practice/P1880.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `csp/j/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
 | 2026年 | luogu-P3366 | 【模板】最小生成树 | `gesp/7/practice/P3366.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
+| 2026年 | luogu-P3368 | 【模板】树状数组 2 | `gesp/8/practice/P3368.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3368/) |
 | 2026年 | luogu-P3371 | 【模板】单源最短路径（弱化版） | `gesp/7/practice/P3371.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
 | 2026年 | luogu-P3374 | 【模板】树状数组 1 | `gesp/8/practice/P3374.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |
 | 2026年 | luogu-P3379 | 【模板】最近公共祖先（LCA） | `gesp/7/practice/P3379.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3379/) |
