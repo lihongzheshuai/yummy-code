@@ -7,6 +7,9 @@
 | 2026-02 | luogu-P1003 | [NOIP2011] 铺地毯 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
 | 2026-02 | luogu-P1008 | [NOIP1998] 三连击 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
 | 2026-03 | luogu-P1014 | [NOIP1999] Cantor 表 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
+| 2026-09 | luogu-P1028 | 2001 数的计算 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028/) |
+| 2026-09 | luogu-P1044 | 2003 栈 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044/) |
+| 2026-09 | luogu-P1093 | 2007 奖学金 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
 | 2026-02 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
 | 2026-01 | luogu-P14357 | [CSP-J 2025真题] 拼数 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
 | 2026-02 | luogu-P14358 | [CSP-J 2025真题] 座位 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
@@ -52,9 +55,6 @@
 | luogu-B3940 | [GESP样题 四级] 填幻方 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-b3940/) |
 | luogu-B3951 | [GESP样题 五级] 小杨的队列 | 函数 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3951/) |
 | - | GESP四级C++考纲考点揭秘：揭秘5个四级核心考点 | 武器库 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-4-level-4/) |
-| luogu-P1028 | [NOIP2001 普及组] 数的计算 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| luogu-P1044 | [NOIP2003 普及组] 栈 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/) |
-| luogu-P1093 | [NOIP2007 普及组] 奖学金 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
 | luogu-P1138 | C++四级练习 第 k 小整数 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1138/) |
 | luogu-P1147 | C++五级/四级练习 连续自然数和 | 双指针 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1147/) |
 | luogu-P1177 | C++四、五级练习题 【模板】排序 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1177/) |

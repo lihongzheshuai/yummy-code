@@ -11,5 +11,6 @@
 
 | 题号 | 题目名称 | 考点分类 | 难度 | 完成情况 | 题解链接 |
 |:---:|:---|:---|:---:|:---:|:---|
-| luogu-P3368 | 【模板】树状数组 2 | 高级数据结构·差分树状数组区间修改单点查询 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3368/) |
-| luogu-P3374 | 【模板】树状数组 1 | 高级数据结构·树状数组单点修改区间求和 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |
+| luogu-P3368 | GESP八级 / CSP-S 题解：【模板】树状数组 2 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3368/) |
+| luogu-P3372 | GESP八级 / CSP-S 题解：【模板】线段树 1 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3372/) |
+| luogu-P3374 | GESP八级 / CSP-S 题解：【模板】树状数组 1 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |

@@ -28,16 +28,17 @@
 | 2026年 | luogu-P1022 | [NOIP2000] 计算器的改良 | `noi/p/2026/P1022.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
 | 2026年 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | `noi/p/2026/P1023.cpp` | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
 | 2026年 | luogu-P1024 | [NOIP2001] 一元三次方程求解 | `noi/p/2026/P1024.cpp` | [查看题解](https://www.coderli.com/noi-p-2001-luogu-p1024/) |
-| 2026年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `noi/p/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
+| 2026年 | luogu-P1028 | 2001 数的计算 | `noi/p/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028/) |
 | 2026年 | luogu-P1029 | [NOIP2001] 最大公约数和最小公倍数问题 | `noi/p/2026/P1029.cpp` | [查看题解](https://www.coderli.com/noip-2001-luogu-p1029/) |
-| 2026年 | luogu-P1044 | [NOIP2003 普及组] 栈 | `noi/p/2026/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/) |
-| 2026年 | luogu-P1048 | [NOIP2005 普及组] 采药 | `noi/p/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
-| 2026年 | luogu-P1049 | [NOIP2001 普及组] 装箱问题 | `noi/p/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
-| 2026年 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | `noi/p/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
-| 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `noi/p/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
-| 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `noi/p/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
-| 2026年 | luogu-P1091 | [NOIP2004 提高组] 合唱队形 | `noi/p/2004/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
-| 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
+| 2026年 | luogu-P1044 | 2003 栈 | `noi/p/2026/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044/) |
+| 2026年 | luogu-P1048 | 2005 采药 | `noi/p/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048/) |
+| 2026年 | luogu-P1049 | 2001 装箱问题 | `noi/p/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049/) |
+| 2026年 | luogu-P1060 | 2006 开心的金明 | `noi/p/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| 2026年 | luogu-P1075 | 2012 质因数分解 | `noi/p/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075/) |
+| 2026年 | luogu-P1090 | 2004 合并果子 | `noi/p/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090/) |
+| 2026年 | luogu-P1091 | 2004 合唱队形 | `noi/p/2026/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
+| 2026年 | luogu-P1093 | 2007 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
 | 2026年 | luogu-P1125 | [NOIP2008] 笨小猴 | `noi/p/2026/P1125.cpp` | [查看题解](https://www.coderli.com/noip-2008-luogu-p1125/) |
+| 2026年 | luogu-P1352 | [NOIP2008 提高组] 没有上司的舞会 | `noi/p/2026/P1352.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1352/) |
 | 2026年 | luogu-P2241 | [NOIP1997] 统计方形 | `noi/p/2026/P2241.cpp` | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
 | 2026年 | luogu-P2678 | [NOIP2015] 跳石头 | `noi/p/2026/P2678.cpp` | [查看题解](https://www.coderli.com/noip-2015-luogu-p2678/) |

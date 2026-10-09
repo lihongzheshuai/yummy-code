@@ -5,6 +5,10 @@
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
 | 2026-03 | luogu-P1016 | [NOIP1999] 旅行家的预算 | 贪心 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1016/) |
+| 2026-09 | luogu-P1048 | 2005 采药 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048/) |
+| 2026-09 | luogu-P1049 | 2001 装箱问题 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049/) |
+| 2026-09 | luogu-P1060 | 2006 开心的金明 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| 2026-10 | luogu-P1091 | 2004 合唱队形 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | 2026-02 | luogu-P14359 | [CSP-J 2025真题] 异或和 | CSP | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14359/) |
 | 2026-02 | luogu-P14360 | [CSP-J 2025真题] 多边形 | CSP | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14360/) |
 | 2026-07 | luogu-P2678 | [NOIP2015] 跳石头 | 二分答案 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/noip-2015-luogu-p2678/) |
@@ -24,10 +28,6 @@
 | luogu-B2173 | C++六级练习 多重背包 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-b2173/) |
 | luogu-B2174 | C++六级练习 完全背包 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-b2174/) |
 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| luogu-P1048 | [NOIP2005 普及组] 采药 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
-| luogu-P1049 | [NOIP2001 普及组] 装箱问题 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
-| luogu-P1060 | [NOIP2006 普及组] 开心的金明 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
-| luogu-P1091 | [NOIP2004 提高组] 合唱队形 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | luogu-P1216 | [USACO1.5] 数字三角形 | 动态规划 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | luogu-P1434 | [SHOI2002] 滑雪 | 记忆化搜索 | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | luogu-P1443 | GESP六级 / CSP-J 题解：马的遍历 | BFS | ★★★★☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |

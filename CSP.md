@@ -15,20 +15,23 @@
 | 2026年 | luogu-B4579 | [GESP202609 四级] 新汉诺塔 | `csp/j/2026/B4579.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-b4579-new-hanoi/) |
 | 2026年 | luogu-B4580 | [GESP202609 四级] 有序网格 | `csp/j/2026/B4580.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-b4580-ordered-grid/) |
 | 2026年 | luogu-P1002 | [NOIP2002 普及组] 过河卒 | `csp/j/2026/P1002.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1002-soldier/) |
-| 2026年 | luogu-P1028 | [NOIP2001 普及组] 数的计算 | `csp/j/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028-number-calculation/) |
-| 2026年 | luogu-P1029 | [NOIP2001 普及组] 最大公约数和最小公倍数问题 | `csp/j/2026/P1029.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029-gcd-lcm/) |
-| 2026年 | luogu-P1044 | [NOIP2003 普及组] 栈 | `csp/j/2026/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044-stack-catalan/) |
-| 2026年 | luogu-P1048 | [NOIP2005 普及组] 采药 | `csp/j/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048-medic-knapsack/) |
-| 2026年 | luogu-P1049 | [NOIP2001 普及组] 装箱问题 | `csp/j/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049-packing-problem/) |
-| 2026年 | luogu-P1060 | [NOIP2006 普及组] 开心的金明 | `csp/j/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
-| 2026年 | luogu-P1075 | [NOIP2012 普及组] 质因数分解 | `csp/j/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
-| 2026年 | luogu-P1090 | [NOIP2004 提高组] 合并果子 | `csp/j/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
-| 2026年 | luogu-P1093 | [NOIP2007 普及组] 奖学金 | `csp/j/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093-scholarship/) |
+| 2026年 | luogu-P1028 | 2001 数的计算 | `csp/j/2026/P1028.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028/) |
+| 2026年 | luogu-P1029 | 2001 最大公约数和最小公倍数问题 | `csp/j/2026/P1029.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029/) |
+| 2026年 | luogu-P1044 | 2003 栈 | `csp/j/2026/P1044.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044/) |
+| 2026年 | luogu-P1048 | 2005 采药 | `csp/j/2026/P1048.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1048/) |
+| 2026年 | luogu-P1049 | 2001 装箱问题 | `csp/j/2026/P1049.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1049/) |
+| 2026年 | luogu-P1060 | 2006 开心的金明 | `csp/j/2026/P1060.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1060/) |
+| 2026年 | luogu-P1075 | 2012 质因数分解 | `csp/j/2026/P1075.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075/) |
+| 2026年 | luogu-P1090 | 2004 合并果子 | `csp/j/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090/) |
+| 2026年 | luogu-P1091 | 2004 合唱队形 | `csp/j/2026/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
+| 2026年 | luogu-P1093 | 2007 奖学金 | `csp/j/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
+| 2026年 | luogu-P1113 | [USACO02FEB] 杂务 | `csp/j/2026/P1113.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1113/) |
 | 2026年 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | `csp/j/2026/P11227.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
 | 2026年 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | `csp/j/2026/P11228.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
 | 2026年 | luogu-P1216 | [USACO1.5] 数字三角形 | `csp/j/2026/P1216.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1216-triangle-dp/) |
 | 2026年 | luogu-P1223 | GESP五级 / CSP-J 题解：排队接水 | `csp/j/2026/P1223.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1223-queue-water/) |
 | 2026年 | luogu-P1271 | GESP四级 / CSP-J 题解：【深基9.例1】选举学生会 | `csp/j/2026/P1271.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
+| 2026年 | luogu-P1352 | [NOIP2008 提高组] 没有上司的舞会 | `csp/j/2026/P1352.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1352/) |
 | 2026年 | luogu-P1434 | [SHOI2002] 滑雪 | `csp/j/2026/P1434.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1434-skiing-memo/) |
 | 2026年 | luogu-P14357 | [CSP-J 2025真题] 拼数 | `csp/j/2026/P14357.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
 | 2026年 | luogu-P14358 | [CSP-J 2025真题] 座位 | `csp/j/2026/P14358.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
@@ -44,7 +47,14 @@
 | 2026年 | luogu-P17460 | [GESP202609 七级] 括号序列 | `csp/j/2026/P17460.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
 | 2026年 | luogu-P17461 | [GESP202609 八级] 生成树计数 | `csp/j/2026/P17461.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
 | 2026年 | luogu-P17462 | [GESP202609 八级] 末班车 | `csp/j/2026/P17462.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17462/) |
+| 2026年 | luogu-P1880 | [NOI1995] 石子合并 | `csp/j/2026/P1880.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `csp/j/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
+| 2026年 | luogu-P3366 | GESP七级 / CSP-S 题解：【模板】最小生成树 | `csp/j/2026/P3366.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3366/) |
+| 2026年 | luogu-P3368 | GESP八级 / CSP-S 题解：【模板】树状数组 2 | `csp/j/2026/P3368.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3368/) |
+| 2026年 | luogu-P3371 | GESP七级 / CSP-S 题解：【模板】单源最短路径 | `csp/j/2026/P3371.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
+| 2026年 | luogu-P3372 | GESP八级 / CSP-S 题解：【模板】线段树 1 | `csp/j/2026/P3372.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3372/) |
+| 2026年 | luogu-P3374 | GESP八级 / CSP-S 题解：【模板】树状数组 1 | `csp/j/2026/P3374.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |
+| 2026年 | luogu-P3379 | GESP七级 / CSP-S 题解：【模板】最近公共祖先 | `csp/j/2026/P3379.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3379/) |
 | 2026年 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | `csp/j/2026/P5661.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
 | 2026年 | luogu-P5662 | [CSP-J 2019真题] 纪念品 | `csp/j/2026/P5662.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5662/) |
 | 2026年 | luogu-P5681 | CSP-J 2019 江西真题 - 面积 | `csp/j/2026/P5681.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5681/) |

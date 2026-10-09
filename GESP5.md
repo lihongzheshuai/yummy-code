@@ -11,6 +11,9 @@
 | 2026-03 | luogu-P1015 | [NOIP1999] 回文数 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
 | 2026-06 | luogu-P1022 | [NOIP2000] 计算器的改良 | 字符串 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
 | 2026-06 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
+| 2026-09 | luogu-P1029 | 2001 最大公约数和最小公倍数问题 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029/) |
+| 2026-09 | luogu-P1075 | 2012 质因数分解 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075/) |
+| 2026-09 | luogu-P1090 | 2004 合并果子 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090/) |
 | 2026-04 | luogu-P5682 | CSP-J 2019 江西真题 - 次大值 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5682/) |
 | 2026-05 | luogu-P7911 | [CSP-J 2021真题] 网络连接 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7911/) |
 | 2023年9月 | luogu-B3871 | [GESP202309 五级] 因数分解 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3871/) |
@@ -46,10 +49,7 @@
 |:---:|:---|:---|:---:|:---:|:---|
 | luogu-B3628 | C++五级练习题 机器猫斗恶龙 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3628/) |
 | luogu-B3941 | [GESP样题 五级] 小杨的锻炼 | 函数 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3941/) |
-| luogu-P1029 | [NOIP2001 普及组] 最大公约数和最小公倍数问题 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029-gcd-lcm/) |
 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1031/) |
-| luogu-P1075 | [NOIP2012 普及组] 质因数分解 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075-prime-factorization/) |
-| luogu-P1090 | [NOIP2004 提高组] 合并果子 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090-merge-fruit/) |
 | luogu-P1102 | C++五级练习题 A-B 数对 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1102/) |
 | luogu-P1114 | C++五级练习题 “非常男女”计划 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1114/) |
 | luogu-P1115 | C++五级练习 最大子段和 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1115/) |
