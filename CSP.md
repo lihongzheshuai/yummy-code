@@ -54,6 +54,7 @@
 | 2026年 | luogu-P3371 | GESP七级 / CSP-S 题解：【模板】单源最短路径 | `csp/j/2026/P3371.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3371/) |
 | 2026年 | luogu-P3372 | GESP八级 / CSP-S 题解：【模板】线段树 1 | `csp/j/2026/P3372.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3372/) |
 | 2026年 | luogu-P3374 | GESP八级 / CSP-S 题解：【模板】树状数组 1 | `csp/j/2026/P3374.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |
+| 2026年 | luogu-P3375 | GESP八级 / CSP-S 题解：【模板】KMP | `csp/j/2026/P3375.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p3375/) |
 | 2026年 | luogu-P3379 | GESP七级 / CSP-S 题解：【模板】最近公共祖先 | `csp/j/2026/P3379.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p3379/) |
 | 2026年 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | `csp/j/2026/P5661.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
 | 2026年 | luogu-P5662 | [CSP-J 2019真题] 纪念品 | `csp/j/2026/P5662.cpp` | [查看题解](https://www.coderli.com/csp-j-2019-p5662/) |

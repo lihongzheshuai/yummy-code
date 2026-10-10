@@ -14,3 +14,4 @@
 | luogu-P3368 | GESP八级 / CSP-S 题解：【模板】树状数组 2 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3368/) |
 | luogu-P3372 | GESP八级 / CSP-S 题解：【模板】线段树 1 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3372/) |
 | luogu-P3374 | GESP八级 / CSP-S 题解：【模板】树状数组 1 | 数据结构 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3374/) |
+| luogu-P3375 | GESP八级 / CSP-S 题解：【模板】KMP | 字符串算法 | ★★★★★ | ✅ | [查看题解](https://www.coderli.com/gesp-8-luogu-p3375/) |
