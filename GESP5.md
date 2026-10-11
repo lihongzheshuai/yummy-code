@@ -5,12 +5,6 @@
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
 | 2026-01 | - | GESP五级通关秘籍：从真题逻辑看透算法进阶的5个“深水区” | 武器库 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-5-level-5/) |
-| 2026-02 | luogu-P1009 | [NOIP1998] 阶乘之和 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1009/) |
-| 2026-02 | luogu-P1010 | [NOIP1998] 幂次方 | 递归 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1010/) |
-| 2026-02 | luogu-P1011 | [NOIP1998] 车站 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1011/) |
-| 2026-03 | luogu-P1015 | [NOIP1999] 回文数 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-1999-luogu-p1015/) |
-| 2026-06 | luogu-P1022 | [NOIP2000] 计算器的改良 | 字符串 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1022/) |
-| 2026-06 | luogu-P1023 | [NOIP2000] 税收与补贴问题 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2000-luogu-p1023/) |
 | 2026-09 | luogu-P1029 | 2001 最大公约数和最小公倍数问题 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1029/) |
 | 2026-09 | luogu-P1075 | 2012 质因数分解 | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1075/) |
 | 2026-09 | luogu-P1090 | 2004 合并果子 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090/) |

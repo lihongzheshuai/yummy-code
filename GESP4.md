@@ -4,16 +4,12 @@
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
-| 2026-02 | luogu-P1003 | [NOIP2011] 铺地毯 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
-| 2026-02 | luogu-P1008 | [NOIP1998] 三连击 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
-| 2026-03 | luogu-P1014 | [NOIP1999] Cantor 表 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
 | 2026-09 | luogu-P1028 | 2001 数的计算 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028/) |
 | 2026-09 | luogu-P1044 | 2003 栈 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044/) |
 | 2026-09 | luogu-P1093 | 2007 奖学金 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
 | 2026-02 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
 | 2026-01 | luogu-P14357 | [CSP-J 2025真题] 拼数 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
 | 2026-02 | luogu-P14358 | [CSP-J 2025真题] 座位 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
-| 2026-09 | luogu-P2241 | [NOIP1997] 统计方形 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
 | 2026-04 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
 | 2026-04 | luogu-P7072 | [CSP-J 2020真题] 直播获奖 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2020-p7072/) |
 | 2026-05 | luogu-P8814 | [CSP-J 2022真题] 解密 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2022-p8814-decode/) |
