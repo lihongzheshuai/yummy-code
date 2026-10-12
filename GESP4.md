@@ -61,3 +61,4 @@
 | luogu-P2615 | [NOIP 2015 提高组] 神奇的幻方 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p2615/) |
 | luogu-P5729 | C++四级练习 【深基5.例7】工艺品制作 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p5729/) |
 | luogu-P5730 | C++四级练习 【深基5.例10】显示屏 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p5730/) |
+| luogu-P1104 | 生日 | 结构体排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1104/) |
