@@ -7,6 +7,7 @@
 | 2026-06 | luogu-B4075 | [CSP-X 2018真题] 11的倍数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-x-2018-b4075/) |
 | 2025-11 | luogu-COUNT | [CSP-XL 2025] 字符串数数 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-xl-2025ln-1-count/) |
 | 2026-02 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
+| 2026-10 | luogu-P1308 | 2011 统计单词数 | 字符串 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2011-luogu-p1308/) |
 | 2026-04 | luogu-P7071 | [CSP-J 2020真题] 优秀的拆分 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2020-p7071/) |
 | 2026-04 | luogu-P7909 | [CSP-J 2021真题] 分糖果 | CSP | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2021-p7909/) |
 | 2023年6月 | luogu-B3842 | [GESP202306 三级] 春游 | 一维数组 | ★★☆☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-3-luogu-b3842/) |

@@ -4,12 +4,20 @@
 
 | 考期 | 题号 | 题目名称 | 考点分类 | 难度 | 状态 | 题解链接 |
 |:---:|:---:|:---|:---|:---:|:---:|:---|
+| 2026-02 | luogu-P1003 | 2011 铺地毯 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-2011-luogu-p1003/) |
+| 2026-02 | luogu-P1008 | 1998 三连击 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1998-luogu-p1008/) |
+| 2026-10 | luogu-P1012 | 1998 拼数 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-1998-luogu-p1012/) |
+| 2026-03 | luogu-P1014 | 1999 Cantor 表 | 模拟 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1999-luogu-p1014/) |
 | 2026-09 | luogu-P1028 | 2001 数的计算 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1028/) |
+| 2026-10 | luogu-P1036 | 2002 选数 | 递归 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2002-luogu-p1036/) |
 | 2026-09 | luogu-P1044 | 2003 栈 | 递推 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1044/) |
+| 2026-10 | luogu-P1059 | 2006 明明的随机数 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2006-luogu-p1059/) |
+| 2026-10 | luogu-P1068 | 2009 分数线划定 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2009-luogu-p1068/) |
 | 2026-09 | luogu-P1093 | 2007 奖学金 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
 | 2026-02 | luogu-P11228 | [CSP-J 2024真题] 地图探险 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2024-p11228/) |
 | 2026-01 | luogu-P14357 | [CSP-J 2025真题] 拼数 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14357/) |
 | 2026-02 | luogu-P14358 | [CSP-J 2025真题] 座位 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2025-p14358/) |
+| 2026-09 | luogu-P2241 | 1997 统计方形 | 枚举 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
 | 2026-04 | luogu-P5661 | [CSP-J 2019真题] 公交换乘 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2019-p5661/) |
 | 2026-04 | luogu-P7072 | [CSP-J 2020真题] 直播获奖 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2020-p7072/) |
 | 2026-05 | luogu-P8814 | [CSP-J 2022真题] 解密 | CSP | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/csp-j-2022-p8814-decode/) |
@@ -51,8 +59,10 @@
 | luogu-B3940 | [GESP样题 四级] 填幻方 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-b3940/) |
 | luogu-B3951 | [GESP样题 五级] 小杨的队列 | 函数 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3951/) |
 | - | GESP四级C++考纲考点揭秘：揭秘5个四级核心考点 | 武器库 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-secrets-4-level-4/) |
+| luogu-P1104 | GESP四级 / CSP-J 题解：生日 | 结构体 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1104/) |
 | luogu-P1138 | C++四级练习 第 k 小整数 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1138/) |
 | luogu-P1147 | C++五级/四级练习 连续自然数和 | 双指针 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1147/) |
+| luogu-P1157 | GESP四级 / CSP-J 题解：组合的输出 | 递归 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1157/) |
 | luogu-P1177 | C++四、五级练习题 【模板】排序 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1177/) |
 | luogu-P1271 | GESP四级 / CSP-J 题解：【深基9.例1】选举学生会 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1271-counting-sort/) |
 | luogu-P1296 | C++四级练习 奶牛的耳语 | 排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1296/) |
@@ -61,4 +71,3 @@
 | luogu-P2615 | [NOIP 2015 提高组] 神奇的幻方 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p2615/) |
 | luogu-P5729 | C++四级练习 【深基5.例7】工艺品制作 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p5729/) |
 | luogu-P5730 | C++四级练习 【深基5.例10】显示屏 | 多维数组 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p5730/) |
-| luogu-P1104 | 生日 | 结构体排序 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-4-luogu-p1104/) |
