@@ -50,6 +50,7 @@
 | luogu-B3628 | C++五级练习题 机器猫斗恶龙 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3628/) |
 | luogu-B3941 | [GESP样题 五级] 小杨的锻炼 | 函数 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-b3941/) |
 | luogu-P1031 | [NOIP 2002 提高组] 均分纸牌 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1031/) |
+| luogu-P1094 | [NOIP2007 普及组] 纪念品分组 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/noip-2007-luogu-p1094/) |
 | luogu-P1102 | C++五级练习题 A-B 数对 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1102/) |
 | luogu-P1114 | C++五级练习题 “非常男女”计划 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1114/) |
 | luogu-P1115 | C++五级练习 最大子段和 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1115/) |

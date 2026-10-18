@@ -50,6 +50,7 @@
 | 2026年 | luogu-P1090 | 2004 合并果子 | `noi/p/2026/P1090.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1090/) |
 | 2026年 | luogu-P1091 | 2004 合唱队形 | `noi/p/2026/P1091.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1091/) |
 | 2026年 | luogu-P1093 | 2007 奖学金 | `noi/p/2026/P1093.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1093/) |
+| 2026年 | luogu-P1094 | 2007 纪念品分组 | `noi/p/2026/P1094.cpp` | [查看题解](https://www.coderli.com/noip-2007-luogu-p1094/) |
 | 2026年 | luogu-P1104 | GESP四级 / CSP-J 题解：生日 | `noi/p/2026/P1104.cpp` | [查看题解](https://www.coderli.com/gesp-4-luogu-p1104/) |
 | 2026年 | luogu-P1113 | [USACO02FEB] 杂务 | `noi/p/2026/P1113.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1113/) |
 | 2026年 | luogu-P11227 | [CSP-J 2024真题] 扑克牌 | `noi/p/2026/P11227.cpp` | [查看题解](https://www.coderli.com/csp-j-2024-p11227/) |
