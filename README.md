@@ -468,6 +468,7 @@
 | 2026年 | luogu-P17460 | [GESP202609 七级] 括号序列 | `csp/j/2026/P17460.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p17460-bracket-sequence/) |
 | 2026年 | luogu-P17461 | [GESP202609 八级] 生成树计数 | `csp/j/2026/P17461.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17461-cactus-spanning-tree/) |
 | 2026年 | luogu-P17462 | [GESP202609 八级] 末班车 | `csp/j/2026/P17462.cpp` | [查看题解](https://www.coderli.com/gesp-8-luogu-p17462/) |
+| 2026年 | luogu-P1803 | GESP五级 / CSP-J 题解：凌乱的yyy / 线段覆盖 | `csp/j/2026/P1803.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1803/) |
 | 2026年 | luogu-P1880 | [NOI1995] 石子合并 | `csp/j/2026/P1880.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | 2026年 | luogu-P2241 | 1997 统计方形 | `csp/j/2026/P2241.cpp` | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `csp/j/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |
@@ -572,6 +573,7 @@
 | 2026年 | luogu-P14360 | [CSP-J 2025真题] 多边形 | `noi/p/2026/P14360.cpp` | [查看题解](https://www.coderli.com/csp-j-2025-p14360/) |
 | 2026年 | luogu-P1443 | GESP六级 / CSP-J 题解：马的遍历 | `noi/p/2026/P1443.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1443-knight-traversal/) |
 | 2026年 | luogu-P1616 | GESP六级 / CSP-J 题解：疯狂的采药 | `noi/p/2026/P1616.cpp` | [查看题解](https://www.coderli.com/gesp-6-luogu-p1616-crazy-knapsack/) |
+| 2026年 | luogu-P1803 | GESP五级 / CSP-J 题解：凌乱的yyy / 线段覆盖 | `noi/p/2026/P1803.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p1803/) |
 | 2026年 | luogu-P1880 | [NOI1995] 石子合并 | `noi/p/2026/P1880.cpp` | [查看题解](https://www.coderli.com/gesp-7-luogu-p1880/) |
 | 2026年 | luogu-P2241 | 1997 统计方形 | `noi/p/2026/P2241.cpp` | [查看题解](https://www.coderli.com/noi-p-1997-luogu-p2241/) |
 | 2026年 | luogu-P2440 | GESP五级 / CSP-J 题解：木材加工 | `noi/p/2026/P2440.cpp` | [查看题解](https://www.coderli.com/gesp-5-luogu-p2440-wood-cut/) |

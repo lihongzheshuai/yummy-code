@@ -65,6 +65,7 @@
 | luogu-P1387 | C++五级练习 最大正方形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1387/) |
 | luogu-P1678 | C++五级练习 烦恼的高考志愿 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1678/) |
 | luogu-P1719 | C++五级/六级练习题 最大加权矩形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1719/) |
+| luogu-P1803 | GESP五级 / CSP-J 题解：凌乱的yyy / 线段覆盖 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1803/) |
 | luogu-P1843 | C++五级练习题 奶牛晒衣服 | 二分答案 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1843/) |
 | luogu-P1865 | C++五级练习题 A % B Problem | 数论 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1865/) |
 | luogu-P1873 | [COCI 2011/2012 /#5] EKO / 砍树 | COCI | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/luogu-p1873-eko/) |
