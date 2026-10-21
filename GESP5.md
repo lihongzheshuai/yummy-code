@@ -63,6 +63,7 @@
 | luogu-P1303 | 高精度计算 | 高精度 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1303/) |
 | luogu-P1323 | C++六级/五级练习题 删数问题 | 队列 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-6-luogu-p1323/) |
 | luogu-P1387 | C++五级练习 最大正方形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1387/) |
+| luogu-P1605 | GESP五级 / CSP-J 题解：迷宫 | 搜索与回溯 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1605/) |
 | luogu-P1678 | C++五级练习 烦恼的高考志愿 | 二分查找 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1678/) |
 | luogu-P1719 | C++五级/六级练习题 最大加权矩形 | 前缀和 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1719/) |
 | luogu-P1803 | GESP五级 / CSP-J 题解：凌乱的yyy / 线段覆盖 | 贪心 | ★★★☆☆ | ✅ | [查看题解](https://www.coderli.com/gesp-5-luogu-p1803/) |
